@@ -1,0 +1,25 @@
+[
+  {
+    "item_name": "Патроны 12 калибра с нарезами",
+    "class": "Ammo_12gaSlug",
+    "image": "Ammo_12gaSlug.png",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Инструменты грубой работы",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Порох Сокол",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Гвозди",
+        "amount": 10,
+        "kind": "quantity"
+      }
+    ]
+  }
+]

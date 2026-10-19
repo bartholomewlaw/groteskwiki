@@ -1,0 +1,77 @@
+[
+  {
+    "item_name": "Автозарядник",
+    "class": "AmmoReloader",
+    "image": "AmmoReloader.png",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Ящик для патронов",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты грубой работы",
+        "amount": 28,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Медная катушка",
+        "amount": 14,
+        "kind": "quantity"
+      },
+      {
+        "name": "Кусочки пластика",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Слесарная ножовка",
+        "amount": 10,
+        "kind": "quantity"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Аномальный автозарядник",
+    "class": "AmmoReloaderupgrade",
+    "image": "AmmoReloader.png",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Автозарядник",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 20,
+        "kind": "count"
+      }
+    ]
+  }
+]

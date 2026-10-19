@@ -1,0 +1,470 @@
+[
+  {
+    "item_name": "Ангел 'Тир II'",
+    "class": "MF_Artefact_Black_Angelb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ангел 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Батарейка 'Тир II'",
+    "class": "MF_Artefact_Batteryb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Батарейка 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Вспышка 'Тир II'",
+    "class": "MF_Artefact_Vspiskab",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Вспышка 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Выверт 'Тир II'",
+    "class": "MF_Artefact_Vyvertb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Выверт 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Генератор 'Тир II'",
+    "class": "MF_Artefact_Generatorb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Генератор 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Гимлет 'Тир II'",
+    "class": "MF_Artefact_Gimlettb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Гимлет 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Глаз 'Тир II'",
+    "class": "MF_Artefact_Glazb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Глаз 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Грави 'Тир II'",
+    "class": "MF_Artefact_Gravib",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Грави 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Душа 'Тир II'",
+    "class": "MF_Artefact_Dushab",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Душа 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Золотая рыбка 'Тир II'",
+    "class": "MF_Artefact_Ribkab",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Золотая рыбка 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Изолятор 'Тир II'",
+    "class": "MF_Artefact_izolatorb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Изолятор 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Каменный цветок 'Тир II'",
+    "class": "MF_Artefact_StoneFlowerb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Каменный цветок 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Колобок 'Тир II'",
+    "class": "MF_Artefact_Kolobokb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Колобок 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Компасс 'Тир II'",
+    "class": "MF_Artefact_Compassb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Компасс 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Кристалл 'Тир II'",
+    "class": "MF_Artefact_Kristallb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Кристалл 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Кровь камня 'Тир II'",
+    "class": "MF_Artefact_Bloodb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Кровь камня 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Летучая мышь 'Тир II'",
+    "class": "MF_Artefact_Batb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Летучая мышь 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Ломоть мяса 'Тир II'",
+    "class": "MF_Artefact_mysob",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ломоть мяса 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Лунный свет 'Тир II'",
+    "class": "MF_Artefact_Svetb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Лунный свет 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Мамины бусы 'Тир II'",
+    "class": "MF_Artefact_Mamabusb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Мамины бусы 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Маяк 'Тир II'",
+    "class": "MF_Artefact_Lighthousetb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Маяк 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Медальон 'Тир II'",
+    "class": "MF_Artefact_Medallionb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Медальон 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Медуза 'Тир II'",
+    "class": "MF_Artefact_Medusab",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Медуза 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Ночная звезда 'Тир II'",
+    "class": "MF_Artefact_Starb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ночная звезда 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Оазис 'Тир II'",
+    "class": "MF_Artefact_Oasisb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Оазис 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Перстень 'Тир II'",
+    "class": "MF_Artefact_Signetb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Перстень 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Пламя 'Тир II'",
+    "class": "MF_Artefact_Plamyab",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Пламя 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Пузырь 'Тир II'",
+    "class": "MF_Artefact_Puzirb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Пузырь 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Серафим 'Тир II'",
+    "class": "MF_Artefact_Dragunovb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Серафим 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Снежинка 'Тир II'",
+    "class": "MF_Artefact_snejinkab",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Снежинка 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Фантом 'Тир II'",
+    "class": "MF_Artefact_Phantomb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Фантом 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Фонтан 'Тир II'",
+    "class": "MF_Artefact_Fountainb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Фонтан 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Челюсть 'Тир II'",
+    "class": "MF_Artefact_Chelustb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Челюсть 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Череп Скряги 'Тир II'",
+    "class": "MF_Artefact_SkullMiserb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Череп Скряги 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Шар 'Тир II'",
+    "class": "MF_Artefact_Sharb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Шар 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Штурвал 'Тир II'",
+    "class": "MF_Artefact_shturvalb",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Штурвал 'Тир I'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  }
+]

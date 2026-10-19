@@ -1,0 +1,285 @@
+[
+  {
+    "item_name": "Детектор Велес",
+    "class": "MF_Detector_Veles",
+    "image": "MF_Detector_Veles.png",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Детектор Гилка",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Резистор",
+        "amount": 36,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 36,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 36,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 15,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 15,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 15,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Детектор Гилка",
+    "class": "MF_Detector_Gilka",
+    "image": "MF_Detector_Gilka.png",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Детектор Медведь",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Резистор",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 6,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Детектор Медведь",
+    "class": "MF_Detector_Bear",
+    "image": "MF_Detector_Bear.png",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Детектор Отклик",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Резистор",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 1,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Звуковой детектор аномалий Сонар",
+    "class": "MF_Detector_Sonar",
+    "image": "MF_Detector_Sonar.png",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Резистор",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 8,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Портативный детектор",
+    "class": "hNz_SecretDetectore",
+    "image": "CJ_Materials_Circuit_Board.png",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Печатная плата",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты грубой работы",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Медная катушка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Упакованное стекло",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 1,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Эксперементальный научный детектор Сварог",
+    "class": "MF_Detector_Svarog",
+    "image": "MF_Detector_Svarog.png",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Детектор Велес",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Резистор",
+        "amount": 59,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 59,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 59,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 28,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 34,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 36,
+        "kind": "quantity"
+      }
+    ]
+  }
+]

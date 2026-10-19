@@ -1,0 +1,183 @@
+[
+  {
+    "item_name": "Очки ночного видения",
+    "class": "NVGoggles",
+    "image": "NVGoggles.png",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Резистор",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Упакованное стекло",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 2,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Очки ночного видения",
+    "class": "NVGoggles_blue",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Резистор",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Упакованное стекло",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 5,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Очки ночного видения",
+    "class": "NVGoggles_red",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Резистор",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Упакованное стекло",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 5,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Очки ночного видения",
+    "class": "NVGoggles_yellow",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Резистор",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Упакованное стекло",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 5,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ремешок для очков ночного видения",
+    "class": "NVGHeadstrap",
+    "image": "NVGHeadstrap.png",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Черная ткань",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 1,
+        "kind": "quantity"
+      }
+    ]
+  }
+]

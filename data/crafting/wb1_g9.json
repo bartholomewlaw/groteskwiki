@@ -1,0 +1,93 @@
+[
+  {
+    "item_name": "Заводская удочка",
+    "class": "FishingRod",
+    "image": "FishingRod.png",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Короткая палка",
+        "amount": 10,
+        "kind": "quantity"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Леска",
+        "amount": 1,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Нож из нержавеющей стали",
+    "class": "karas_Knifefree",
+    "image": "karas_Knifefree.png",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Инструменты калибровки",
+        "amount": 28,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты грубой работы",
+        "amount": 28,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 28,
+        "kind": "quantity"
+      },
+      {
+        "name": "Медная катушка",
+        "amount": 28,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 28,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Печатная плата",
+    "class": "CJ_Materials_Circuit_Board",
+    "image": "CJ_Materials_Circuit_Board.png",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Резистор",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 1,
+        "kind": "quantity"
+      }
+    ]
+  }
+]

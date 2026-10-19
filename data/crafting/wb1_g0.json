@@ -1,0 +1,685 @@
+[
+  {
+    "item_name": "Кейс-страховка Mk1 (2×2)",
+    "class": "Grotesk_InsuranceCase_1",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Кусочки металлических деталей",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отросток рога Тарка",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 1000,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Кейс-страховка Mk10 (7×6)",
+    "class": "Grotesk_InsuranceCase_10",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Кейс-страховка Mk9 (6×6)",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Улучшенная ткань",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 5,
+        "kind": "count"
+      },
+      {
+        "name": "Большая рука мутированного бюрера",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Большой рог тарка",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 28300,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Кейс-страховка Mk11 (7×7)",
+    "class": "Grotesk_InsuranceCase_11",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Кейс-страховка Mk10 (7×6)",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Улучшенная ткань",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 6,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Рука Псевдогиганта",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Большой коготь лесника",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 41100,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Кейс-страховка Mk12 (8×7)",
+    "class": "Grotesk_InsuranceCase_12",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Кейс-страховка Mk11 (7×7)",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Улучшенная ткань",
+        "amount": 9,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 7,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Рука Псевдогиганта",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Большой коготь лесника",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 59600,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Кейс-страховка Mk13 (8×8)",
+    "class": "Grotesk_InsuranceCase_13",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Кейс-страховка Mk12 (8×7)",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Улучшенная ткань",
+        "amount": 10,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 8,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Рука Псевдогиганта",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Большой коготь лесника",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 86400,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Кейс-страховка Mk14 (9×8)",
+    "class": "Grotesk_InsuranceCase_14",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Кейс-страховка Mk13 (8×8)",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Улучшенная ткань",
+        "amount": 11,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 9,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Рука Псевдогиганта",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Большой коготь лесника",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 125300,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Кейс-страховка Mk15 (9×9)",
+    "class": "Grotesk_InsuranceCase_15",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Кейс-страховка Mk14 (9×8)",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Улучшенная ткань",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 10,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Коготь хозяина леса",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Коготь матери химер",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 181600,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Кейс-страховка Mk16 (10×9)",
+    "class": "Grotesk_InsuranceCase_16",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Кейс-страховка Mk15 (9×9)",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Улучшенная ткань",
+        "amount": 15,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 11,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Коготь хозяина леса",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Коготь матери химер",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 263300,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Кейс-страховка Mk17 (10×10)",
+    "class": "Grotesk_InsuranceCase_17",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Кейс-страховка Mk16 (10×9)",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Улучшенная ткань",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 12,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Коготь хозяина леса",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Коготь матери химер",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 381800,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Кейс-страховка Mk2 (3×2)",
+    "class": "Grotesk_InsuranceCase_2",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Кейс-страховка Mk1 (2×2)",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Кусочки металлических деталей",
+        "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отросток рога Тарка",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 1400,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Кейс-страховка Mk3 (3×3)",
+    "class": "Grotesk_InsuranceCase_3",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Кейс-страховка Mk2 (3×2)",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Кусочки металлических деталей",
+        "amount": 7,
+        "kind": "quantity"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отросток рога Тарка",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 2100,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Кейс-страховка Mk4 (4×3)",
+    "class": "Grotesk_InsuranceCase_4",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Кейс-страховка Mk3 (3×3)",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Кусочки металлических деталей",
+        "amount": 7,
+        "kind": "quantity"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Улучшенная ткань",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Коготь Лесника",
+        "amount": 3,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 3000,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Кейс-страховка Mk5 (4×4)",
+    "class": "Grotesk_InsuranceCase_5",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Кейс-страховка Mk4 (4×3)",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Кусочки металлических деталей",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Улучшенная ткань",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Коготь Лесника",
+        "amount": 3,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 4400,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Кейс-страховка Mk6 (5×4)",
+    "class": "Grotesk_InsuranceCase_6",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Кейс-страховка Mk5 (4×4)",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Кусочки металлических деталей",
+        "amount": 9,
+        "kind": "quantity"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Улучшенная ткань",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Коготь Лесника",
+        "amount": 3,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 6400,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Кейс-страховка Mk7 (5×5)",
+    "class": "Grotesk_InsuranceCase_7",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Кейс-страховка Mk6 (5×4)",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Улучшенная ткань",
+        "amount": 7,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Большая рука мутированного бюрера",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Большой рог тарка",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 9300,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Кейс-страховка Mk8 (6×5)",
+    "class": "Grotesk_InsuranceCase_8",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Кейс-страховка Mk7 (5×5)",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Улучшенная ткань",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 3,
+        "kind": "count"
+      },
+      {
+        "name": "Большая рука мутированного бюрера",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Большой рог тарка",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 13500,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Кейс-страховка Mk9 (6×6)",
+    "class": "Grotesk_InsuranceCase_9",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Кейс-страховка Mk8 (6×5)",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Улучшенная ткань",
+        "amount": 7,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 4,
+        "kind": "count"
+      },
+      {
+        "name": "Большая рука мутированного бюрера",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Большой рог тарка",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 19500,
+        "kind": "quantity"
+      }
+    ]
+  }
+]

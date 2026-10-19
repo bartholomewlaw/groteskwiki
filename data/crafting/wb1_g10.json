@@ -1,0 +1,509 @@
+[
+  {
+    "item_name": "Аномальная броневставка",
+    "class": "Grotesk_ArmorInsert_14",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Экспериментальная броневставка",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 20,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Коготь хозяина леса",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Коготь матери химер",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Большая рука псевдогиганта",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 200000,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Карбидная армированная броневставка",
+    "class": "Grotesk_ArmorInsert_11",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Карбидная броневставка",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 12,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Коготь матери химер",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Большая рука псевдогиганта",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 100000,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Карбидная броневставка",
+    "class": "Grotesk_ArmorInsert_10",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Корундовая армированная броневставка",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 10,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Коготь хозяина леса",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 75000,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Кевларовая броневставка",
+    "class": "Grotesk_ArmorInsert_2",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Кусочки металлических деталей",
+        "amount": 15,
+        "kind": "quantity"
+      },
+      {
+        "name": "Кусочки пластика",
+        "amount": 15,
+        "kind": "quantity"
+      },
+      {
+        "name": "Улучшенная ткань",
+        "amount": 15,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты грубой работы",
+        "amount": 15,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 15,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Керамическая броневставка",
+    "class": "Grotesk_ArmorInsert_4",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Кусочки металлических деталей",
+        "amount": 33,
+        "kind": "quantity"
+      },
+      {
+        "name": "Кусочки пластика",
+        "amount": 33,
+        "kind": "quantity"
+      },
+      {
+        "name": "Улучшенная ткань",
+        "amount": 33,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты грубой работы",
+        "amount": 33,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 33,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Композитная броневставка",
+    "class": "Grotesk_ArmorInsert_5",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Керамическая броневставка",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Улучшенная ткань",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 3,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 10000,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Корундовая армированная броневставка",
+    "class": "Grotesk_ArmorInsert_9",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Корундовая броневставка",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 8,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Большой коготь лесника",
+        "amount": 5,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 55000,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Корундовая броневставка",
+    "class": "Grotesk_ArmorInsert_8",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Титановая усиленная броневставка",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 6,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Рука Псевдогиганта",
+        "amount": 3,
+        "kind": "count"
+      },
+      {
+        "name": "Большой коготь лесника",
+        "amount": 3,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 40000,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Мягкая броневставка",
+    "class": "Grotesk_ArmorInsert_1",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Кусочки металлических деталей",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Кусочки пластика",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Улучшенная ткань",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты грубой работы",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 8,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Полимерная броневставка",
+    "class": "Grotesk_ArmorInsert_12",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Карбидная армированная броневставка",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 14,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Коготь хозяина леса",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Коготь матери химер",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 130000,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Стальная броневставка",
+    "class": "Grotesk_ArmorInsert_3",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Кусочки металлических деталей",
+        "amount": 26,
+        "kind": "quantity"
+      },
+      {
+        "name": "Кусочки пластика",
+        "amount": 26,
+        "kind": "quantity"
+      },
+      {
+        "name": "Улучшенная ткань",
+        "amount": 26,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты грубой работы",
+        "amount": 26,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 26,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Титановая броневставка",
+    "class": "Grotesk_ArmorInsert_6",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Композитная броневставка",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 4,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 15000,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Титановая усиленная броневставка",
+    "class": "Grotesk_ArmorInsert_7",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Титановая броневставка",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 5,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Рука Псевдогиганта",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 25000,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Экспериментальная броневставка",
+    "class": "Grotesk_ArmorInsert_13",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Полимерная броневставка",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 16,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Коготь хозяина леса",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Коготь матери химер",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Большая рука псевдогиганта",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Пачка гривневых банкнот",
+        "amount": 165000,
+        "kind": "quantity"
+      }
+    ]
+  }
+]

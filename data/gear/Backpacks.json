@@ -1,0 +1,469 @@
+[
+  {
+    "name": "Туристический рюкзак",
+    "variants": [
+      {
+        "rank": "Легенда Зоны IV",
+        "description": "Можно надеть с ранга: Легенда Зоны IV.",
+        "slots": [
+          {
+            "vest": 0,
+            "description": "",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 0,
+            "description": "",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 0,
+            "description": "",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 0,
+            "description": "",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "\"Туристический рюкзак\" — Защита от пуль: 0%. Защита от радиации: 0. Вместимость: 42 слотов. Крепления: Ремешок ×2, Крепление для оборудования 1.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 0,
+            "description": "",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 0,
+            "description": "",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 0,
+            "description": "",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 0,
+            "description": "",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 42,
+          "Защита от радиации": 0
+        },
+        "images": [
+          "images/gear/Backpacks/turist/turist_backpack_1.png",
+          "images/gear/Backpacks/turist/turist_backpack_2.png",
+          "images/gear/Backpacks/turist/turist_backpack_3.png",
+          "images/gear/Backpacks/turist/turist_backpack_4.png",
+          "images/gear/Backpacks/turist/turist_backpack_5.png",
+          "images/gear/Backpacks/turist/turist_backpack_6.png",
+          "images/gear/Backpacks/turist/turist_backpack_7.png",
+          "images/gear/Backpacks/turist/turist_backpack_8.png",
+          "images/gear/Backpacks/turist/turist_backpack_9.png",
+          "images/gear/Backpacks/turist/turist_backpack_10.png",
+          "images/gear/Backpacks/turist/turist_backpack_11.png",
+          "images/gear/Backpacks/turist/turist_backpack_12.png",
+          "images/gear/Backpacks/turist/turist_backpack_13.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Рюкзак Купол",
+    "variants": [
+      {
+        "rank": "Легенда Зоны IV",
+        "description": "Можно надеть с ранга: Легенда Зоны IV.",
+        "slots": [
+          {
+            "vest": 0,
+            "description": "",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 0,
+            "description": "",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 0,
+            "description": "",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 0,
+            "description": "",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "\"Рюкзак \"\"Купол\"\" (Закон)\" — Защита от пуль: 0%. Защита от радиации: 0. Вместимость: 70 слотов. Крепления: Ремешок ×2, Фляжка, Крепление для оборудования 1.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 0,
+            "description": "",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 0,
+            "description": "",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 0,
+            "description": "",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 0,
+            "description": "",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 70,
+          "Защита от радиации": 0
+        },
+        "images": [
+          "images/gear/Backpacks/kupol/kupol_backpack_1.png",
+          "images/gear/Backpacks/kupol/kupol_backpack_2.png",
+          "images/gear/Backpacks/kupol/kupol_backpack_3.png",
+          "images/gear/Backpacks/kupol/kupol_backpack_4.png",
+          "images/gear/Backpacks/kupol/kupol_backpack_5.png",
+          "images/gear/Backpacks/kupol/kupol_backpack_6.png",
+          "images/gear/Backpacks/kupol/kupol_backpack_7.png",
+          "images/gear/Backpacks/kupol/kupol_backpack_8.png",
+          "images/gear/Backpacks/kupol/kupol_backpack_9.png",
+          "images/gear/Backpacks/kupol/kupol_backpack_10.png",
+          "images/gear/Backpacks/kupol/kupol_backpack_11.png",
+          "images/gear/Backpacks/kupol/kupol_backpack_12.png",
+          "images/gear/Backpacks/kupol/kupol_backpack_13.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Экзоскелет I образца",
+    "variants": [
+      {
+        "rank": "Тир I",
+        "description": "Можно надеть с ранга: Ветеран.",
+        "slots": [
+          {
+            "backpack": 1,
+            "description": "Экзоскелет Первого образца — Защита от пуль: 92%. Защита от радиации: 0. Вместимость: 500 слотов. Крепления: Модуль снижения отдачи, Инъектор.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Кол-во слотов": 500,
+          "Защита от радиации": 0
+        },
+        "images": [
+          "images/gear/Backpacks/exo/exo_obraz_1_1.png",
+          "images/gear/Backpacks/exo/exo_obraz_1_2.png"
+        ]
+      },
+      {
+        "rank": "Тир II",
+        "description": "Можно надеть с ранга: Ветеран.",
+        "slots": [
+          {
+            "backpack": 1,
+            "description": "Экзоскелет Второго образца — Защита от пуль: 92%. Защита от радиации: 0. Вместимость: 750 слотов. Крепления: Модуль снижения отдачи, Инъектор. Активные артефакты: 2.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Кол-во слотов": 750,
+          "Защита от радиации": 0
+        },
+        "images": [
+          "images/gear/Backpacks/exo/exo_obraz_1_1.png",
+          "images/gear/Backpacks/exo/exo_obraz_1_2.png"
+        ]
+      },
+      {
+        "rank": "Тир III",
+        "description": "Можно надеть с ранга: Ветеран.",
+        "slots": [
+          {
+            "backpack": 1,
+            "description": "Экзоскелет Третьего образца — Защита от пуль: 92%. Защита от радиации: 0. Вместимость: 1000 слотов. Крепления: Модуль снижения отдачи, Инъектор. Активные артефакты: 5.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Кол-во слотов": 1000,
+          "Защита от радиации": 0
+        },
+        "images": [
+          "images/gear/Backpacks/exo/exo_obraz_1_1.png",
+          "images/gear/Backpacks/exo/exo_obraz_1_2.png"
+        ]
+      },
+      {
+        "rank": "Тир IV",
+        "description": "Можно надеть с ранга: Ветеран.",
+        "slots": [
+          {
+            "backpack": 1,
+            "description": "Экзоскелет Четвёртого образца — Защита от пуль: 92%. Защита от радиации: 0. Вместимость: 1000 слотов. Крепления: Модуль снижения отдачи, Инъектор. Активные артефакты: 5.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Кол-во слотов": 1000,
+          "Защита от радиации": 0
+        },
+        "images": [
+          "images/gear/Backpacks/exo/exo_obraz_1_1.png",
+          "images/gear/Backpacks/exo/exo_obraz_1_2.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Экзоскелет II образца",
+    "variants": [
+      {
+        "rank": "Тир I",
+        "description": "Можно надеть с ранга: Ветеран.",
+        "slots": [
+          {
+            "backpack": 1,
+            "description": "Экзоскелет Первого образца — Защита от пуль: 92%. Защита от радиации: 0. Вместимость: 500 слотов. Крепления: Модуль снижения отдачи, Инъектор.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Кол-во слотов": 500,
+          "Защита от радиации": 0
+        },
+        "images": [
+          "images/gear/Backpacks/exo/exo_obraz_2_1.png",
+          "images/gear/Backpacks/exo/exo_obraz_2_2.png"
+        ]
+      },
+      {
+        "rank": "Тир II",
+        "description": "Можно надеть с ранга: Ветеран.",
+        "slots": [
+          {
+            "backpack": 1,
+            "description": "Экзоскелет Второго образца — Защита от пуль: 92%. Защита от радиации: 0. Вместимость: 750 слотов. Крепления: Модуль снижения отдачи, Инъектор. Активные артефакты: 2.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Кол-во слотов": 750,
+          "Защита от радиации": 0
+        },
+        "images": [
+          "images/gear/Backpacks/exo/exo_obraz_2_1.png",
+          "images/gear/Backpacks/exo/exo_obraz_2_2.png"
+        ]
+      },
+      {
+        "rank": "Тир III",
+        "description": "Можно надеть с ранга: Ветеран.",
+        "slots": [
+          {
+            "backpack": 1,
+            "description": "Экзоскелет Третьего образца — Защита от пуль: 92%. Защита от радиации: 0. Вместимость: 1000 слотов. Крепления: Модуль снижения отдачи, Инъектор. Активные артефакты: 5.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Кол-во слотов": 1000,
+          "Защита от радиации": 0
+        },
+        "images": [
+          "images/gear/Backpacks/exo/exo_obraz_2_1.png",
+          "images/gear/Backpacks/exo/exo_obraz_2_2.png"
+        ]
+      },
+      {
+        "rank": "Тир IV",
+        "description": "Можно надеть с ранга: Ветеран.",
+        "slots": [
+          {
+            "backpack": 1,
+            "description": "Экзоскелет Четвёртого образца — Защита от пуль: 92%. Защита от радиации: 0. Вместимость: 1000 слотов. Крепления: Модуль снижения отдачи, Инъектор. Активные артефакты: 5.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Кол-во слотов": 1000,
+          "Защита от радиации": 0
+        },
+        "images": [
+          "images/gear/Backpacks/exo/exo_obraz_2_1.png",
+          "images/gear/Backpacks/exo/exo_obraz_2_2.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Экзоскелет Ратник",
+    "variants": [
+      {
+        "rank": "Тир I",
+        "description": "Можно надеть с ранга: Ветеран.",
+        "slots": [
+          {
+            "backpack": 1,
+            "description": "Экзоскелет Ратник Первого образца — Защита от пуль: 92%. Защита от радиации: 0. Вместимость: 500 слотов. Крепления: Модуль снижения отдачи, Инъектор.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Кол-во слотов": 500,
+          "Защита от радиации": 0
+        },
+        "images": [
+          "images/gear/Backpacks/exo/exo_ratnik_1.png",
+          "images/gear/Backpacks/exo/exo_ratnik_2.png"
+        ]
+      },
+      {
+        "rank": "Тир II",
+        "description": "Можно надеть с ранга: Ветеран.",
+        "slots": [
+          {
+            "backpack": 1,
+            "description": "Экзоскелет Ратник Второго образца — Защита от пуль: 92%. Защита от радиации: 0. Вместимость: 750 слотов. Крепления: Модуль снижения отдачи, Инъектор. Активные артефакты: 2.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Кол-во слотов": 750,
+          "Защита от радиации": 0
+        },
+        "images": [
+          "images/gear/Backpacks/exo/exo_ratnik_1.png",
+          "images/gear/Backpacks/exo/exo_ratnik_2.png"
+        ]
+      },
+      {
+        "rank": "Тир III",
+        "description": "Можно надеть с ранга: Ветеран.",
+        "slots": [
+          {
+            "backpack": 1,
+            "description": "Экзоскелет Ратник Третьего образца — Защита от пуль: 92%. Защита от радиации: 0. Вместимость: 1000 слотов. Крепления: Модуль снижения отдачи, Инъектор. Активные артефакты: 5.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Кол-во слотов": 1000,
+          "Защита от радиации": 0
+        },
+        "images": [
+          "images/gear/Backpacks/exo/exo_ratnik_1.png",
+          "images/gear/Backpacks/exo/exo_ratnik_2.png"
+        ]
+      },
+      {
+        "rank": "Тир IV",
+        "description": "Можно надеть с ранга: Ветеран.",
+        "slots": [
+          {
+            "backpack": 1,
+            "description": "Экзоскелет Ратник Четвёртого образца — Защита от пуль: 92%. Защита от радиации: 0. Вместимость: 1000 слотов. Крепления: Модуль снижения отдачи, Инъектор. Активные артефакты: 5.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Кол-во слотов": 1000,
+          "Защита от радиации": 0
+        },
+        "images": [
+          "images/gear/Backpacks/exo/exo_ratnik_1.png",
+          "images/gear/Backpacks/exo/exo_ratnik_2.png"
+        ]
+      }
+    ]
+  }
+]

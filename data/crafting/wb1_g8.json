@@ -1,0 +1,133 @@
+[
+  {
+    "item_name": "Ящик для хранения 20-ти частей мутантов",
+    "class": "BoxMutants20",
+    "image": "BoxMutants.png",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ящик для хранения 10-ти частей мутантов",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты грубой работы",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Кусочки пластика",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 1,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ящик для хранения 30-ти частей мутантов",
+    "class": "BoxMutants30",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ящик для хранения 20-ти частей мутантов",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты грубой работы",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Кусочки пластика",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 1,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ящик для хранения 50-ти частей мутантов",
+    "class": "BoxMutants50",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Ящик для хранения 30-ти частей мутантов",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты грубой работы",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Кусочки пластика",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 2,
+        "kind": "quantity"
+      }
+    ]
+  }
+]

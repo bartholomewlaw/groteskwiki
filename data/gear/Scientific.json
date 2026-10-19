@@ -1,0 +1,1904 @@
+[
+  {
+    "name": "ОЗК-Л5",
+    "variants": [
+      {
+        "rank": "Обычный",
+        "description": "Без ограничений по рангу.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Жилет ОЗК-Л5 \"Поисковик\" — Защита от пуль: 8%. Защита от радиации: 0. Вместимость: 0 слотов. Крепления: Поясной подсумок, Ременной подсумок 1, Ножны, Крепление для оборудования 1, Крепление для оборудования 2, Ремешок.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Плащ ОЗК-Л5 \"Поисковик\" — Защита от пуль: 8%. Защита от радиации: 0. Вместимость: 25 слотов. Крепления: Шеврон левый, Шеврон правый. Слот под броневставку.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 0,
+            "description": "",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 0,
+            "description": "",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 0,
+            "description": "",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 0,
+            "description": "",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 0,
+            "description": "",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 0,
+            "description": "",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки ОЗК-Л5 \"Поисковик\" — Защита от пуль: 15%. Защита от радиации: 0. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 25,
+          "Защита от пуль, торс": "15%",
+          "Защита от пуль, голова": "0%",
+          "Защита от пуль, ноги": "0%",
+          "Защита от радиации": 0
+        },
+        "images": [
+          "images/gear/science/OZK_L5/OZK_L5_1.png",
+          "images/gear/science/OZK_L5/OZK_L5_2.png",
+          "images/gear/science/OZK_L5/OZK_L5_3.png",
+          "images/gear/science/OZK_L5/OZK_L5_4.png",
+          "images/gear/science/OZK_L5/OZK_L5_5.png",
+          "images/gear/science/OZK_L5/OZK_L5_6.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Биохазард",
+    "variants": [
+      {
+        "rank": "Обычный",
+        "description": "Можно надеть с ранга: Сталкер.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет Biohazard — Защита от пуль: 26%. Защита от радиации: 105. Вместимость: 230 слотов. Крепления: Магазин ×5.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка Biohazard — Защита от пуль: 26%. Защита от радиации: 175. Вместимость: 350 слотов. Слот под броневставку. Активные артефакты: 7.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ременная система Biohazard — Защита от пуль: 60%. Защита от радиации: 57. Вместимость: 700 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны Biohazard — Защита от пуль: 45%. Защита от радиации: 105. Вместимость: 350 слотов.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Ранцевый баллон Biohazard — Защита от пуль: 60%. Защита от радиации: 0. Вместимость: 350 слотов. Крепления: Руки ×2, Shoulder2, Shoulder3.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Капюшон Biohazard — Защита от пуль: 26%. Защита от радиации: 70. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз Biohazard — Защита от пуль: 16%. Защита от радиации: 80. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Biohazard gloves — Защита от пуль: 45%. Защита от радиации: 52. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки Biohazard — Защита от пуль: 45%. Защита от радиации: 52. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 1980,
+          "Защита от пуль, торс": "45%",
+          "Защита от пуль, голова": "38%",
+          "Защита от пуль, ноги": "45%",
+          "Защита от радиации": 696,
+          "Активные артефакты": 17
+        },
+        "images": [
+          "images/gear/science/Biohazard/Biohazard_1.png",
+          "images/gear/science/Biohazard/Biohazard_2.png",
+          "images/gear/science/Biohazard/Biohazard_3.png"
+        ]
+      },
+      {
+        "rank": "Легенда III",
+        "description": "Можно надеть с ранга: Легенда Зоны II.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет Biohazard — Защита от пуль: 33%. Защита от радиации: 180. Вместимость: 230 слотов. Крепления: Магазин ×8.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка Biohazard — Защита от пуль: 33%. Защита от радиации: 300. Вместимость: 350 слотов. Слот под броневставку. Активные артефакты: 9.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ременная система Biohazard — Защита от пуль: 70%. Защита от радиации: 80. Вместимость: 700 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны Biohazard — Защита от пуль: 55%. Защита от радиации: 180. Вместимость: 350 слотов.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Ранцевый баллон Biohazard — Защита от пуль: 70%. Защита от радиации: 0. Вместимость: 350 слотов. Крепления: Руки ×2, Shoulder2, Shoulder3, Shoulder4, Shoulder5, Shoulder6, Shoulder7.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Капюшон Biohazard — Защита от пуль: 33%. Защита от радиации: 120. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз Biohazard — Защита от пуль: 33%. Защита от радиации: 240. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Biohazard gloves — Защита от пуль: 55%. Защита от радиации: 90. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки Biohazard — Защита от пуль: 55%. Защита от радиации: 90. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 1980,
+          "Защита от пуль, торс": "55%",
+          "Защита от пуль, голова": "55%",
+          "Защита от пуль, ноги": "55%",
+          "Защита от радиации": 1280,
+          "Активные артефакты": 19
+        },
+        "images": [
+          "images/gear/science/Biohazard/Biohazard_1.png",
+          "images/gear/science/Biohazard/Biohazard_2.png",
+          "images/gear/science/Biohazard/Biohazard_3.png"
+        ]
+      },
+      {
+        "rank": "Легенда X",
+        "description": "Можно надеть с ранга: Легенда Зоны III.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет Biohazard — Защита от пуль: 33%. Защита от радиации: 180. Вместимость: 230 слотов. Крепления: Магазин ×8.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка Biohazard — Защита от пуль: 33%. Защита от радиации: 300. Вместимость: 350 слотов. Слот под броневставку. Активные артефакты: 10.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ременная система Biohazard — Защита от пуль: 85%. Защита от радиации: 115. Вместимость: 700 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны Biohazard — Защита от пуль: 55%. Защита от радиации: 180. Вместимость: 350 слотов.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Ранцевый баллон Biohazard — Защита от пуль: 85%. Защита от радиации: 0. Вместимость: 350 слотов. Крепления: Руки ×2, Shoulder2, Shoulder3, Shoulder4, Shoulder5, Shoulder6, Shoulder7.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Капюшон Biohazard — Защита от пуль: 33%. Защита от радиации: 120. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз Biohazard — Защита от пуль: 33%. Защита от радиации: 240. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Biohazard gloves — Защита от пуль: 55%. Защита от радиации: 90. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки Biohazard — Защита от пуль: 55%. Защита от радиации: 90. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 1980,
+          "Защита от пуль, торс": "55%",
+          "Защита от пуль, голова": "55%",
+          "Защита от пуль, ноги": "55%",
+          "Защита от радиации": 1315,
+          "Активные артефакты": 20
+        },
+        "images": [
+          "images/gear/science/Biohazard/Biohazard_1.png",
+          "images/gear/science/Biohazard/Biohazard_2.png",
+          "images/gear/science/Biohazard/Biohazard_3.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Тайга",
+    "variants": [
+      {
+        "rank": "Обычный",
+        "description": "Можно надеть с ранга: Ветеран.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет Тайги — Защита от пуль: 26%. Защита от радиации: 105. Вместимость: 230 слотов. Крепления: Магазин ×5.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка Тайги — Защита от пуль: 26%. Защита от радиации: 175. Вместимость: 350 слотов. Слот под броневставку. Активные артефакты: 7.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ремень Тайги — Защита от пуль: 60%. Защита от радиации: 65. Вместимость: 700 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны Тайги — Защита от пуль: 45%. Защита от радиации: 105. Вместимость: 350 слотов.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Рюкзак Тайги — Защита от пуль: 60%. Защита от радиации: 0. Вместимость: 350 слотов. Крепления: Руки ×2, Shoulder2, Shoulder3.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 0,
+            "description": "",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз Тайги — Защита от пуль: 26%. Защита от радиации: 140. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки Тайги — Защита от пуль: 45%. Защита от радиации: 52. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки Тайги — Защита от пуль: 45%. Защита от радиации: 52. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 1980,
+          "Защита от пуль, торс": "45%",
+          "Защита от пуль, голова": "26%",
+          "Защита от пуль, ноги": "45%",
+          "Защита от радиации": 694,
+          "Активные артефакты": 17
+        },
+        "images": [
+          "images/gear/science/Taiga/Taiga_1.png",
+          "images/gear/science/Taiga/Taiga_2.png",
+          "images/gear/science/Taiga/Taiga_3.png",
+          "images/gear/science/Taiga/Taiga_4.png",
+          "images/gear/science/Taiga/Taiga_5.png",
+          "images/gear/science/Taiga/Taiga_6.png",
+          "images/gear/science/Taiga/Taiga_7.png",
+          "images/gear/science/Taiga/Taiga_8.png",
+          "images/gear/science/Taiga/Taiga_9.png",
+          "images/gear/science/Taiga/Taiga_10.png",
+          "images/gear/science/Taiga/Taiga_11.png"
+        ]
+      },
+      {
+        "rank": "Улучшенный I",
+        "description": "Можно надеть с ранга: Ветеран.",
+        "slots": [
+          {
+            "vest": 0,
+            "description": "",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка Тайги — Защита от пуль: 26%. Защита от радиации: 175. Вместимость: 350 слотов. Слот под броневставку. Активные артефакты: 8.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 0,
+            "description": "",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 0,
+            "description": "",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 0,
+            "description": "",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 0,
+            "description": "",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 0,
+            "description": "",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 0,
+            "description": "",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 0,
+            "description": "",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 350,
+          "Защита от пуль, торс": "26%",
+          "Защита от пуль, голова": "0%",
+          "Защита от пуль, ноги": "0%",
+          "Защита от радиации": 175,
+          "Активные артефакты": 8
+        },
+        "images": [
+          "images/gear/science/Taiga/Taiga_1.png",
+          "images/gear/science/Taiga/Taiga_2.png",
+          "images/gear/science/Taiga/Taiga_3.png",
+          "images/gear/science/Taiga/Taiga_4.png",
+          "images/gear/science/Taiga/Taiga_5.png",
+          "images/gear/science/Taiga/Taiga_6.png",
+          "images/gear/science/Taiga/Taiga_7.png",
+          "images/gear/science/Taiga/Taiga_8.png",
+          "images/gear/science/Taiga/Taiga_9.png",
+          "images/gear/science/Taiga/Taiga_10.png",
+          "images/gear/science/Taiga/Taiga_11.png"
+        ]
+      },
+      {
+        "rank": "Улучшенный II",
+        "description": "Можно надеть с ранга: Ветеран.",
+        "slots": [
+          {
+            "vest": 0,
+            "description": "",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка Тайги — Защита от пуль: 26%. Защита от радиации: 175. Вместимость: 350 слотов. Слот под броневставку. Активные артефакты: 9.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 0,
+            "description": "",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 0,
+            "description": "",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 0,
+            "description": "",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 0,
+            "description": "",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 0,
+            "description": "",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 0,
+            "description": "",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 0,
+            "description": "",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 350,
+          "Защита от пуль, торс": "26%",
+          "Защита от пуль, голова": "0%",
+          "Защита от пуль, ноги": "0%",
+          "Защита от радиации": 175,
+          "Активные артефакты": 9
+        },
+        "images": [
+          "images/gear/science/Taiga/Taiga_1.png",
+          "images/gear/science/Taiga/Taiga_2.png",
+          "images/gear/science/Taiga/Taiga_3.png",
+          "images/gear/science/Taiga/Taiga_4.png",
+          "images/gear/science/Taiga/Taiga_5.png",
+          "images/gear/science/Taiga/Taiga_6.png",
+          "images/gear/science/Taiga/Taiga_7.png",
+          "images/gear/science/Taiga/Taiga_8.png",
+          "images/gear/science/Taiga/Taiga_9.png",
+          "images/gear/science/Taiga/Taiga_10.png",
+          "images/gear/science/Taiga/Taiga_11.png"
+        ]
+      },
+      {
+        "rank": "Легенда III",
+        "description": "Можно надеть с ранга: Легенда Зоны II.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет Тайги — Защита от пуль: 33%. Защита от радиации: 180. Вместимость: 230 слотов. Крепления: Магазин ×8.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка Тайги — Защита от пуль: 33%. Защита от радиации: 300. Вместимость: 350 слотов. Слот под броневставку. Активные артефакты: 9.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ремень Тайги — Защита от пуль: 70%. Защита от радиации: 86. Вместимость: 700 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны Тайги — Защита от пуль: 55%. Защита от радиации: 180. Вместимость: 350 слотов.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Рюкзак Тайги — Защита от пуль: 70%. Защита от радиации: 0. Вместимость: 350 слотов. Крепления: Руки ×2, Shoulder2, Shoulder3, Shoulder4, Shoulder5, Shoulder6, Shoulder7.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 0,
+            "description": "",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз Тайги — Защита от пуль: 33%. Защита от радиации: 240. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки Тайги — Защита от пуль: 55%. Защита от радиации: 90. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки Тайги — Защита от пуль: 55%. Защита от радиации: 90. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 1980,
+          "Защита от пуль, торс": "55%",
+          "Защита от пуль, голова": "33%",
+          "Защита от пуль, ноги": "55%",
+          "Защита от радиации": 1166,
+          "Активные артефакты": 19
+        },
+        "images": [
+          "images/gear/science/Taiga/Taiga_1.png",
+          "images/gear/science/Taiga/Taiga_2.png",
+          "images/gear/science/Taiga/Taiga_3.png",
+          "images/gear/science/Taiga/Taiga_4.png",
+          "images/gear/science/Taiga/Taiga_5.png",
+          "images/gear/science/Taiga/Taiga_6.png",
+          "images/gear/science/Taiga/Taiga_7.png",
+          "images/gear/science/Taiga/Taiga_8.png",
+          "images/gear/science/Taiga/Taiga_9.png",
+          "images/gear/science/Taiga/Taiga_10.png",
+          "images/gear/science/Taiga/Taiga_11.png"
+        ]
+      },
+      {
+        "rank": "Легенда X",
+        "description": "Можно надеть с ранга: Легенда Зоны V.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет Тайги — Защита от пуль: 41%. Защита от радиации: 300. Вместимость: 230 слотов. Крепления: Магазин ×8.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка Тайги — Защита от пуль: 41%. Защита от радиации: 500. Вместимость: 350 слотов. Слот под броневставку. Активные артефакты: 10.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ремень Тайги — Защита от пуль: 70%. Защита от радиации: 115. Вместимость: 700 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны Тайги — Защита от пуль: 65%. Защита от радиации: 300. Вместимость: 350 слотов.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Рюкзак Тайги — Защита от пуль: 85%. Защита от радиации: 0. Вместимость: 350 слотов. Крепления: Руки ×2, Shoulder2, Shoulder3, Shoulder4, Shoulder5, Shoulder6, Shoulder7.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 0,
+            "description": "",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз Тайги — Защита от пуль: 41%. Защита от радиации: 400. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки Тайги — Защита от пуль: 65%. Защита от радиации: 150. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки Тайги — Защита от пуль: 65%. Защита от радиации: 150. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 1980,
+          "Защита от пуль, торс": "65%",
+          "Защита от пуль, голова": "41%",
+          "Защита от пуль, ноги": "65%",
+          "Защита от радиации": 1915,
+          "Активные артефакты": 20
+        },
+        "images": [
+          "images/gear/science/Taiga/Taiga_1.png",
+          "images/gear/science/Taiga/Taiga_2.png",
+          "images/gear/science/Taiga/Taiga_3.png",
+          "images/gear/science/Taiga/Taiga_4.png",
+          "images/gear/science/Taiga/Taiga_5.png",
+          "images/gear/science/Taiga/Taiga_6.png",
+          "images/gear/science/Taiga/Taiga_7.png",
+          "images/gear/science/Taiga/Taiga_8.png",
+          "images/gear/science/Taiga/Taiga_9.png",
+          "images/gear/science/Taiga/Taiga_10.png",
+          "images/gear/science/Taiga/Taiga_11.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ред Деад",
+    "variants": [
+      {
+        "rank": "Обычный",
+        "description": "Можно надеть с ранга: Ветеран.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет Red Death — Защита от пуль: 26%. Защита от радиации: 105. Вместимость: 230 слотов. Крепления: Магазин ×5.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка Red Death — Защита от пуль: 26%. Защита от радиации: 175. Вместимость: 350 слотов. Слот под броневставку. Активные артефакты: 7.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 0,
+            "description": "",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны Red Death — Защита от пуль: 45%. Защита от радиации: 105. Вместимость: 350 слотов.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Рюкзак Red Death — Защита от пуль: 60%. Защита от радиации: 0. Вместимость: 350 слотов. Крепления: Руки ×2, Shoulder2, Shoulder3.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 0,
+            "description": "",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз Red Death — Защита от пуль: 26%. Защита от радиации: 140. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки Red Death — Защита от пуль: 45%. Защита от радиации: 52. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки Red Death — Защита от пуль: 45%. Защита от радиации: 52. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 1280,
+          "Защита от пуль, торс": "45%",
+          "Защита от пуль, голова": "26%",
+          "Защита от пуль, ноги": "45%",
+          "Защита от радиации": 629,
+          "Активные артефакты": 7
+        },
+        "images": [
+          "images/gear/science/Red/Red_1.png"
+        ]
+      },
+      {
+        "rank": "Легенда III",
+        "description": "Можно надеть с ранга: Легенда Зоны II.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет Red Death — Защита от пуль: 33%. Защита от радиации: 180. Вместимость: 230 слотов. Крепления: Магазин ×8.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка Red Death — Защита от пуль: 33%. Защита от радиации: 300. Вместимость: 350 слотов. Слот под броневставку. Активные артефакты: 9.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 0,
+            "description": "",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны Red Death — Защита от пуль: 55%. Защита от радиации: 180. Вместимость: 350 слотов.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Рюкзак Red Death — Защита от пуль: 70%. Защита от радиации: 0. Вместимость: 350 слотов. Крепления: Руки ×2, Shoulder2, Shoulder3, Shoulder4, Shoulder5, Shoulder6, Shoulder7.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 0,
+            "description": "",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз Red Death — Защита от пуль: 33%. Защита от радиации: 240. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки Red Death — Защита от пуль: 55%. Защита от радиации: 90. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки Red Death — Защита от пуль: 55%. Защита от радиации: 90. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 1280,
+          "Защита от пуль, торс": "55%",
+          "Защита от пуль, голова": "33%",
+          "Защита от пуль, ноги": "55%",
+          "Защита от радиации": 1080,
+          "Активные артефакты": 9
+        },
+        "images": [
+          "images/gear/science/Red/Red_1.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Мирбек",
+    "variants": [
+      {
+        "rank": "Обычный",
+        "description": "Можно надеть с ранга: Легенда Зоны II.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет комплекта хим.защиты Mirbek — Защита от пуль: 33%. Защита от радиации: 180. Вместимость: 230 слотов. Крепления: Pocket A, Pocket B, Pocket Mag A, Pocket Mag B, Pocket Mag C.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка комплекта хим.защиты Mirbek — Защита от пуль: 33%. Защита от радиации: 300. Вместимость: 350 слотов. Слот под броневставку. Активные артефакты: 9.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Пояс комплекта хим.защиты Mirbek — Защита от пуль: 70%. Защита от радиации: 80. Вместимость: 700 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны комплекта хим.защиты Mirbek — Защита от пуль: 55%. Защита от радиации: 180. Вместимость: 350 слотов.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 0,
+            "description": "",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Шлем комплекта хим.защиты Mirbek — Защита от пуль: 33%. Защита от радиации: 120. Вместимость: 0 слотов. Крепления: Очки ночн. видения.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз комплекта хим.защиты Mirbek — Защита от пуль: 33%. Защита от радиации: 240. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Краги комплекта хим.защиты Mirbek — Защита от пуль: 55%. Защита от радиации: 90. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки комплекта хим.защиты Mirbek — Защита от пуль: 55%. Защита от радиации: 90. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 1630,
+          "Защита от пуль, торс": "55%",
+          "Защита от пуль, голова": "55%",
+          "Защита от пуль, ноги": "55%",
+          "Защита от радиации": 1280,
+          "Активные артефакты": 19
+        },
+        "images": [
+          "images/gear/science/Mirbek/Mirbek_1.png",
+          "images/gear/science/Mirbek/Mirbek_2.png",
+          "images/gear/science/Mirbek/Mirbek_3.png",
+          "images/gear/science/Mirbek/Mirbek_4.png"
+        ]
+      },
+      {
+        "rank": "Легенда X",
+        "description": "Можно надеть с ранга: Легенда Зоны III.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет комплекта хим.защиты Mirbek — Защита от пуль: 33%. Защита от радиации: 180. Вместимость: 230 слотов. Крепления: Pocket A, Pocket B, Pocket Mag A, Pocket Mag B, Pocket Mag C.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка комплекта хим.защиты Mirbek — Защита от пуль: 33%. Защита от радиации: 300. Вместимость: 350 слотов. Слот под броневставку. Активные артефакты: 10.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Пояс комплекта хим.защиты Mirbek — Защита от пуль: 80%. Защита от радиации: 115. Вместимость: 700 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны комплекта хим.защиты Mirbek — Защита от пуль: 55%. Защита от радиации: 180. Вместимость: 350 слотов.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 0,
+            "description": "",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Шлем комплекта хим.защиты Mirbek — Защита от пуль: 33%. Защита от радиации: 120. Вместимость: 0 слотов. Крепления: Очки ночн. видения.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз комплекта хим.защиты Mirbek — Защита от пуль: 33%. Защита от радиации: 240. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Краги комплекта хим.защиты Mirbek — Защита от пуль: 55%. Защита от радиации: 90. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки комплекта хим.защиты Mirbek — Защита от пуль: 55%. Защита от радиации: 90. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 1630,
+          "Защита от пуль, торс": "55%",
+          "Защита от пуль, голова": "55%",
+          "Защита от пуль, ноги": "55%",
+          "Защита от радиации": 1315,
+          "Активные артефакты": 20
+        },
+        "images": [
+          "images/gear/science/Mirbek/Mirbek_1.png",
+          "images/gear/science/Mirbek/Mirbek_2.png",
+          "images/gear/science/Mirbek/Mirbek_3.png",
+          "images/gear/science/Mirbek/Mirbek_4.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Сева",
+    "variants": [
+      {
+        "rank": "Обычный",
+        "description": "Можно надеть с ранга: Легенда Зоны IV.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет 'Сева-1' — Защита от пуль: 41%. Защита от радиации: 300. Вместимость: 230 слотов. Крепления: Подсумок, Магазин ×8.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка 'Сева-1' — Защита от пуль: 41%. Защита от радиации: 500. Вместимость: 350 слотов. Слот под броневставку. Активные артефакты: 10.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ремень 'Сева-1' — Защита от пуль: 70%. Защита от радиации: 115. Вместимость: 700 слотов. Крепления: Кобура, Ножны, Фляжка. Активные артефакты: 10.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны 'Сева-1' — Защита от пуль: 65%. Защита от радиации: 300. Вместимость: 350 слотов.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Рюкзак 'Сева-1' — Защита от пуль: 70%. Защита от радиации: 0. Вместимость: 350 слотов. Крепления: Ремешок, Руки ×2, Shoulder2, Shoulder3, Shoulder4, Shoulder5, Shoulder6, Shoulder7.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Самоспасатель 'Сева-1' — Защита от пуль: 41%. Защита от радиации: 200. Вместимость: 0 слотов. Крепления: Очки ночн. видения.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 0,
+            "description": "",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки 'Сева-1' — Защита от пуль: 65%. Защита от радиации: 150. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки 'Сева-1' — Защита от пуль: 65%. Защита от радиации: 150. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 1980,
+          "Защита от пуль, торс": "65%",
+          "Защита от пуль, голова": "41%",
+          "Защита от пуль, ноги": "65%",
+          "Защита от радиации": 1715,
+          "Активные артефакты": 20
+        },
+        "images": [
+          "images/gear/science/KS_seva/KS_seva_1.png",
+          "images/gear/science/KS_seva/KS_seva_2.png",
+          "images/gear/science/KS_seva/KS_seva_3.png",
+          "images/gear/science/KS_seva/KS_seva_4.png",
+          "images/gear/science/KS_seva/KS_seva_5.png",
+          "images/gear/science/KS_seva/KS_seva_6.png",
+          "images/gear/science/KS_seva/KS_seva_7.png",
+          "images/gear/science/KS_seva/KS_seva_8.png",
+          "images/gear/science/KS_seva/KS_seva_9.png",
+          "images/gear/science/KS_seva/KS_seva_10.png",
+          "images/gear/science/KS_seva/KS_seva_11.png"
+        ]
+      },
+      {
+        "rank": "Легенда III",
+        "description": "Можно надеть с ранга: Легенда Зоны II.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет 'Сева-1' — Защита от пуль: 33%. Защита от радиации: 180. Вместимость: 230 слотов. Крепления: Подсумок, Магазин ×8.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка 'Сева-1' — Защита от пуль: 33%. Защита от радиации: 300. Вместимость: 350 слотов. Слот под броневставку. Активные артефакты: 9.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ремень 'Сева-1' — Защита от пуль: 80%. Защита от радиации: 86. Вместимость: 700 слотов. Крепления: Кобура, Ножны, Фляжка. Активные артефакты: 10.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны 'Сева-1' — Защита от пуль: 55%. Защита от радиации: 180. Вместимость: 350 слотов.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Рюкзак 'Сева-1' — Защита от пуль: 80%. Защита от радиации: 0. Вместимость: 350 слотов. Крепления: Ремешок, Руки ×2, Shoulder2, Shoulder3, Shoulder4, Shoulder5, Shoulder6, Shoulder7.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Самоспасатель 'Сева-1' — Защита от пуль: 33%. Защита от радиации: 120. Вместимость: 0 слотов. Крепления: Очки ночн. видения.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 0,
+            "description": "",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки 'Сева-1' — Защита от пуль: 55%. Защита от радиации: 90. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки 'Сева-1' — Защита от пуль: 55%. Защита от радиации: 90. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 1980,
+          "Защита от пуль, торс": "55%",
+          "Защита от пуль, голова": "33%",
+          "Защита от пуль, ноги": "55%",
+          "Защита от радиации": 1046,
+          "Активные артефакты": 19
+        },
+        "images": [
+          "images/gear/science/KS_seva/KS_seva_1.png",
+          "images/gear/science/KS_seva/KS_seva_2.png",
+          "images/gear/science/KS_seva/KS_seva_3.png",
+          "images/gear/science/KS_seva/KS_seva_4.png",
+          "images/gear/science/KS_seva/KS_seva_5.png",
+          "images/gear/science/KS_seva/KS_seva_6.png",
+          "images/gear/science/KS_seva/KS_seva_7.png",
+          "images/gear/science/KS_seva/KS_seva_8.png",
+          "images/gear/science/KS_seva/KS_seva_9.png",
+          "images/gear/science/KS_seva/KS_seva_10.png",
+          "images/gear/science/KS_seva/KS_seva_11.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ИПК 99/99М",
+    "variants": [
+      {
+        "rank": "Легенда Зоны X",
+        "description": "Можно надеть с ранга: Легенда Зоны X.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Жилет ИПК-99 \"Зоолог\" — Защита от пуль: 41%. Защита от радиации: 300. Вместимость: 12 слотов. Крепления: Шеврон левый.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка ИПК-99 \"Зоолог\" — Защита от пуль: 41%. Защита от радиации: 500. Вместимость: 20 слотов. Слот под броневставку. Активные артефакты: 10.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 0,
+            "description": "",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны ИПК-99 \"Зоолог\" — Защита от пуль: 65%. Защита от радиации: 300. Вместимость: 20 слотов.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Рюкзак ИПК-99 \"Зоолог\" — Защита от пуль: 0%. Защита от радиации: 0. Вместимость: 56 слотов. Крепления: Ремешок ×2, Шеврон левый.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Капюшон ИПК-99 \"Зоолог\" — Защита от пуль: 41%. Защита от радиации: 200. Вместимость: 0 слотов. Крепления: Фонарик.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Гарнитура ИПК-99 \"Зоолог\" — Защита от пуль: 41%. Защита от радиации: 400. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 0,
+            "description": "",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 0,
+            "description": "",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 108,
+          "Защита от пуль, торс": "65%",
+          "Защита от пуль, голова": "65%",
+          "Защита от пуль, ноги": "65%",
+          "Защита от радиации": 1700,
+          "Активные артефакты": 10
+        },
+        "images": [
+          "images/gear/science/IPK_99/IPK_99_A/IPK_99_A_1.png",
+          "images/gear/science/IPK_99/IPK_99_A/IPK_99_A_2.png",
+          "images/gear/science/IPK_99/IPK_99_A/IPK_99_A_3.png",
+          "images/gear/science/IPK_99/IPK_99_A/IPK_99_A_4.png",
+          "images/gear/science/IPK_99/IPK_99_A/IPK_99_A_5.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ИПК-100/100М",
+    "variants": [
+      {
+        "rank": "Легенда Зоны X",
+        "description": "Можно надеть с ранга: Легенда Зоны X.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Компрессорная система ИПК-100 — Защита от пуль: 41%. Защита от радиации: 300. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка ИПК-100 — Защита от пуль: 41%. Защита от радиации: 500. Вместимость: 42 слотов. Крепления: Шеврон левый, Шеврон правый. Слот под броневставку. Активные артефакты: 10.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 0,
+            "description": "",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны ИПК-100 — Защита от пуль: 65%. Защита от радиации: 300. Вместимость: 30 слотов.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Ребризер ИПК-100 — Защита от пуль: 35%. Защита от радиации: 0. Вместимость: 32 слотов.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Шлем ИПК-100 — Защита от пуль: 41%. Защита от радиации: 200. Вместимость: 0 слотов. Крепления: Фонарик.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 0,
+            "description": "",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки ИПК-100 — Защита от пуль: 65%. Защита от радиации: 150. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки ИПК-100 — Защита от пуль: 65%. Защита от радиации: 150. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 104,
+          "Защита от пуль, торс": "65%",
+          "Защита от пуль, голова": "41%",
+          "Защита от пуль, ноги": "65%",
+          "Защита от радиации": 1600,
+          "Активные артефакты": 10
+        },
+        "images": [
+          "images/gear/science/IPK_100M/ipk_1.png",
+          "images/gear/science/IPK_100M/ipk_2.png",
+          "images/gear/science/IPK_100M/ipk_3.png",
+          "images/gear/science/IPK_100M/ipk_4.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ОЗС-9М",
+    "variants": [
+      {
+        "rank": "Легенда Зоны IX",
+        "description": "Можно надеть с ранга: Легенда Зоны IX.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Жилет ОЗС-9М \"ИВА-32м\" — Защита от пуль: 41%. Защита от радиации: 300. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка ОЗС-9М \"ИВА-32м\" — Защита от пуль: 41%. Защита от радиации: 500. Вместимость: 36 слотов. Крепления: Ножны, Шеврон левый, Шеврон правый. Слот под броневставку. Активные артефакты: 10.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 0,
+            "description": "",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны ОЗС-9М \"ИВА-32м\" — Защита от пуль: 65%. Защита от радиации: 300. Вместимость: 56 слотов.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Рюкзак ОЗС-9М \"ИВА-32м\" — Защита от пуль: 0%. Защита от радиации: 0. Вместимость: 30 слотов. Крепления: Ремешок ×2.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Капюшон ОЗС-9М \"ИВА-32м\" — Защита от пуль: 41%. Защита от радиации: 200. Вместимость: 0 слотов. Крепления: Фонарик, Защитные пластины.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 0,
+            "description": "",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 0,
+            "description": "",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки ОЗС-9М \"ИВА-32м\" — Защита от пуль: 65%. Защита от радиации: 150. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 122,
+          "Защита от пуль, торс": "65%",
+          "Защита от пуль, голова": "41%",
+          "Защита от пуль, ноги": "65%",
+          "Защита от радиации": 1450,
+          "Активные артефакты": 10
+        },
+        "images": [
+          "images/gear/science/OZS_9M/OZS_9M_1.png",
+          "images/gear/science/OZS_9M/OZS_9M_2.png",
+          "images/gear/science/OZS_9M/OZS_9M_3.png",
+          "images/gear/science/OZS_9M/OZS_9M_4.png",
+          "images/gear/science/OZS_9M/OZS_9M_5.png",
+          "images/gear/science/OZS_9M/OZS_9M_6.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Восход",
+    "variants": [
+      {
+        "rank": "Ветеран",
+        "description": "Можно надеть с ранга: Ветеран.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Жилет Восход — Защита от пуль: 16%. Защита от радиации: 60. Вместимость: 0 слотов. Крепления: Нагрудный подсумок.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка Восход — Защита от пуль: 41%. Защита от радиации: 500. Вместимость: 30 слотов. Крепления: Шеврон левый, Шеврон правый. Слот под броневставку. Активные артефакты: 10.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 0,
+            "description": "",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны Восход — Защита от пуль: 65%. Защита от радиации: 300. Вместимость: 20 слотов. Крепления: Ременной подсумок 1, Ременной подсумок 2.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 0,
+            "description": "",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 0,
+            "description": "",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 0,
+            "description": "",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 0,
+            "description": "",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 0,
+            "description": "",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 50,
+          "Защита от пуль, торс": "50%",
+          "Защита от пуль, голова": "0%",
+          "Защита от пуль, ноги": "65%",
+          "Защита от радиации": 860,
+          "Активные артефакты": 10
+        },
+        "images": [
+          "images/gear/science/Voshod/Voshod_1.png",
+          "images/gear/science/Voshod/Voshod_2.png",
+          "images/gear/science/Voshod/Voshod_3.png",
+          "images/gear/science/Voshod/Voshod_4.png",
+          "images/gear/science/Voshod/Voshod_5.png",
+          "images/gear/science/Voshod/Voshod_6.png"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "ОЗС-М",
+    "variants": [
+      {
+        "rank": "Легенда Зоны IX",
+        "description": "Можно надеть с ранга: Легенда Зоны IX.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Жилет ОЗС-М \"Мастер\" — Защита от пуль: 41%. Защита от радиации: 300. Вместимость: 0 слотов.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка ОЗС-М \"Мастер\" — Защита от пуль: 41%. Защита от радиации: 500. Вместимость: 30 слотов. Крепления: Шеврон левый, Шеврон правый, Ножны. Слот под броневставку. Активные артефакты: 10.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 0,
+            "description": "",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны ОЗС-М \"Мастер\" — Защита от пуль: 65%. Защита от радиации: 300. Вместимость: 20 слотов. Крепления: Ременной подсумок 1, Ременной подсумок 2.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 0,
+            "description": "",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 0,
+            "description": "",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 0,
+            "description": "",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 0,
+            "description": "",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 0,
+            "description": "",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Общее кол-во слотов": 50,
+          "Защита от пуль, торс": "65%",
+          "Защита от пуль, голова": "0%",
+          "Защита от пуль, ноги": "65%",
+          "Защита от радиации": 1100,
+          "Активные артефакты": 10
+        },
+        "images": [
+          "images/gear/science/OZS_M/OZS_M_A/OZS_M_A_1.png",
+          "images/gear/science/OZS_M/OZS_M_A/OZS_M_A_2.png",
+          "images/gear/science/OZS_M/OZS_M_A/OZS_M_A_3.png",
+          "images/gear/science/OZS_M/OZS_M_A/OZS_M_A_4.png",
+          "images/gear/science/OZS_M/OZS_M_A/OZS_M_A_5.png"
+        ]
+      }
+    ]
+  }
+]

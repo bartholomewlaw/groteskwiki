@@ -1,0 +1,317 @@
+[
+  {
+    "item_name": "Тактический ЛЦУ «NcSTAR-TBL»",
+    "class": "Ri_Laser_Ncstar",
+    "image": "Ri_Laser_Ncstar.png",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 50,
+        "kind": "count"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Медная катушка",
+        "amount": 32,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Тактический блок «AN-PEQ15»",
+    "class": "Ri_Laser_Anpeq15",
+    "image": "Ri_Laser_Anpeq15.png",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 50,
+        "kind": "count"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Медная катушка",
+        "amount": 32,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Тактический блок «AN-PEQ2»",
+    "class": "Ri_Laser_Anpeq2",
+    "image": "Ri_Laser_Anpeq2.png",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 50,
+        "kind": "count"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Медная катушка",
+        "amount": 32,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Тактический блок «DB-E|Bal»",
+    "class": "Ri_Laser_dbEbal",
+    "image": "Ri_Laser_dbEbal.png",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 50,
+        "kind": "count"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Медная катушка",
+        "amount": 32,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Тактический блок «Zenit Perst-3»",
+    "class": "Ri_Laser_Perst3",
+    "image": "Ri_Laser_Perst3.png",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 50,
+        "kind": "count"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Медная катушка",
+        "amount": 32,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Тактический фонарь «SureFire X400»",
+    "class": "Ri_Laser_Surefire_x400",
+    "image": "Ri_Laser_Surefire_x400.png",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 50,
+        "kind": "count"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Медная катушка",
+        "amount": 32,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Тактический фонарь с ЛЦУ «GTL 21»",
+    "class": "Ri_Laser_GL21",
+    "image": "Ri_Laser_GL21.png",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 50,
+        "kind": "count"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Медная катушка",
+        "amount": 32,
+        "kind": "quantity"
+      }
+    ]
+  }
+]

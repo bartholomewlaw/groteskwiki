@@ -1,0 +1,544 @@
+[
+  {
+    "item_name": "Ремень на 10 артефактов",
+    "class": "Grotesk_Belt10",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Ремень на 9 артефактов",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 17,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 15,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 14,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Нитки",
+        "amount": 14,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 12,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ремень на 10 артефактов",
+    "class": "Grotesk_Belt10b",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Ремень на 9 артефактов",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 17,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 15,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 14,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Нитки",
+        "amount": 14,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 12,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ремень на 4 артефакта",
+    "class": "Grotesk_Belt4",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ремень на 3 артефакта",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 7,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Нитки",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 3,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ремень на 4 артефакта",
+    "class": "Grotesk_Belt4b",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ремень на 3 артефакта",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 7,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Нитки",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 3,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ремень на 5 артефактов",
+    "class": "Grotesk_Belt5",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ремень на 4 артефакта",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 7,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Нитки",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 3,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ремень на 5 артефактов",
+    "class": "Grotesk_Belt5b",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ремень на 4 артефакта",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 7,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Нитки",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 3,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ремень на 6 артефактов",
+    "class": "Grotesk_Belt6",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Ремень на 5 артефактов",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 7,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Нитки",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 4,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ремень на 6 артефактов",
+    "class": "Grotesk_Belt6b",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Ремень на 5 артефактов",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 7,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Нитки",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 4,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ремень на 7 артефактов",
+    "class": "Grotesk_Belt7",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Ремень на 6 артефактов",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 9,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 7,
+        "kind": "quantity"
+      },
+      {
+        "name": "Нитки",
+        "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 6,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ремень на 7 артефактов",
+    "class": "Grotesk_Belt7b",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Ремень на 6 артефактов",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 9,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 7,
+        "kind": "quantity"
+      },
+      {
+        "name": "Нитки",
+        "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 6,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ремень на 8 артефактов",
+    "class": "Grotesk_Belt8",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Ремень на 7 артефактов",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 10,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 7,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Нитки",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 6,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ремень на 8 артефактов",
+    "class": "Grotesk_Belt8b",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Ремень на 7 артефактов",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 10,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 7,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Нитки",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 6,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ремень на 9 артефактов",
+    "class": "Grotesk_Belt9",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Ремень на 8 артефактов",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 15,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 11,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 9,
+        "kind": "quantity"
+      },
+      {
+        "name": "Нитки",
+        "amount": 11,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 9,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ремень на 9 артефактов",
+    "class": "Grotesk_Belt9b",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Ремень на 8 артефактов",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Черная ткань",
+        "amount": 15,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 11,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 9,
+        "kind": "quantity"
+      },
+      {
+        "name": "Нитки",
+        "amount": 11,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 9,
+        "kind": "quantity"
+      }
+    ]
+  }
+]
