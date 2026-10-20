@@ -32,7 +32,22 @@
             <div id="nav"></div>
 
         <main>
-            <section class="gear-info">
+
+
+            <div class="gear-categories">
+                <button class="category-btn active" data-cat="all">Все</button>
+                <button class="category-btn" data-cat="1">Тир I</button>
+                <button class="category-btn" data-cat="2">Тир II</button>
+                <button class="category-btn" data-cat="3">Тир III</button>
+                <button class="category-btn" data-cat="4">Тир IV</button>
+                <button class="category-btn" data-cat="5">Тир V</button>
+                <button class="category-btn" data-cat="6">Тир VI</button>
+                <button class="category-btn" data-cat="7">Тир VII</button>
+                <button class="category-btn" data-cat="Backpacks">Рюкзаки и экзоскелеты</button>
+            </div>
+
+            <details class="gear-info">
+                <summary>Как работает броня и броневставки</summary>
                 <h2>Как работает броня</h2>
                 <p>У всех комплектов одна система, защита зависит только от тира. Деления на боевые, научные и скрытные больше нет.</p>
                 <ul>
@@ -48,19 +63,7 @@
                     <thead><tr><th>Вставка</th><th>Гасит урона</th><th>Износ</th><th>Прочность</th><th>Цена у торговца</th><th>Где взять</th></tr></thead>
                     <tbody></tbody>
                 </table></div>
-            </section>
-
-            <div class="gear-categories">
-                <button class="category-btn active" data-cat="all">Все</button>
-                <button class="category-btn" data-cat="1">Тир I</button>
-                <button class="category-btn" data-cat="2">Тир II</button>
-                <button class="category-btn" data-cat="3">Тир III</button>
-                <button class="category-btn" data-cat="4">Тир IV</button>
-                <button class="category-btn" data-cat="5">Тир V</button>
-                <button class="category-btn" data-cat="6">Тир VI</button>
-                <button class="category-btn" data-cat="7">Тир VII</button>
-                <button class="category-btn" data-cat="Backpacks">Рюкзаки и экзоскелеты</button>
-            </div>
+            </details>
 
             <div id="kits-grid" class="kits-grid"></div>
 
