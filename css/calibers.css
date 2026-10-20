@@ -125,3 +125,127 @@ main {
     border-color: #ffb000;
     box-shadow: 0 0 8px #ffb00055, 0 0 12px #ffd36a33;
 }
+
+/* ---------- Таблица ---------- */
+.caliber-search-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.caliber-search-container select,
+.caliber-view button,
+.caliber-compare-bar button,
+.compare-close {
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 15px;
+    background: #2b2b2b;
+    color: #e7a03d;
+    border: 1px solid #555;
+    border-radius: 6px;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+.caliber-view { display: inline-flex; gap: 0; }
+.caliber-view button { border-radius: 0; }
+.caliber-view button:first-child { border-radius: 6px 0 0 6px; }
+.caliber-view button:last-child { border-radius: 0 6px 6px 0; border-left: none; }
+.caliber-view button.active,
+.caliber-compare-bar button:hover,
+.compare-close:hover { background: #e7a03d; color: #1b1b1b; }
+.caliber-search-container select:focus-visible,
+.caliber-view button:focus-visible,
+th.sortable:focus-visible { outline: 2px solid #e7a03d; outline-offset: 2px; }
+
+.caliber-note {
+    font-family: 'Share Tech Mono', monospace;
+    color: #aaa;
+    font-size: 14px;
+    max-width: 1100px;
+    margin: 12px auto;
+    text-align: center;
+}
+
+.caliber-table-wrap {
+    max-width: 1400px;
+    margin: 10px auto 30px;
+    overflow-x: auto;
+    border: 1px solid #444;
+    border-radius: 8px;
+    background: rgba(20, 20, 20, 0.85);
+}
+#caliberTable {
+    width: 100%;
+    min-width: 1100px;
+    border-collapse: collapse;
+    font-family: 'Share Tech Mono', monospace;
+    font-size: 14px;
+    color: #ddd;
+}
+#caliberTable th, #caliberTable td {
+    padding: 8px 10px;
+    border-bottom: 1px solid #333;
+    text-align: left;
+    vertical-align: middle;
+}
+#caliberTable thead th {
+    position: sticky;
+    top: 0;
+    background: #222;
+    color: #e7a03d;
+    white-space: nowrap;
+    z-index: 1;
+}
+#caliberTable th.sortable { cursor: pointer; user-select: none; }
+#caliberTable th.sortable.active { color: #ffd27a; }
+#caliberTable td.num { text-align: right; font-variant-numeric: tabular-nums; white-space: nowrap; }
+#caliberTable .col-pick { width: 32px; text-align: center; }
+#caliberTable .col-group { color: #e7a03d; white-space: nowrap; }
+#caliberTable .col-src { color: #aaa; font-size: 13px; }
+#caliberTable .col-dmg { position: relative; min-width: 110px; }
+#caliberTable .dmg-bar {
+    position: absolute; left: 0; top: 25%; height: 50%;
+    background: rgba(231, 160, 61, 0.22);
+    border-radius: 0 3px 3px 0;
+}
+#caliberTable .dmg-val { position: relative; }
+#caliberTable tr.cal-row { cursor: pointer; }
+#caliberTable tr.cal-row:hover { background: rgba(231, 160, 61, 0.08); }
+#caliberTable .guns-toggle { margin-left: 6px; color: #888; }
+#caliberTable tr.cal-guns td { background: #1c1c1c; color: #bbb; font-size: 13px; }
+#caliberTable td.empty { text-align: center; color: #888; padding: 20px; }
+.tier-pill {
+    display: inline-block; padding: 1px 8px; border-radius: 10px;
+    border: 1px solid #e7a03d; color: #e7a03d; font-size: 12px;
+}
+#caliberTable tr.rank-Ветеран .tier-pill { border-color: #b36bff; color: #c99bff; }
+#caliberTable tr.rank-Мастер .tier-pill { border-color: #ff5c5c; color: #ff8a8a; }
+#caliberTable tr.rank-Легенда .tier-pill { border-color: #ffd27a; color: #ffd27a; }
+
+/* ---------- Сравнение ---------- */
+.caliber-compare-bar {
+    display: flex; gap: 10px; align-items: center; justify-content: center;
+    font-family: 'Share Tech Mono', monospace; color: #ddd; margin: 6px auto;
+}
+.caliber-compare {
+    max-width: 1400px; margin: 10px auto; border: 1px solid #e7a03d; border-radius: 8px;
+    background: rgba(20, 20, 20, 0.92); font-family: 'Share Tech Mono', monospace; color: #ddd;
+}
+.compare-head {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 8px 12px; color: #e7a03d; border-bottom: 1px solid #333;
+}
+.compare-scroll { overflow-x: auto; }
+.compare-table { border-collapse: collapse; width: 100%; font-size: 14px; }
+.compare-table th, .compare-table td { padding: 7px 10px; border-bottom: 1px solid #333; text-align: left; }
+.compare-table thead th { color: #e7a03d; }
+.compare-table tbody th { color: #aaa; white-space: nowrap; font-weight: normal; }
+.compare-table td.best { color: #7dff7d; font-weight: bold; }
+
+@media (max-width: 600px) {
+    .caliber-search-container { padding: 0 12px; }
+    .caliber-search-container input { width: 100%; }
+}
+
+.caliber-compare-bar[hidden], .caliber-compare[hidden], .caliber-grid[hidden], .caliber-table-wrap[hidden] { display: none !important; }

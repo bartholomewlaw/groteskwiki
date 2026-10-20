@@ -37,10 +37,31 @@
 
 <main>
     <div class="caliber-search-container">
-    <input type="text" id="caliberSearch" placeholder="Поиск..." />
-</div>
+        <input type="text" id="caliberSearch" placeholder="Патрон или ствол..." />
+        <select id="caliberGroup" aria-label="Калибр"><option value="*">Все калибры</option></select>
+        <select id="caliberTier" aria-label="Тир"><option value="*">Все тиры</option></select>
+        <div class="caliber-view" role="group" aria-label="Вид">
+            <button type="button" data-view="table">Таблица</button>
+            <button type="button" data-view="cards">Карточки</button>
+        </div>
+    </div>
+    <p class="caliber-note">Нажмите на заголовок столбца, чтобы отсортировать. Галочкой отметьте патроны для сравнения. Нажмите на строку, чтобы увидеть стволы под патрон. «Попаданий на 1000 HP» — сколько попаданий нужно на 1000 здоровья без учёта брони.</p>
 
-<div class="caliber-grid"></div>
+    <div class="caliber-compare-bar" hidden>
+        <span>Выбрано: <b id="compareCount">0</b></span>
+        <button type="button" id="compareShow">Сравнить</button>
+        <button type="button" id="compareClear">Сбросить</button>
+    </div>
+    <div class="caliber-compare" hidden></div>
+
+    <div class="caliber-table-wrap">
+        <table id="caliberTable">
+            <thead></thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+    <div class="caliber-grid" hidden></div>
 </main>
 
 <!-- футер -->
