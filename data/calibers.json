@@ -1,12 +1,5 @@
 [
   {
-    "name": "Сигнальная ракета",
-    "damage": 10,
-    "tier": "W1",
-    "rank": "Новичок",
-    "class": "Ammo_Flare"
-  },
-  {
     "name": "9x19мм Пст гж",
     "damage": 12,
     "tier": "",
@@ -308,13 +301,6 @@
     "class": "Ammo_762x39Tracer"
   },
   {
-    "name": "Болт",
-    "damage": 125,
-    "tier": "W1",
-    "rank": "Новичок",
-    "class": "Ammo_HuntingBolt"
-  },
-  {
     "name": "Бронебойные патроны 9х39 мм",
     "damage": 130,
     "tier": "",
@@ -476,13 +462,6 @@
     "class": "Ammo_762x54_SNB"
   },
   {
-    "name": "9x39мм БП Специальный",
-    "damage": 1400,
-    "tier": "W3",
-    "rank": "Мастер",
-    "class": "Ammo_9x39_BPZakaz"
-  },
-  {
     "name": ".338 Lapua Magnum FMJ",
     "damage": 320,
     "tier": "W4",
@@ -530,13 +509,6 @@
     "tier": "W4",
     "rank": "Легенда",
     "class": "Kuvalda_Ammo_12x7mm"
-  },
-  {
-    "name": "40-мм фугасная граната",
-    "damage": 110,
-    "tier": "W5",
-    "rank": "Легенда",
-    "class": "Ammo_40mm_Explosive"
   },
   {
     "name": ".338 Lapua Magnum AP аномальные",

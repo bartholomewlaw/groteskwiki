@@ -82,6 +82,13 @@
 
                 <!-- Правая колонка: характеристики -->
                 <div class="artifact-column stats-col">
+                    <h3>Комплект и зона</h3>
+                    <div class="outlined-box stats-panel kit-panel">
+                        <label class="kit-field">Комплект<select id="kit-select" class="select-calc"></select></label>
+                        <label class="kit-field">Броневставка<select id="insert-select" class="select-calc"></select></label>
+                        <label class="kit-field">Зона радиации<select id="zone-select" class="select-calc"></select></label>
+                        <div id="kit-result"></div>
+                    </div>
                     <h3>Итоговые характеристики</h3>
                     <div id="calculation-result" class="outlined-box stats-panel"></div>
                 </div>
@@ -107,5 +114,6 @@
     <script src="js/components/components.js"></script>
     <!-- Основные js -->
     <script src="js/artifact_calc_dnd.js"></script>
+    <script src="js/artifact_calc_kit.js"></script>
 </body>
 </html>

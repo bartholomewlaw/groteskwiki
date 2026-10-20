@@ -68,3 +68,7 @@
     font-size: 13px;
     color: #999;
 }
+.rad-table { width: 100%; border-collapse: collapse; margin: 8px 0 12px; font-size: 14px; }
+.rad-table th, .rad-table td { border: 1px solid #333; padding: 6px 8px; text-align: left; }
+.rad-table th { background-color: #111; color: #ffb000; }
+.rad-table tr:nth-child(even) td { background-color: #232323; }

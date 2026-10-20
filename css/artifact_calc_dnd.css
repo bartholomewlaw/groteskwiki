@@ -674,3 +674,6 @@ html, body {
         justify-content: center;
     }
 }
+.kit-panel { display: grid; gap: 8px; margin-bottom: 14px; }
+.kit-field { display: grid; gap: 4px; font-size: 0.85rem; }
+.kit-field select { width: 100%; }

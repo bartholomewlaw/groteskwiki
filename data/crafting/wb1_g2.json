@@ -1,7 +1,7 @@
 [
   {
-    "item_name": "Модуль снижения отдачи",
-    "class": "Exo_Module",
+    "item_name": "Экзоскелет Первого образца",
+    "class": "Era_Exoskeleton_LVL1",
     "image": "",
     "requires": [
       "Шеврон с... Чем-то"
@@ -14,47 +14,47 @@
       },
       {
         "name": "Печатная плата",
-        "amount": 5,
+        "amount": 10,
         "kind": "count"
       },
       {
         "name": "Инструменты калибровки",
-        "amount": 12,
+        "amount": 47,
         "kind": "quantity"
       },
       {
         "name": "Инструменты грубой работы",
-        "amount": 12,
+        "amount": 47,
         "kind": "quantity"
       },
       {
         "name": "Инструменты тонкой работы",
-        "amount": 12,
+        "amount": 47,
         "kind": "quantity"
       },
       {
         "name": "Пучок проводов",
-        "amount": 12,
+        "amount": 47,
         "kind": "quantity"
       },
       {
         "name": "Диод",
-        "amount": 12,
+        "amount": 47,
         "kind": "quantity"
       },
       {
         "name": "Резистор",
-        "amount": 12,
+        "amount": 47,
         "kind": "quantity"
       },
       {
         "name": "Медная катушка",
-        "amount": 12,
+        "amount": 47,
         "kind": "quantity"
       },
       {
         "name": "Отвертка",
-        "amount": 12,
+        "amount": 47,
         "kind": "quantity"
       }
     ]
@@ -125,513 +125,8 @@
     ]
   },
   {
-    "item_name": "Экзоскелет Второго образца",
-    "class": "Grotesk_Exo_LVL2",
-    "image": "Grotesk_Exo.png",
-    "requires": [
-      "Шеврон с... Чем-то"
-    ],
-    "assemble": [
-      {
-        "name": "Экзоскелет Первого образца",
-        "amount": 1,
-        "kind": "count"
-      },
-      {
-        "name": "лебедка",
-        "amount": 1,
-        "kind": "quantity"
-      },
-      {
-        "name": "Печатная плата",
-        "amount": 10,
-        "kind": "count"
-      },
-      {
-        "name": "Инструменты калибровки",
-        "amount": 58,
-        "kind": "quantity"
-      },
-      {
-        "name": "Инструменты грубой работы",
-        "amount": 58,
-        "kind": "quantity"
-      },
-      {
-        "name": "Инструменты тонкой работы",
-        "amount": 58,
-        "kind": "quantity"
-      },
-      {
-        "name": "Пучок проводов",
-        "amount": 58,
-        "kind": "quantity"
-      },
-      {
-        "name": "Диод",
-        "amount": 58,
-        "kind": "quantity"
-      },
-      {
-        "name": "Резистор",
-        "amount": 58,
-        "kind": "quantity"
-      },
-      {
-        "name": "Медная катушка",
-        "amount": 58,
-        "kind": "quantity"
-      },
-      {
-        "name": "Отвертка",
-        "amount": 58,
-        "kind": "quantity"
-      }
-    ]
-  },
-  {
-    "item_name": "Экзоскелет Первого образца",
-    "class": "Era_Exoskeleton_LVL1",
-    "image": "",
-    "requires": [
-      "Шеврон с... Чем-то"
-    ],
-    "assemble": [
-      {
-        "name": "лебедка",
-        "amount": 1,
-        "kind": "quantity"
-      },
-      {
-        "name": "Печатная плата",
-        "amount": 10,
-        "kind": "count"
-      },
-      {
-        "name": "Инструменты калибровки",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Инструменты грубой работы",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Инструменты тонкой работы",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Пучок проводов",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Диод",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Резистор",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Медная катушка",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Отвертка",
-        "amount": 47,
-        "kind": "quantity"
-      }
-    ]
-  },
-  {
-    "item_name": "Экзоскелет Первого образца",
-    "class": "Grotesk_Exo",
-    "image": "Grotesk_Exo.png",
-    "requires": [
-      "Шеврон с... Чем-то"
-    ],
-    "assemble": [
-      {
-        "name": "лебедка",
-        "amount": 1,
-        "kind": "quantity"
-      },
-      {
-        "name": "Печатная плата",
-        "amount": 10,
-        "kind": "count"
-      },
-      {
-        "name": "Инструменты калибровки",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Инструменты грубой работы",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Инструменты тонкой работы",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Пучок проводов",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Диод",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Резистор",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Медная катушка",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Отвертка",
-        "amount": 47,
-        "kind": "quantity"
-      }
-    ]
-  },
-  {
-    "item_name": "Экзоскелет Ратник Второго образца",
-    "class": "TNRJ_Exo_LVL2",
-    "image": "TNRJ_Exo.png",
-    "requires": [
-      "Шеврон с... Чем-то"
-    ],
-    "assemble": [
-      {
-        "name": "Экзоскелет Ратник Первого образца",
-        "amount": 1,
-        "kind": "count"
-      },
-      {
-        "name": "лебедка",
-        "amount": 1,
-        "kind": "quantity"
-      },
-      {
-        "name": "Печатная плата",
-        "amount": 10,
-        "kind": "count"
-      },
-      {
-        "name": "Инструменты калибровки",
-        "amount": 58,
-        "kind": "quantity"
-      },
-      {
-        "name": "Инструменты грубой работы",
-        "amount": 58,
-        "kind": "quantity"
-      },
-      {
-        "name": "Инструменты тонкой работы",
-        "amount": 58,
-        "kind": "quantity"
-      },
-      {
-        "name": "Пучок проводов",
-        "amount": 58,
-        "kind": "quantity"
-      },
-      {
-        "name": "Диод",
-        "amount": 58,
-        "kind": "quantity"
-      },
-      {
-        "name": "Резистор",
-        "amount": 58,
-        "kind": "quantity"
-      },
-      {
-        "name": "Медная катушка",
-        "amount": 58,
-        "kind": "quantity"
-      },
-      {
-        "name": "Отвертка",
-        "amount": 58,
-        "kind": "quantity"
-      }
-    ]
-  },
-  {
-    "item_name": "Экзоскелет Ратник Первого образца",
-    "class": "TNRJ_Exo",
-    "image": "TNRJ_Exo.png",
-    "requires": [
-      "Шеврон с... Чем-то"
-    ],
-    "assemble": [
-      {
-        "name": "лебедка",
-        "amount": 1,
-        "kind": "quantity"
-      },
-      {
-        "name": "Печатная плата",
-        "amount": 10,
-        "kind": "count"
-      },
-      {
-        "name": "Инструменты калибровки",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Инструменты грубой работы",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Инструменты тонкой работы",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Пучок проводов",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Диод",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Резистор",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Медная катушка",
-        "amount": 47,
-        "kind": "quantity"
-      },
-      {
-        "name": "Отвертка",
-        "amount": 47,
-        "kind": "quantity"
-      }
-    ]
-  },
-  {
-    "item_name": "Экзоскелет Ратник Третьего образца",
-    "class": "TNRJ_Exo_LVL3",
-    "image": "",
-    "requires": [
-      "Шеврон с... Чем-то"
-    ],
-    "assemble": [
-      {
-        "name": "Экзоскелет Ратник Второго образца",
-        "amount": 1,
-        "kind": "count"
-      },
-      {
-        "name": "лебедка",
-        "amount": 1,
-        "kind": "quantity"
-      },
-      {
-        "name": "Печатная плата",
-        "amount": 10,
-        "kind": "count"
-      },
-      {
-        "name": "Инструменты калибровки",
-        "amount": 67,
-        "kind": "quantity"
-      },
-      {
-        "name": "Инструменты грубой работы",
-        "amount": 67,
-        "kind": "quantity"
-      },
-      {
-        "name": "Инструменты тонкой работы",
-        "amount": 67,
-        "kind": "quantity"
-      },
-      {
-        "name": "Пучок проводов",
-        "amount": 67,
-        "kind": "quantity"
-      },
-      {
-        "name": "Диод",
-        "amount": 67,
-        "kind": "quantity"
-      },
-      {
-        "name": "Резистор",
-        "amount": 67,
-        "kind": "quantity"
-      },
-      {
-        "name": "Медная катушка",
-        "amount": 67,
-        "kind": "quantity"
-      },
-      {
-        "name": "Отвертка",
-        "amount": 67,
-        "kind": "quantity"
-      }
-    ]
-  },
-  {
-    "item_name": "Экзоскелет Ратник Четвёртого образца",
-    "class": "TNRJ_Exo_LVL4",
-    "image": "",
-    "requires": [
-      "Шеврон с... Чем-то"
-    ],
-    "assemble": [
-      {
-        "name": "Экзоскелет Ратник Третьего образца",
-        "amount": 1,
-        "kind": "count"
-      },
-      {
-        "name": "лебедка",
-        "amount": 1,
-        "kind": "quantity"
-      },
-      {
-        "name": "Печатная плата",
-        "amount": 10,
-        "kind": "count"
-      },
-      {
-        "name": "Инструменты калибровки",
-        "amount": 82,
-        "kind": "quantity"
-      },
-      {
-        "name": "Инструменты грубой работы",
-        "amount": 82,
-        "kind": "quantity"
-      },
-      {
-        "name": "Инструменты тонкой работы",
-        "amount": 82,
-        "kind": "quantity"
-      },
-      {
-        "name": "Пучок проводов",
-        "amount": 82,
-        "kind": "quantity"
-      },
-      {
-        "name": "Диод",
-        "amount": 82,
-        "kind": "quantity"
-      },
-      {
-        "name": "Резистор",
-        "amount": 82,
-        "kind": "quantity"
-      },
-      {
-        "name": "Медная катушка",
-        "amount": 82,
-        "kind": "quantity"
-      },
-      {
-        "name": "Отвертка",
-        "amount": 82,
-        "kind": "quantity"
-      }
-    ]
-  },
-  {
     "item_name": "Экзоскелет Третьего образца",
     "class": "Era_Exoskeleton_LVL3",
-    "image": "",
-    "requires": [
-      "Шеврон с... Чем-то"
-    ],
-    "assemble": [
-      {
-        "name": "Экзоскелет Второго образца",
-        "amount": 1,
-        "kind": "count"
-      },
-      {
-        "name": "лебедка",
-        "amount": 1,
-        "kind": "quantity"
-      },
-      {
-        "name": "Печатная плата",
-        "amount": 10,
-        "kind": "count"
-      },
-      {
-        "name": "Инструменты калибровки",
-        "amount": 67,
-        "kind": "quantity"
-      },
-      {
-        "name": "Инструменты грубой работы",
-        "amount": 67,
-        "kind": "quantity"
-      },
-      {
-        "name": "Инструменты тонкой работы",
-        "amount": 67,
-        "kind": "quantity"
-      },
-      {
-        "name": "Пучок проводов",
-        "amount": 67,
-        "kind": "quantity"
-      },
-      {
-        "name": "Диод",
-        "amount": 67,
-        "kind": "quantity"
-      },
-      {
-        "name": "Резистор",
-        "amount": 67,
-        "kind": "quantity"
-      },
-      {
-        "name": "Медная катушка",
-        "amount": 67,
-        "kind": "quantity"
-      },
-      {
-        "name": "Отвертка",
-        "amount": 67,
-        "kind": "quantity"
-      }
-    ]
-  },
-  {
-    "item_name": "Экзоскелет Третьего образца",
-    "class": "Grotesk_Exo_LVL3",
     "image": "",
     "requires": [
       "Шеврон с... Чем-то"
@@ -760,6 +255,256 @@
     ]
   },
   {
+    "item_name": "Модуль снижения отдачи",
+    "class": "Exo_Module",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 5,
+        "kind": "count"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты грубой работы",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Медная катушка",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 12,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Экзоскелет Первого образца",
+    "class": "Grotesk_Exo",
+    "image": "Grotesk_Exo.png",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 10,
+        "kind": "count"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 47,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты грубой работы",
+        "amount": 47,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 47,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 47,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 47,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 47,
+        "kind": "quantity"
+      },
+      {
+        "name": "Медная катушка",
+        "amount": 47,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 47,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Экзоскелет Второго образца",
+    "class": "Grotesk_Exo_LVL2",
+    "image": "Grotesk_Exo.png",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Экзоскелет Первого образца",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 10,
+        "kind": "count"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 58,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты грубой работы",
+        "amount": 58,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 58,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 58,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 58,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 58,
+        "kind": "quantity"
+      },
+      {
+        "name": "Медная катушка",
+        "amount": 58,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 58,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Экзоскелет Третьего образца",
+    "class": "Grotesk_Exo_LVL3",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Экзоскелет Второго образца",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 10,
+        "kind": "count"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 67,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты грубой работы",
+        "amount": 67,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 67,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 67,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 67,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 67,
+        "kind": "quantity"
+      },
+      {
+        "name": "Медная катушка",
+        "amount": 67,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 67,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
     "item_name": "Экзоскелет Четвёртого образца",
     "class": "Grotesk_Exo_LVL4",
     "image": "",
@@ -769,6 +514,261 @@
     "assemble": [
       {
         "name": "Экзоскелет Третьего образца",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 10,
+        "kind": "count"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 82,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты грубой работы",
+        "amount": 82,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 82,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 82,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 82,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 82,
+        "kind": "quantity"
+      },
+      {
+        "name": "Медная катушка",
+        "amount": 82,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 82,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Экзоскелет Ратник Первого образца",
+    "class": "TNRJ_Exo",
+    "image": "TNRJ_Exo.png",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 10,
+        "kind": "count"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 47,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты грубой работы",
+        "amount": 47,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 47,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 47,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 47,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 47,
+        "kind": "quantity"
+      },
+      {
+        "name": "Медная катушка",
+        "amount": 47,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 47,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Экзоскелет Ратник Второго образца",
+    "class": "TNRJ_Exo_LVL2",
+    "image": "TNRJ_Exo.png",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Экзоскелет Ратник Первого образца",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 10,
+        "kind": "count"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 58,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты грубой работы",
+        "amount": 58,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 58,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 58,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 58,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 58,
+        "kind": "quantity"
+      },
+      {
+        "name": "Медная катушка",
+        "amount": 58,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 58,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Экзоскелет Ратник Третьего образца",
+    "class": "TNRJ_Exo_LVL3",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Экзоскелет Ратник Второго образца",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "лебедка",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Печатная плата",
+        "amount": 10,
+        "kind": "count"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 67,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты грубой работы",
+        "amount": 67,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 67,
+        "kind": "quantity"
+      },
+      {
+        "name": "Пучок проводов",
+        "amount": 67,
+        "kind": "quantity"
+      },
+      {
+        "name": "Диод",
+        "amount": 67,
+        "kind": "quantity"
+      },
+      {
+        "name": "Резистор",
+        "amount": 67,
+        "kind": "quantity"
+      },
+      {
+        "name": "Медная катушка",
+        "amount": 67,
+        "kind": "quantity"
+      },
+      {
+        "name": "Отвертка",
+        "amount": 67,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Экзоскелет Ратник Четвёртого образца",
+    "class": "TNRJ_Exo_LVL4",
+    "image": "",
+    "requires": [
+      "Шеврон с... Чем-то"
+    ],
+    "assemble": [
+      {
+        "name": "Экзоскелет Ратник Третьего образца",
         "amount": 1,
         "kind": "count"
       },

@@ -575,6 +575,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
 
         const radNet = radGood - radBad;
+        document.dispatchEvent(new CustomEvent('artcalc:rad', { detail: radNet }));
         if (radNet > 0) totals['Вывод радиации'] = radNet;
         else if (radNet < 0) totals['Накопление радиации'] = Math.abs(radNet);
 

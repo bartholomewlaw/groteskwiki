@@ -1,12 +1,12 @@
 [
   {
-    "item_name": "Ангел 'Тир III'",
-    "class": "MF_Artefact_Black_Angelt3",
+    "item_name": "Летучая мышь 'Тир III'",
+    "class": "MF_Artefact_Batt3",
     "image": "",
     "requires": [],
     "assemble": [
       {
-        "name": "Ангел 'Тир II'",
+        "name": "Летучая мышь 'Тир II'",
         "amount": 3,
         "kind": "count"
       }
@@ -26,26 +26,91 @@
     ]
   },
   {
-    "item_name": "Вспышка 'Тир III'",
-    "class": "MF_Artefact_Vspiskat3",
+    "item_name": "Ангел 'Тир III'",
+    "class": "MF_Artefact_Black_Angelt3",
     "image": "",
     "requires": [],
     "assemble": [
       {
-        "name": "Вспышка 'Тир II'",
+        "name": "Ангел 'Тир II'",
         "amount": 3,
         "kind": "count"
       }
     ]
   },
   {
-    "item_name": "Выверт 'Тир III'",
-    "class": "MF_Artefact_Vyvertt3",
+    "item_name": "Кровь камня 'Тир III'",
+    "class": "MF_Artefact_Bloodt3",
     "image": "",
     "requires": [],
     "assemble": [
       {
-        "name": "Выверт 'Тир II'",
+        "name": "Кровь камня 'Тир II'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Челюсть 'Тир III'",
+    "class": "MF_Artefact_Chelustt3",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Челюсть 'Тир II'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Компасс 'Тир III'",
+    "class": "MF_Artefact_Compasst3",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Компасс 'Тир II'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Серафим 'Тир III'",
+    "class": "MF_Artefact_Dragunovt3",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Серафим 'Тир II'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Душа 'Тир III'",
+    "class": "MF_Artefact_Dushat3",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Душа 'Тир II'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Фонтан 'Тир III'",
+    "class": "MF_Artefact_Fountaint3",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Фонтан 'Тир II'",
         "amount": 3,
         "kind": "count"
       }
@@ -104,32 +169,6 @@
     ]
   },
   {
-    "item_name": "Душа 'Тир III'",
-    "class": "MF_Artefact_Dushat3",
-    "image": "",
-    "requires": [],
-    "assemble": [
-      {
-        "name": "Душа 'Тир II'",
-        "amount": 3,
-        "kind": "count"
-      }
-    ]
-  },
-  {
-    "item_name": "Золотая рыбка 'Тир III'",
-    "class": "MF_Artefact_Ribkat3",
-    "image": "",
-    "requires": [],
-    "assemble": [
-      {
-        "name": "Золотая рыбка 'Тир II'",
-        "amount": 3,
-        "kind": "count"
-      }
-    ]
-  },
-  {
     "item_name": "Изолятор 'Тир III'",
     "class": "MF_Artefact_izolatort3",
     "image": "",
@@ -137,19 +176,6 @@
     "assemble": [
       {
         "name": "Изолятор 'Тир II'",
-        "amount": 3,
-        "kind": "count"
-      }
-    ]
-  },
-  {
-    "item_name": "Каменный цветок 'Тир III'",
-    "class": "MF_Artefact_StoneFlowert3",
-    "image": "",
-    "requires": [],
-    "assemble": [
-      {
-        "name": "Каменный цветок 'Тир II'",
         "amount": 3,
         "kind": "count"
       }
@@ -169,19 +195,6 @@
     ]
   },
   {
-    "item_name": "Компасс 'Тир III'",
-    "class": "MF_Artefact_Compasst3",
-    "image": "",
-    "requires": [],
-    "assemble": [
-      {
-        "name": "Компасс 'Тир II'",
-        "amount": 3,
-        "kind": "count"
-      }
-    ]
-  },
-  {
     "item_name": "Кристалл 'Тир III'",
     "class": "MF_Artefact_Kristallt3",
     "image": "",
@@ -195,52 +208,13 @@
     ]
   },
   {
-    "item_name": "Кровь камня 'Тир III'",
-    "class": "MF_Artefact_Bloodt3",
+    "item_name": "Маяк 'Тир III'",
+    "class": "MF_Artefact_Lighthouset3",
     "image": "",
     "requires": [],
     "assemble": [
       {
-        "name": "Кровь камня 'Тир II'",
-        "amount": 3,
-        "kind": "count"
-      }
-    ]
-  },
-  {
-    "item_name": "Летучая мышь 'Тир III'",
-    "class": "MF_Artefact_Batt3",
-    "image": "",
-    "requires": [],
-    "assemble": [
-      {
-        "name": "Летучая мышь 'Тир II'",
-        "amount": 3,
-        "kind": "count"
-      }
-    ]
-  },
-  {
-    "item_name": "Ломоть мяса 'Тир III'",
-    "class": "MF_Artefact_mysot3",
-    "image": "",
-    "requires": [],
-    "assemble": [
-      {
-        "name": "Ломоть мяса 'Тир II'",
-        "amount": 3,
-        "kind": "count"
-      }
-    ]
-  },
-  {
-    "item_name": "Лунный свет 'Тир III'",
-    "class": "MF_Artefact_Svett3",
-    "image": "",
-    "requires": [],
-    "assemble": [
-      {
-        "name": "Лунный свет 'Тир II'",
+        "name": "Маяк 'Тир II'",
         "amount": 3,
         "kind": "count"
       }
@@ -254,19 +228,6 @@
     "assemble": [
       {
         "name": "Мамины бусы 'Тир II'",
-        "amount": 3,
-        "kind": "count"
-      }
-    ]
-  },
-  {
-    "item_name": "Маяк 'Тир III'",
-    "class": "MF_Artefact_Lighthouset3",
-    "image": "",
-    "requires": [],
-    "assemble": [
-      {
-        "name": "Маяк 'Тир II'",
         "amount": 3,
         "kind": "count"
       }
@@ -299,13 +260,13 @@
     ]
   },
   {
-    "item_name": "Ночная звезда 'Тир III'",
-    "class": "MF_Artefact_Start3",
+    "item_name": "Ломоть мяса 'Тир III'",
+    "class": "MF_Artefact_mysot3",
     "image": "",
     "requires": [],
     "assemble": [
       {
-        "name": "Ночная звезда 'Тир II'",
+        "name": "Ломоть мяса 'Тир II'",
         "amount": 3,
         "kind": "count"
       }
@@ -325,13 +286,13 @@
     ]
   },
   {
-    "item_name": "Перстень 'Тир III'",
-    "class": "MF_Artefact_Signett3",
+    "item_name": "Фантом 'Тир III'",
+    "class": "MF_Artefact_Phantomt3",
     "image": "",
     "requires": [],
     "assemble": [
       {
-        "name": "Перстень 'Тир II'",
+        "name": "Фантом 'Тир II'",
         "amount": 3,
         "kind": "count"
       }
@@ -364,78 +325,13 @@
     ]
   },
   {
-    "item_name": "Серафим 'Тир III'",
-    "class": "MF_Artefact_Dragunovt3",
+    "item_name": "Золотая рыбка 'Тир III'",
+    "class": "MF_Artefact_Ribkat3",
     "image": "",
     "requires": [],
     "assemble": [
       {
-        "name": "Серафим 'Тир II'",
-        "amount": 3,
-        "kind": "count"
-      }
-    ]
-  },
-  {
-    "item_name": "Снежинка 'Тир III'",
-    "class": "MF_Artefact_snejinkat3",
-    "image": "",
-    "requires": [],
-    "assemble": [
-      {
-        "name": "Снежинка 'Тир II'",
-        "amount": 3,
-        "kind": "count"
-      }
-    ]
-  },
-  {
-    "item_name": "Фантом 'Тир III'",
-    "class": "MF_Artefact_Phantomt3",
-    "image": "",
-    "requires": [],
-    "assemble": [
-      {
-        "name": "Фантом 'Тир II'",
-        "amount": 3,
-        "kind": "count"
-      }
-    ]
-  },
-  {
-    "item_name": "Фонтан 'Тир III'",
-    "class": "MF_Artefact_Fountaint3",
-    "image": "",
-    "requires": [],
-    "assemble": [
-      {
-        "name": "Фонтан 'Тир II'",
-        "amount": 3,
-        "kind": "count"
-      }
-    ]
-  },
-  {
-    "item_name": "Челюсть 'Тир III'",
-    "class": "MF_Artefact_Chelustt3",
-    "image": "",
-    "requires": [],
-    "assemble": [
-      {
-        "name": "Челюсть 'Тир II'",
-        "amount": 3,
-        "kind": "count"
-      }
-    ]
-  },
-  {
-    "item_name": "Череп Скряги 'Тир III'",
-    "class": "MF_Artefact_SkullMisert3",
-    "image": "",
-    "requires": [],
-    "assemble": [
-      {
-        "name": "Череп Скряги 'Тир II'",
+        "name": "Золотая рыбка 'Тир II'",
         "amount": 3,
         "kind": "count"
       }
@@ -462,6 +358,110 @@
     "assemble": [
       {
         "name": "Штурвал 'Тир II'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Перстень 'Тир III'",
+    "class": "MF_Artefact_Signett3",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Перстень 'Тир II'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Череп Скряги 'Тир III'",
+    "class": "MF_Artefact_SkullMisert3",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Череп Скряги 'Тир II'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Снежинка 'Тир III'",
+    "class": "MF_Artefact_snejinkat3",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Снежинка 'Тир II'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Ночная звезда 'Тир III'",
+    "class": "MF_Artefact_Start3",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ночная звезда 'Тир II'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Каменный цветок 'Тир III'",
+    "class": "MF_Artefact_StoneFlowert3",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Каменный цветок 'Тир II'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Лунный свет 'Тир III'",
+    "class": "MF_Artefact_Svett3",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Лунный свет 'Тир II'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Вспышка 'Тир III'",
+    "class": "MF_Artefact_Vspiskat3",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Вспышка 'Тир II'",
+        "amount": 3,
+        "kind": "count"
+      }
+    ]
+  },
+  {
+    "item_name": "Выверт 'Тир III'",
+    "class": "MF_Artefact_Vyvertt3",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Выверт 'Тир II'",
         "amount": 3,
         "kind": "count"
       }
