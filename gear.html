@@ -44,10 +44,17 @@
                 <button class="category-btn" data-cat="6">Тир VI</button>
                 <button class="category-btn" data-cat="7">Тир VII</button>
                 <button class="category-btn" data-cat="Backpacks">Рюкзаки и экзоскелеты</button>
+                <button id="armorInfoBtn" class="category-btn info-btn" type="button">Как работает броня</button>
             </div>
 
-            <details class="gear-info">
-                <summary>Как работает броня и броневставки</summary>
+
+
+            <div id="kits-grid" class="kits-grid"></div>
+
+            <div id="armorInfoModal" class="modal hidden">
+                <div class="modal-content info-modal-content">
+                    <span id="armorInfoClose" class="modal-close">&times;</span>
+                    <div class="gear-info">
                 <h2>Как работает броня</h2>
                 <p>У всех комплектов одна система, защита зависит только от тира. Деления на боевые, научные и скрытные больше нет.</p>
                 <ul>
@@ -63,9 +70,9 @@
                     <thead><tr><th>Вставка</th><th>Гасит урона</th><th>Износ</th><th>Прочность</th><th>Цена у торговца</th><th>Где взять</th></tr></thead>
                     <tbody></tbody>
                 </table></div>
-            </details>
-
-            <div id="kits-grid" class="kits-grid"></div>
+            </div>
+                </div>
+            </div>
 
             <!-- Модальное окно -->
             <div id="kitModal" class="modal hidden">

@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   const kitsGrid = document.getElementById("kits-grid");
-  const categoryBtns = document.querySelectorAll(".category-btn");
+  const categoryBtns = document.querySelectorAll(".category-btn[data-cat]");
   const modal = document.getElementById("kitModal");
   const modalClose = document.getElementById("modalClose");
   const modalKitName = document.getElementById("modalKitName");
@@ -276,6 +276,14 @@ document.addEventListener("DOMContentLoaded", () => {
     overlay.addEventListener("click",()=>overlay.remove());
     document.body.appendChild(overlay);
   });
+
+  const infoModal = document.getElementById("armorInfoModal");
+  document.getElementById("armorInfoBtn")?.addEventListener("click", e => {
+    e.stopPropagation();
+    infoModal.classList.remove("hidden");
+  });
+  document.getElementById("armorInfoClose")?.addEventListener("click", () => infoModal.classList.add("hidden"));
+  infoModal?.addEventListener("click", e => { if (e.target === infoModal) infoModal.classList.add("hidden"); });
 
   loadAllKits();
   loadInserts();

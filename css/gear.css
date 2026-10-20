@@ -116,6 +116,9 @@ main {
     padding: 16px;
     max-width: 900px;
     width: 95%;
+    max-height: 92vh;
+    overflow-y: auto;
+    position: relative;
     color: #e0e0e0;
 }
 
@@ -209,9 +212,6 @@ main {
 .kit-tier { color: #bdbdbd; font-size: 13px; }
 
 .gear-info {
-    flex-shrink: 0;
-    max-height: 45vh;
-    overflow-y: auto;
     background-color: #1c1c1c;
     border: 1px solid #3a3a3a;
     border-radius: 8px;
@@ -229,6 +229,7 @@ main {
 .inserts-table th { background-color: #111; color: #ffb000; }
 .inserts-table tr:nth-child(even) td { background-color: #232323; }
 
-.gear-info summary { cursor: pointer; color: #ffb000; font-weight: bold; }
 .gear-categories { flex-shrink: 0; }
 .kits-grid { flex: 1; min-height: 0; }
+.info-modal-content { max-height: 88vh; overflow-y: auto; position: relative; }
+.info-btn { margin-left: auto; }
