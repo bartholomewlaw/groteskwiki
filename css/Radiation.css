@@ -72,3 +72,6 @@
 .rad-table th, .rad-table td { border: 1px solid #333; padding: 6px 8px; text-align: left; }
 .rad-table th { background-color: #111; color: #ffb000; }
 .rad-table tr:nth-child(even) td { background-color: #232323; }
+
+.text-page { width: 100%; min-height: 0; }
+.text-block { min-height: 0; flex: 1; overflow-y: auto; }

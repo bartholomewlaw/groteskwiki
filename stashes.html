@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Обыск тайников — GroteskStalker</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+
+    <!-- Основные css -->
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/Radiation.css">
+    <link rel="stylesheet" href="css/scroll_layout.css">
+    <!-- Компоненты css -->
+    <link rel="stylesheet" href="css/components/garland.css">
+    <link rel="stylesheet" href="css/components/fon.css">
+    <link rel="stylesheet" href="css/components/footer.css">
+    <link rel="stylesheet" href="css/components/nav.css">
+    <!-- Компоненты js -->
+    <script src="js/components/components.js"></script>
+</head>
+<body>
+        <!-- гирлянда -->
+    <div id="garland"></div>
+
+<header>
+    <h1>Обыск тайников</h1>
+</header>
+
+<div id="nav"></div>
+
+<main class="text-page">
+    <section class="text-block">
+
+<h2>🔎 Обыск тайников</h2>
+<p>
+    Тайники разбросаны по всей карте: ящики, сумки, схроны в домах и подвалах.
+    Подойди и выбери действие <strong>«Обыскать тайник»</strong>. Обыск длится 5 секунд, с навыком быстрее.
+    Найденное кладётся внутрь тайника, а что не влезло — на землю рядом.
+</p>
+<p>
+    Тайники наполняются заново раз в <strong>50 минут</strong>: открытые снова становятся полными, а то, что осталось лежать рядом, убирается.
+</p>
+
+<h3>Растяжки</h3>
+<p>
+    В части тайников стоит растяжка. Услышал щелчок — у тебя <strong>5–7 секунд</strong>, чтобы отбежать: граната рвётся там, где ты стоял при обыске.
+    Навык «Сапёр» даёт шанс снять растяжку, тогда взрыва не будет.
+</p>
+<table class="rad-table">
+    <thead><tr><th>Тир тайника</th><th>Опыт за обыск</th><th>Шанс растяжки</th></tr></thead>
+    <tbody>
+        <tr><td>T1</td><td>3</td><td>8%</td></tr>
+        <tr><td>T2</td><td>5</td><td>8%</td></tr>
+        <tr><td>T3</td><td>8</td><td>10%</td></tr>
+        <tr><td>T4</td><td>12</td><td>12%</td></tr>
+        <tr><td>T5</td><td>18</td><td>15%</td></tr>
+        <tr><td>T6</td><td>25</td><td>5%</td></tr>
+    </tbody>
+</table>
+
+<h3>Навык «Обыск»</h3>
+<p>
+    За каждый обысканный тайник дают опыт, чем выше тир тайника, тем больше.
+    Уровень и бонусы видны в названии действия и в сообщении при повышении. Максимум — 30 уровень.
+</p>
+<ul>
+    <li><strong>Скорость обыска</strong> — +1,2% за уровень, до 36% (5 с → 3,2 с).</li>
+    <li><strong>Намётанный глаз</strong> — +1,2% за уровень к шансу найти лишнюю вещь, до 36%.</li>
+    <li><strong>Сапёр</strong> — +2% за уровень к шансу снять растяжку, до 60%.</li>
+</ul>
+<table class="rad-table">
+    <thead><tr><th>Уровень</th><th>Звание</th><th>Опыта всего</th><th>Быстрее</th><th>Время обыска</th><th>Лишняя вещь</th><th>Снять растяжку</th></tr></thead>
+    <tbody>
+        <tr><td>1</td><td>Новичок</td><td>50</td><td>1.2%</td><td>4.94 с</td><td>1.2%</td><td>2%</td></tr>
+        <tr><td>3</td><td>Новичок</td><td>265</td><td>3.6%</td><td>4.82 с</td><td>3.6%</td><td>6%</td></tr>
+        <tr><td>5</td><td>Новичок</td><td>740</td><td>6%</td><td>4.7 с</td><td>6%</td><td>10%</td></tr>
+        <tr><td>8</td><td>Шарящий</td><td>2 220</td><td>9.6%</td><td>4.52 с</td><td>9.6%</td><td>16%</td></tr>
+        <tr><td>10</td><td>Шарящий</td><td>3 905</td><td>12%</td><td>4.4 с</td><td>12%</td><td>20%</td></tr>
+        <tr><td>15</td><td>Кладоискатель</td><td>11 495</td><td>18%</td><td>4.1 с</td><td>18%</td><td>30%</td></tr>
+        <tr><td>20</td><td>Кладоискатель</td><td>25 510</td><td>24%</td><td>3.8 с</td><td>24%</td><td>40%</td></tr>
+        <tr><td>22</td><td>Следопыт</td><td>33 363</td><td>26.4%</td><td>3.68 с</td><td>26.4%</td><td>44%</td></tr>
+        <tr><td>25</td><td>Следопыт</td><td>47 950</td><td>30%</td><td>3.5 с</td><td>30%</td><td>50%</td></tr>
+        <tr><td>30</td><td>Хозяин тайников</td><td>80 815</td><td>36%</td><td>3.2 с</td><td>36%</td><td>60%</td></tr>
+    </tbody>
+</table>
+<p class="muted">Опыт до следующего уровня: 50 + 25 × уровень + 8 × уровень².</p>
+
+    </section>
+</main>
+
+<div id="footer"></div>
+
+</body>
+</html>

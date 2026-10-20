@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Вылазки — GroteskStalker</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+
+    <!-- Основные css -->
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/Radiation.css">
+    <link rel="stylesheet" href="css/scroll_layout.css">
+    <!-- Компоненты css -->
+    <link rel="stylesheet" href="css/components/garland.css">
+    <link rel="stylesheet" href="css/components/fon.css">
+    <link rel="stylesheet" href="css/components/footer.css">
+    <link rel="stylesheet" href="css/components/nav.css">
+    <!-- Компоненты js -->
+    <script src="js/components/components.js"></script>
+</head>
+<body>
+        <!-- гирлянда -->
+    <div id="garland"></div>
+
+<header>
+    <h1>Вылазки</h1>
+</header>
+
+<div id="nav"></div>
+
+<main class="text-page">
+    <section class="text-block">
+
+<h2>⚔ Вылазки</h2>
+<p>
+    Вылазка — закрытая зона, куда на время пускают только твой отряд. Меню вылазок открывается клавишей <strong>Num 2</strong>:
+    там выбираешь зону, сложность и время, записываешься сам или собираешь отряд.
+</p>
+<ul>
+    <li>Запись на ближайшие 7 дней, у игрока одна активная запись.</li>
+    <li>Отменить запись без штрафа можно не позже чем за 30 минут до начала.</li>
+    <li>Если не пришёл в течение 30 минут после начала — запись снимается.</li>
+    <li>Пока идёт чужая вылазка, посторонним в зону нельзя.</li>
+    <li>Вышел из зоны — вылазка пройдена. Время вышло — вылазка заканчивается.</li>
+    <li>Между вылазками одного игрока — перерыв 4 часа.</li>
+</ul>
+
+<h3>Зоны</h3>
+<table class="rad-table">
+    <thead><tr><th>Зона</th><th>Задача</th><th>Игроков</th><th>Время</th></tr></thead>
+    <tbody>
+        <tr><td>Тесла</td><td>Добраться до станции Тесла, переждать разряды и вывести отряд живым.</td><td>1–5</td><td>120 мин</td></tr>
+        <tr><td>Мосты</td><td>Пройти через мосты, где засели мутанты, и вернуться всем отрядом.</td><td>1–5</td><td>120 мин</td></tr>
+        <tr><td>Агропром</td><td>Зачистить Агропром и выйти к точке эвакуации до конца времени.</td><td>1–5</td><td>120 мин</td></tr>
+        <tr><td>Лабиринт</td><td>Пройти Лабиринт до конца и собрать отряд на выходе.</td><td>1–5</td><td>120 мин</td></tr>
+    </tbody>
+</table>
+
+<h3>Сложность</h3>
+<p>Чем выше сложность, тем больше мутантов и лута в тайниках зоны, а на высоких сложностях твой урон по ним ниже.</p>
+<table class="rad-table">
+    <thead><tr><th>Сложность</th><th>Мутантов</th><th>Лут тайников</th><th>Твой урон</th></tr></thead>
+    <tbody>
+        <tr><td>НОВИЧОК</td><td>×1</td><td>×1</td><td>100%</td></tr>
+        <tr><td>ОПЫТНЫЙ</td><td>×1.5</td><td>×1.5</td><td>100%</td></tr>
+        <tr><td>ВЕТЕРАН</td><td>×2</td><td>×2</td><td>90%</td></tr>
+        <tr><td>МАСТЕР</td><td>×3</td><td>×3</td><td>80%</td></tr>
+    </tbody>
+</table>
+
+    </section>
+</main>
+
+<div id="footer"></div>
+
+</body>
+</html>
