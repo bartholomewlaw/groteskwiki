@@ -5,7 +5,7 @@
 
 const grid = document.getElementById("furnitureGrid");
 
-fetch("data/furniture/furniture.json")
+fetch("data/furniture/furniture.json", { cache: "no-cache" })
     .then(res => res.json())
     .then(data => {
         data.forEach(item => {

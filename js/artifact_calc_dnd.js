@@ -263,7 +263,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // ---------- Загрузка данных ----------
-    fetch('data/artefact/art.json')
+    fetch('data/artefact/art.json', { cache: "no-cache" })
         .then(res => { if (!res.ok) throw new Error('HTTP ' + res.status); return res.json(); })
         .then(data => {
             allArtifacts = data.map(art => ({

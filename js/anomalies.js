@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
     }
 
     // Загружаем JSON с аномалиями
-    fetch("data/anomalies.json")
+    fetch("data/anomalies.json", { cache: "no-cache" })
         .then(res => {
             if (!res.ok) throw new Error("Не удалось загрузить JSON");
             return res.json();

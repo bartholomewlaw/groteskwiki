@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (savedContent && content) content.innerHTML = savedContent;
 
     // Загрузка основной новости
-    fetch('data/home/main.json')
+    fetch('data/home/main.json', { cache: "no-cache" })
         .then(res => res.json())
         .then(data => {
             const mainNews = document.getElementById('mainNews');
@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
         .catch(err => console.error("Ошибка загрузки main.json:", err));
 
     // Загрузка обновлений
-    fetch('data/home/updates.json')
+    fetch('data/home/updates.json', { cache: "no-cache" })
         .then(res => res.json())
         .then(data => {
             const updatesList = document.getElementById('updatesList');

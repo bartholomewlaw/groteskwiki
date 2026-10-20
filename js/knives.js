@@ -11,7 +11,7 @@ const modalImage = document.getElementById("modalImage");
 const modalTitle = document.getElementById("modalTitle");
 const modalDesc = document.getElementById("modalDesc");
 
-fetch("data/knives.json")
+fetch("data/knives.json", { cache: "no-cache" })
     .then(res => res.json())
     .then(knives => {
         knives.forEach(knife => {

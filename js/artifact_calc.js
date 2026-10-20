@@ -34,7 +34,7 @@ const maxTier = 4;
 const minTier = 1;
 
 // ------------------ Загрузка JSON ------------------
-fetch("data/artefact/art.json")
+fetch("data/artefact/art.json", { cache: "no-cache" })
   .then(res => res.json())
   .then(data => { 
     allArtifacts = data;

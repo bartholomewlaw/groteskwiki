@@ -96,8 +96,8 @@ document.addEventListener("DOMContentLoaded", () => {
   [kitSel, insSel, zoneSel].forEach(s => s.addEventListener("change", render));
 
   Promise.all([
-    fetch("data/gear/Kits.json").then(r => r.json()),
-    fetch("data/gear/inserts.json").then(r => r.json())
+    fetch("data/gear/Kits.json", { cache: "no-cache" }).then(r => r.json()),
+    fetch("data/gear/inserts.json", { cache: "no-cache" }).then(r => r.json())
   ]).then(([k, i]) => { kits = k; inserts = i; fill(); render(); })
     .catch(err => console.error("Ошибка загрузки комплектов:", err));
 });

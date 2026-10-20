@@ -21,7 +21,7 @@ document.addEventListener("DOMContentLoaded", () => {
   function loadInserts() {
     const body = document.querySelector("#inserts-table tbody");
     if (!body) return;
-    fetch("data/gear/inserts.json")
+    fetch("data/gear/inserts.json", { cache: "no-cache" })
       .then(r => r.json())
       .then(rows => {
         rows.forEach(r => {
@@ -97,7 +97,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function loadAllKits() {
     const promises = Object.entries(jsonFiles).map(([cat, file]) =>
-      fetch(file)
+      fetch(file, { cache: "no-cache" })
         .then(r => r.json())
         .then(data => allKits[cat] = data)
         .catch(err => console.error(`Ошибка загрузки ${file}:`, err))

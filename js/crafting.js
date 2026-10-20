@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function () {
     // Загрузка: index.json -> группы по столам
     // =========================
     async function loadAllData() {
-        const index = await fetch("data/crafting/index.json").then(r => r.json());
+        const index = await fetch("data/crafting/index.json", { cache: "no-cache" }).then(r => r.json());
 
         const allBtn = document.createElement("button");
         allBtn.className = "category-button active";
@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", function () {
             row.className = "bench-groups";
 
             for (const group of bench.groups) {
-                const data = await fetch(`data/crafting/${group.id}.json`).then(r => r.json());
+                const data = await fetch(`data/crafting/${group.id}.json`, { cache: "no-cache" }).then(r => r.json());
                 data.forEach(item => {
                     item.group = group.id;
                     item.groupName = group.name;

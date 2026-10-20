@@ -13,7 +13,7 @@ let currentTier = 0;
 let selectedCard = null;
 
 /* Загрузка JSON */
-fetch("data/artefact/art.json")
+fetch("data/artefact/art.json", { cache: "no-cache" })
     .then(res => res.json())
     .then(data => {
         data.forEach(artefact => {

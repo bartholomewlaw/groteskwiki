@@ -1,7 +1,7 @@
 const grid = document.querySelector('.caliber-grid');
 const searchInput = document.getElementById('caliberSearch');
 
-fetch("data/calibers.json")
+fetch("data/calibers.json", { cache: "no-cache" })
     .then(res => res.json())
     .then(data => {
         // Сохраняем данные для фильтра

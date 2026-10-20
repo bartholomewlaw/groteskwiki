@@ -97,7 +97,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   function loadAllKits() {
     const promises = Object.entries(jsonFiles).map(([cat, file]) =>
-      fetch(file)
+      fetch(file, { cache: "no-cache" })
         .then(r => r.json())
         .then(data => allKits[cat] = data)
         .catch(err => {

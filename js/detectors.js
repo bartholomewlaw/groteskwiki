@@ -5,7 +5,7 @@
 
 const grid = document.getElementById("detectorGrid");
 
-fetch("data/detectors/detectors.json")
+fetch("data/detectors/detectors.json", { cache: "no-cache" })
     .then(res => res.json())
     .then(data => {
         data.forEach(item => {
