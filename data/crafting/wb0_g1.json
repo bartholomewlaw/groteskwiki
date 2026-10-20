@@ -7,7 +7,7 @@
     "assemble": [
       {
         "name": "Летучая мышь 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -20,7 +20,7 @@
     "assemble": [
       {
         "name": "Батарейка 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -33,7 +33,7 @@
     "assemble": [
       {
         "name": "Ангел 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -46,7 +46,7 @@
     "assemble": [
       {
         "name": "Кровь камня 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -59,7 +59,7 @@
     "assemble": [
       {
         "name": "Челюсть 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -72,7 +72,7 @@
     "assemble": [
       {
         "name": "Компасс 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -85,7 +85,7 @@
     "assemble": [
       {
         "name": "Серафим 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -98,7 +98,7 @@
     "assemble": [
       {
         "name": "Душа 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -111,7 +111,7 @@
     "assemble": [
       {
         "name": "Фонтан 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -124,7 +124,7 @@
     "assemble": [
       {
         "name": "Генератор 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -137,7 +137,7 @@
     "assemble": [
       {
         "name": "Гимлет 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -150,7 +150,7 @@
     "assemble": [
       {
         "name": "Глаз 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -163,7 +163,7 @@
     "assemble": [
       {
         "name": "Грави 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -176,7 +176,7 @@
     "assemble": [
       {
         "name": "Изолятор 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -189,7 +189,7 @@
     "assemble": [
       {
         "name": "Колобок 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -202,7 +202,7 @@
     "assemble": [
       {
         "name": "Кристалл 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -215,7 +215,7 @@
     "assemble": [
       {
         "name": "Маяк 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -228,7 +228,7 @@
     "assemble": [
       {
         "name": "Мамины бусы 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -241,7 +241,7 @@
     "assemble": [
       {
         "name": "Медальон 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -254,7 +254,7 @@
     "assemble": [
       {
         "name": "Медуза 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -267,7 +267,7 @@
     "assemble": [
       {
         "name": "Ломоть мяса 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -280,7 +280,7 @@
     "assemble": [
       {
         "name": "Оазис 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -293,7 +293,7 @@
     "assemble": [
       {
         "name": "Фантом 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -306,7 +306,7 @@
     "assemble": [
       {
         "name": "Пламя 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -319,7 +319,7 @@
     "assemble": [
       {
         "name": "Пузырь 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -332,7 +332,7 @@
     "assemble": [
       {
         "name": "Золотая рыбка 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -345,7 +345,7 @@
     "assemble": [
       {
         "name": "Шар 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -358,7 +358,7 @@
     "assemble": [
       {
         "name": "Штурвал 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -371,7 +371,7 @@
     "assemble": [
       {
         "name": "Перстень 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -384,7 +384,7 @@
     "assemble": [
       {
         "name": "Череп Скряги 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -397,7 +397,7 @@
     "assemble": [
       {
         "name": "Снежинка 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -410,7 +410,7 @@
     "assemble": [
       {
         "name": "Ночная звезда 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -423,7 +423,7 @@
     "assemble": [
       {
         "name": "Каменный цветок 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -436,7 +436,7 @@
     "assemble": [
       {
         "name": "Лунный свет 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -449,7 +449,7 @@
     "assemble": [
       {
         "name": "Вспышка 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
@@ -462,7 +462,7 @@
     "assemble": [
       {
         "name": "Выверт 'Тир II'",
-        "amount": 3,
+        "amount": 2,
         "kind": "count"
       }
     ]
