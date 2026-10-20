@@ -79,6 +79,7 @@ main {
 /* Категории */
 .gear-categories {
     display: flex;
+    flex-wrap: wrap;
     gap: 12px;
     margin-bottom: 12px;
 }
@@ -204,3 +205,23 @@ main {
 }
 
 .slot-circle img { width: 36px; height: 36px; object-fit: contain; border-radius: 50%; }
+
+.kit-tier { color: #bdbdbd; font-size: 13px; }
+
+.gear-info {
+    background-color: #1c1c1c;
+    border: 1px solid #3a3a3a;
+    border-radius: 8px;
+    padding: 14px 18px;
+    margin-bottom: 16px;
+    color: #e0e0e0;
+    line-height: 1.5;
+}
+.gear-info h2 { color: #ffb000; font-size: 18px; margin: 6px 0 8px; }
+.gear-info ul { margin: 0 0 10px 18px; padding: 0; }
+.gear-info li { margin-bottom: 4px; }
+.inserts-wrap { overflow-x: auto; }
+.inserts-table { width: 100%; border-collapse: collapse; font-size: 14px; }
+.inserts-table th, .inserts-table td { border: 1px solid #333; padding: 6px 8px; text-align: left; }
+.inserts-table th { background-color: #111; color: #ffb000; }
+.inserts-table tr:nth-child(even) td { background-color: #232323; }

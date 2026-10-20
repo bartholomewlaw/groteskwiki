@@ -5,19 +5,37 @@
 
 document.addEventListener("DOMContentLoaded", () => {
   const jsonFiles = {
-    "Combat": "data/gear/Combat.json",
-    "Scientific": "data/gear/Scientific.json",
-    "Secretive": "data/gear/Secretive.json",
+    "Kits": "data/gear/Kits.json",
     "Backpacks": "data/gear/Backpacks.json"
   };
 
-  const categoryNames = {
-    "Backpacks": "Рюкзаки",
-    "Combat": "Боевой",
-    "Scientific": "Научный",
-    "Secretive": "Скрытный",
-    "all": "Все"
-  };
+  const roman = ["", "I", "II", "III", "IV", "V", "VI", "VII"];
+
+  function tierText(kit) {
+    const t = kit.tiers || [];
+    if (!t.length) return "";
+    const a = t[0], b = t[t.length - 1];
+    return a === b ? `Тир ${roman[a]}` : `Тир ${roman[a]}–${roman[b]}`;
+  }
+
+  function loadInserts() {
+    const body = document.querySelector("#inserts-table tbody");
+    if (!body) return;
+    fetch("data/gear/inserts.json")
+      .then(r => r.json())
+      .then(rows => {
+        rows.forEach(r => {
+          const tr = document.createElement("tr");
+          [r.name, r.reduce, r.wear, r.hp, r.price ? r.price.toLocaleString("ru-RU") : "—", r.source || "—"].forEach(v => {
+            const td = document.createElement("td");
+            td.textContent = v;
+            tr.appendChild(td);
+          });
+          body.appendChild(tr);
+        });
+      })
+      .catch(err => console.error("Ошибка загрузки вставок:", err));
+  }
 
   const kitsGrid = document.getElementById("kits-grid");
   const categoryBtns = document.querySelectorAll(".category-btn");
@@ -90,13 +108,17 @@ document.addEventListener("DOMContentLoaded", () => {
   function renderKits() {
     kitsGrid.innerHTML = "";
     Object.entries(allKits).forEach(([cat, kits]) => {
-      if (currentCategory !== "all" && currentCategory !== cat) return;
+      if (currentCategory === "Backpacks" && cat !== "Backpacks") return;
+      if (currentCategory !== "all" && currentCategory !== "Backpacks" && cat !== "Kits") return;
       kits.forEach(kit => {
+        if (cat === "Kits" && currentCategory !== "all" && currentCategory !== "Backpacks"
+            && !(kit.tiers || []).includes(Number(currentCategory))) return;
         const card = document.createElement("div");
         card.className = "kit-card";
         card.innerHTML = `
           <img src="${kit.variants?.[0]?.images?.[0] || ''}" alt="${kit.name}">
-          <h3>${kit.name}</h3>`;
+          <h3>${kit.name}</h3>
+          <div class="kit-tier">${cat === "Kits" ? tierText(kit) : "Рюкзак"}</div>`;
         card.addEventListener("click", () => openModal(kit, cat));
         kitsGrid.appendChild(card);
       });
@@ -106,7 +128,7 @@ document.addEventListener("DOMContentLoaded", () => {
   function openModal(kit, cat) {
     currentKit = kit;
     modalKitName.textContent = kit.name;
-    modalKitCategory.textContent = categoryNames[cat] || cat;
+    modalKitCategory.textContent = cat === "Kits" ? tierText(kit) : "Рюкзаки и экзоскелеты";
     modalRanks.innerHTML = "";
     modalSlots.innerHTML = "";
     hideSlotTooltip();
@@ -256,4 +278,5 @@ document.addEventListener("DOMContentLoaded", () => {
   });
 
   loadAllKits();
+  loadInserts();
 });

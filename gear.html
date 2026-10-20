@@ -32,12 +32,34 @@
             <div id="nav"></div>
 
         <main>
+            <section class="gear-info">
+                <h2>Как работает броня</h2>
+                <p>У всех комплектов одна система, защита зависит только от тира. Деления на боевые, научные и скрытные больше нет.</p>
+                <ul>
+                    <li>Защита одна и та же от пуль, ударов, мутантов и зомби.</li>
+                    <li>Торс закрывают куртка и бронежилет, голову шлем и маска, ноги штаны. Перчатки и ботинки закрывают кисти и ступни.</li>
+                    <li>Полный комплект по тирам: I 15%, II 30%, III 45%, IV 55%, V 65%, VI 70%, VII 75%.</li>
+                    <li>Радиация полного комплекта: II 40, III 70, IV 120, V и выше 200. Делится по вещам: куртка 25%, маска 20%, жилет и штаны по 15%, шлем 10%, перчатки и ботинки по 7,5%. Какую зону какой комплект закрывает, смотри в разделе «Радиация».</li>
+                    <li>Если в комплекте нет шлема, маски или штанов, эта часть тела защищена хуже. Смотри «Защита головы» и «Защита ног» в карточке.</li>
+                </ul>
+                <h2>Броневставки</h2>
+                <p>Слот под броневставку есть в куртке каждого комплекта. Вставка гасит долю урона, который прошёл сквозь броню: от пуль, ударов, мутантов и зомби. Каждое попадание её изнашивает: вставка теряет урон зоны × износ. Сломанная вставка не работает. Старшие вставки собираются на верстаке из предыдущей, рецепты в разделе «Крафт».</p>
+                <div class="inserts-wrap"><table id="inserts-table" class="inserts-table">
+                    <thead><tr><th>Вставка</th><th>Гасит урона</th><th>Износ</th><th>Прочность</th><th>Цена у торговца</th><th>Где взять</th></tr></thead>
+                    <tbody></tbody>
+                </table></div>
+            </section>
+
             <div class="gear-categories">
                 <button class="category-btn active" data-cat="all">Все</button>
-                <button class="category-btn" data-cat="Combat">Боевые</button>
-                <button class="category-btn" data-cat="Scientific">Научные</button>
-                <button class="category-btn" data-cat="Secretive">Скрытные</button>
-                <button class="category-btn" data-cat="Backpacks">Рюкзаки</button>
+                <button class="category-btn" data-cat="1">Тир I</button>
+                <button class="category-btn" data-cat="2">Тир II</button>
+                <button class="category-btn" data-cat="3">Тир III</button>
+                <button class="category-btn" data-cat="4">Тир IV</button>
+                <button class="category-btn" data-cat="5">Тир V</button>
+                <button class="category-btn" data-cat="6">Тир VI</button>
+                <button class="category-btn" data-cat="7">Тир VII</button>
+                <button class="category-btn" data-cat="Backpacks">Рюкзаки и экзоскелеты</button>
             </div>
 
             <div id="kits-grid" class="kits-grid"></div>

@@ -41,8 +41,8 @@ document.addEventListener("DOMContentLoaded", () => {
     // Показ тултипа
     function showTooltip(target) {
         tooltip.textContent =
-            "Золотые монетки выдаются за голосование на WarGM. " +
-            "Используются для расширения и улучшений.";
+            "Серебряные монеты выдаются за голосование на WarGM и в боевом пропуске. " +
+            "Одна монета — один новый слот личного ящика.";
 
         const rect = target.getBoundingClientRect();
         tooltip.style.top = (window.scrollY + rect.top - tooltip.offsetHeight - 8) + "px";
