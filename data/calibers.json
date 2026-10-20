@@ -3,92 +3,50 @@
     "name": "9x19мм Пст гж",
     "damage": 12,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_9x19_PSTGZH"
-  },
-  {
-    "name": "5.7x28мм SS190",
-    "damage": 15,
-    "tier": "",
-    "rank": "Новичок",
-    "class": "Ammo_57x28_ss190"
   },
   {
     "name": "7,62х25мм Пст гж",
     "damage": 15,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Kvld_Ammo_762x25TT_PSTGJ"
   },
   {
     "name": "9x19мм AP 6.3",
     "damage": 15,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_9x19_AP"
-  },
-  {
-    "name": "5.7x28мм L191",
-    "damage": 17,
-    "tier": "",
-    "rank": "Новичок",
-    "class": "Ammo_57x28_l191"
   },
   {
     "name": "7,62х25мм ПТ гж",
     "damage": 17,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Kvld_Ammo_762x25TT_PTGJ"
-  },
-  {
-    "name": "5.7x28мм SS197SR",
-    "damage": 19,
-    "tier": "",
-    "rank": "Новичок",
-    "class": "Ammo_57x28_ss197sr"
   },
   {
     "name": ".45 ACP Lasermatch FMJ",
     "damage": 21,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_45ACP_FMJ"
   },
   {
     "name": ".45 ACP AP",
     "damage": 23,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_45ACP_AP"
   },
   {
     "name": "9x21мм БТ гж",
     "damage": 26,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_9x21_BT"
-  },
-  {
-    "name": "4.6x30мм AP SX",
-    "damage": 27,
-    "tier": "",
-    "rank": "Новичок",
-    "class": "Kvld_Ammo_46x30_AP"
-  },
-  {
-    "name": "4.6x30мм Subsonic SX",
-    "damage": 29,
-    "tier": "",
-    "rank": "Новичок",
-    "class": "Kvld_Ammo_46x30_SS"
-  },
-  {
-    "name": "Патроны .22 LR",
-    "damage": 30,
-    "tier": "W1",
-    "rank": "Новичок",
-    "class": "Ammo_22"
   },
   {
     "name": "Патроны .380 ACP",
@@ -101,14 +59,14 @@
     "name": "5.45x39мм ПС гс",
     "damage": 33,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_545x39_PS"
   },
   {
     "name": "5.45x39мм БП гс",
     "damage": 35,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_545x39_BP"
   },
   {
@@ -129,7 +87,7 @@
     "name": "5.45x39мм БС гс",
     "damage": 37,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_545x39_BS"
   },
   {
@@ -157,197 +115,162 @@
     "name": "5.56x45мм M855",
     "damage": 43,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_556x45_M855"
   },
   {
     "name": "5.56x45мм M856A1",
     "damage": 45,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_556x45_M856A1"
   },
   {
     "name": "5.56x45мм M855A1",
     "damage": 49,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_556x45_M855A1"
   },
   {
     "name": "12/70 бронебойная пуля AP-20",
     "damage": 50,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_12gaAP20"
   },
   {
     "name": "6.8x51mm SIG Hybrid",
     "damage": 54,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_68x51_Hybrid"
-  },
-  {
-    "name": "Патроны .357",
-    "damage": 55,
-    "tier": "W1",
-    "rank": "Новичок",
-    "class": "Ammo_357"
   },
   {
     "name": "7.62x39мм ПС гж",
     "damage": 56,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_762x39_PS"
   },
   {
     "name": "7.62x39мм БП гж",
     "damage": 60,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_762x39_BP"
-  },
-  {
-    "name": ".366 ТКМ БП-М",
-    "damage": 68,
-    "tier": "",
-    "rank": "Новичок",
-    "class": "Ammo_366TKM_AP"
   },
   {
     "name": "7,62x51 M80",
     "damage": 68,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_308Win_M80"
   },
   {
     "name": ".300 Blackout M62 Tracer",
     "damage": 69,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_300BLK_M62"
   },
   {
     "name": "7,62x51 M61",
     "damage": 75,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_308Win_M61"
   },
   {
     "name": "7.62x54мм R ЛПС гж",
     "damage": 78,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_762x54_LPS"
   },
   {
     "name": "7,62x51 M993",
     "damage": 81,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_308Win_M993"
   },
   {
     "name": "7.62x54мм R ПС гж",
     "damage": 81,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_762x54_PS"
   },
   {
     "name": "9x39мм СП-5 гс",
     "damage": 98,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_9x39_SP5"
   },
   {
     "name": "Трассирующие патроны 5,45x39 мм",
     "damage": 100,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_545x39Tracer"
   },
   {
     "name": "Трассирующие патроны 5,56x45 мм",
     "damage": 105,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_556x45Tracer"
   },
   {
     "name": "9x39мм СП-6 гс",
     "damage": 107,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_9x39_SP6"
-  },
-  {
-    "name": "12/70 флешетта",
-    "damage": 111,
-    "tier": "",
-    "rank": "Новичок",
-    "class": "Ammo_12gaFlechet"
   },
   {
     "name": "Трассирующие патроны 7,62x39 мм",
     "damage": 115,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_762x39Tracer"
   },
   {
     "name": "Бронебойные патроны 9х39 мм",
     "damage": 130,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_9x39AP"
   },
   {
     "name": ".338 Lapua Magnum AP",
     "damage": 181,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_338LM_AP"
   },
   {
     "name": "Трассирующие патроны .308 WIN",
     "damage": 230,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_308WinTracer"
   },
   {
     "name": "Трассирующие патроны 7,62x54 мм R",
     "damage": 250,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_762x54Tracer"
   },
   {
     "name": "Патроны 12 калибра с нарезами",
     "damage": 400,
     "tier": "",
-    "rank": "Новичок",
+    "rank": "",
     "class": "Ammo_12gaSlug"
-  },
-  {
-    "name": "4.6x30мм FMJ SX",
-    "damage": 85,
-    "tier": "W2",
-    "rank": "Ветеран",
-    "class": "Kvld_Ammo_46x30_FMJ"
-  },
-  {
-    "name": "5.7x28мм R37.F",
-    "damage": 85,
-    "tier": "W2",
-    "rank": "Ветеран",
-    "class": "Ammo_57x28_r37f"
   },
   {
     "name": "Патроны 5,45x39 мм",
@@ -369,13 +292,6 @@
     "tier": "W2",
     "rank": "Ветеран",
     "class": "Ammo_300BLK_FMJ"
-  },
-  {
-    "name": ".366 ТКМ FMJ",
-    "damage": 110,
-    "tier": "W2",
-    "rank": "Ветеран",
-    "class": "Ammo_366TKM_FMJ"
   },
   {
     "name": "Патроны 7,62x39 мм",
@@ -497,45 +413,10 @@
     "class": "Ammo_127x99_M33"
   },
   {
-    "name": "9x39мм БП гс аномальные",
-    "damage": 547,
-    "tier": "W4",
-    "rank": "Легенда",
-    "class": "Ammo_9x39_BPanom"
-  },
-  {
     "name": "12.7x108мм Б-32",
     "damage": 662,
     "tier": "W4",
     "rank": "Легенда",
     "class": "Kuvalda_Ammo_12x7mm"
-  },
-  {
-    "name": ".338 Lapua Magnum AP аномальные",
-    "damage": 547,
-    "tier": "W5",
-    "rank": "Легенда",
-    "class": "Ammo_338LM_APanom"
-  },
-  {
-    "name": ".408 Cheyenne Tactical аномальные",
-    "damage": 547,
-    "tier": "W5",
-    "rank": "Легенда",
-    "class": "Ammo_408_APanom"
-  },
-  {
-    "name": "Ионные пластины.",
-    "damage": 604,
-    "tier": "W5",
-    "rank": "Легенда",
-    "class": "VZP_Ammo_gaus"
-  },
-  {
-    "name": "12.7x108мм модифицированный",
-    "damage": 1007,
-    "tier": "W5",
-    "rank": "Легенда",
-    "class": "Kuvalda_Ammo_12x7mmmod"
   }
 ]
