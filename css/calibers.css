@@ -249,3 +249,5 @@ th.sortable:focus-visible { outline: 2px solid #e7a03d; outline-offset: 2px; }
 }
 
 .caliber-compare-bar[hidden], .caliber-compare[hidden], .caliber-grid[hidden], .caliber-table-wrap[hidden] { display: none !important; }
+
+.caliber-table .pellets { color: var(--muted, #8a8f7f); font-size: 0.85em; }

@@ -16,8 +16,9 @@ const COLUMNS = [
     { key: 'group', label: 'Калибр', type: 'group' },
     { key: 'name', label: 'Патрон', type: 'text' },
     { key: 'damage', label: 'Урон', type: 'num' },
+    { key: 'shot', label: 'За выстрел', type: 'num' },
     { key: 'blood', label: 'Кровь', type: 'num' },
-    { key: 'hits', label: 'Попаданий на 1000 HP', type: 'num' },
+    { key: 'hits', label: 'Выстрелов на 1000 HP', type: 'num' },
     { key: 'speed', label: 'Скорость, м/с', type: 'num' },
     { key: 'tier', label: 'Тир', type: 'text' },
     { key: 'price', label: 'Цена', type: 'num' },
@@ -27,7 +28,7 @@ const COLUMNS = [
 
 let data = [];
 let view = 'table';
-let sortKey = 'damage';
+let sortKey = 'shot';
 let sortDir = -1;
 const picked = new Set();
 const opened = new Set();
@@ -56,7 +57,9 @@ fetch("data/calibers.json", { cache: "no-cache" })
     .then(res => res.json())
     .then(json => {
         data = json.map(r => Object.assign({}, r, {
-            hits: r.damage > 0 ? Math.ceil(HP_REF / r.damage) : '',
+            pellets: r.pellets || 1,
+            shot: r.shot || r.damage,
+            hits: (r.shot || r.damage) > 0 ? Math.ceil(HP_REF / (r.shot || r.damage)) : '',
             gunsCount: (r.guns || []).length
         }));
         fillFilters();
@@ -131,17 +134,18 @@ function renderTable(rows) {
         th.classList.toggle('active', th.dataset.key === sortKey);
         mark.textContent = th.dataset.key === sortKey ? (sortDir > 0 ? ' ▲' : ' ▼') : '';
     });
-    const maxDmg = Math.max(...data.map(r => r.damage || 0), 1);
+    const maxDmg = Math.max(...data.map(r => r.shot || 0), 1);
     tableBody.innerHTML = '';
     rows.forEach(r => {
         const tr = document.createElement('tr');
         tr.className = 'cal-row' + (r.rank ? ' rank-' + r.rank : '');
-        const pct = Math.round((r.damage / maxDmg) * 100);
+        const pct = Math.round((r.shot / maxDmg) * 100);
         tr.innerHTML = `
             <td class="col-pick"><input type="checkbox" aria-label="Сравнить ${esc(r.name)}" ${picked.has(r.class) ? 'checked' : ''}></td>
             <td class="col-group">${esc(r.group)}</td>
             <td class="col-name">${esc(r.name)}</td>
-            <td class="num col-dmg"><span class="dmg-bar" style="width:${pct}%"></span><span class="dmg-val">${r.damage}</span></td>
+            <td class="num">${r.damage}${r.pellets > 1 ? ` <span class="pellets">× ${r.pellets}</span>` : ''}</td>
+            <td class="num col-dmg"><span class="dmg-bar" style="width:${pct}%"></span><span class="dmg-val">${r.shot}</span></td>
             <td class="num">${r.blood !== '' ? r.blood : '—'}</td>
             <td class="num">${r.hits}</td>
             <td class="num">${r.speed !== '' ? r.speed : '—'}</td>
@@ -177,7 +181,7 @@ function renderCards(rows) {
         if (item.rank) card.dataset.rank = item.rank;
         card.innerHTML = `
             <div class="caliber-name"><span class="label">Калибр:</span>${esc(item.name)}</div>
-            <div class="caliber-damage"><span class="label">Урон:</span>${item.damage}</div>
+            <div class="caliber-damage"><span class="label">Урон:</span>${item.damage}${item.pellets > 1 ? ' × ' + item.pellets + ' = ' + item.shot : ''}</div>
         ${item.tier ? `<div class="caliber-damage"><span class="label">Тир:</span>${esc(item.tier)}</div>` : ''}
         `;
         grid.appendChild(card);
@@ -194,13 +198,13 @@ function renderCompare() {
     const rows = data.filter(r => picked.has(r.class));
     if (rows.length === 0) { compareBox.hidden = true; return; }
     const fields = [
-        ['Калибр', r => r.group], ['Урон', r => r.damage], ['Кровь', r => r.blood || '—'],
-        ['Попаданий на 1000 HP', r => r.hits], ['Скорость, м/с', r => r.speed || '—'], ['Тир', r => r.tier || '—'],
+        ['Калибр', r => r.group], ['Урон', r => r.pellets > 1 ? r.damage + ' × ' + r.pellets : r.damage], ['За выстрел', r => r.shot], ['Кровь', r => r.blood || '—'],
+        ['Выстрелов на 1000 HP', r => r.hits], ['Скорость, м/с', r => r.speed || '—'], ['Тир', r => r.tier || '—'],
         ['Цена', r => r.price !== '' ? r.price : '—'], ['Где взять', r => r.source || '—'], ['Стволов', r => r.gunsCount]
     ];
     const best = {
-        'Урон': Math.max(...rows.map(r => r.damage)),
-        'Попаданий на 1000 HP': Math.min(...rows.map(r => r.hits || 9999)),
+        'За выстрел': Math.max(...rows.map(r => r.shot)),
+        'Выстрелов на 1000 HP': Math.min(...rows.map(r => r.hits || 9999)),
         'Скорость, м/с': Math.max(...rows.map(r => r.speed || 0))
     };
     compareBox.innerHTML = `
