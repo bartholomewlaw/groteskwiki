@@ -1,153 +1,5 @@
 [
   {
-    "name": "9x19мм Пст гж",
-    "group": "9×19",
-    "damage": 12,
-    "pellets": 1,
-    "shot": 12,
-    "blood": 12,
-    "speed": 477,
-    "tier": "",
-    "rank": "",
-    "price": 5,
-    "source": "торговцы",
-    "guns": [
-      "B&T MP9 9x19",
-      "HK MP5 9x19",
-      "IWI UZI 9x19",
-      "IWI UZI PRO SMG 9x19",
-      "KRISS Vector Gen.2 9x19",
-      "MP-40",
-      "MP-443 Грач 9x19",
-      "Mlock-91",
-      "ПП-19-01 Витязь 9x19",
-      "Пистолет Beretta M9A3 9x19",
-      "Пистолет Лебедева ПЛ-15 9x19",
-      "Пистолет-пулемет SIG MPX 9x19",
-      "Союз-ТМ STM-9 9x19"
-    ],
-    "class": "Ammo_9x19_PSTGZH"
-  },
-  {
-    "name": "7,62х25мм Пст гж",
-    "group": "7.62×25",
-    "damage": 15,
-    "pellets": 1,
-    "shot": 15,
-    "blood": 15,
-    "speed": 450,
-    "tier": "",
-    "rank": "",
-    "price": 6,
-    "source": "торговцы, тайники, лутбоксы, боевой пропуск",
-    "guns": [
-      "Пистолет ТТ-33 7.62x25 ТТ",
-      "Пистолет ТТ-33 7.62x25 ТТ (Золотой)",
-      "Пистолет-пулемет ППШ-41 7.62x25"
-    ],
-    "class": "Kvld_Ammo_762x25TT_PSTGJ"
-  },
-  {
-    "name": "9x19мм AP 6.3",
-    "group": "9×19",
-    "damage": 15,
-    "pellets": 1,
-    "shot": 15,
-    "blood": 15,
-    "speed": 412,
-    "tier": "",
-    "rank": "",
-    "price": 6,
-    "source": "торговцы, тайники",
-    "guns": [
-      "B&T MP9 9x19",
-      "HK MP5 9x19",
-      "IWI UZI 9x19",
-      "IWI UZI PRO SMG 9x19",
-      "KRISS Vector Gen.2 9x19",
-      "MP-40",
-      "MP-443 Грач 9x19",
-      "Mlock-91",
-      "ПП-19-01 Витязь 9x19",
-      "Пистолет Beretta M9A3 9x19",
-      "Пистолет Лебедева ПЛ-15 9x19",
-      "Пистолет-пулемет SIG MPX 9x19",
-      "Союз-ТМ STM-9 9x19"
-    ],
-    "class": "Ammo_9x19_AP"
-  },
-  {
-    "name": "7,62х25мм ПТ гж",
-    "group": "7.62×25",
-    "damage": 17,
-    "pellets": 1,
-    "shot": 17,
-    "blood": 17,
-    "speed": 435,
-    "tier": "",
-    "rank": "",
-    "price": 6,
-    "source": "торговцы",
-    "guns": [
-      "Пистолет ТТ-33 7.62x25 ТТ",
-      "Пистолет ТТ-33 7.62x25 ТТ (Золотой)",
-      "Пистолет-пулемет ППШ-41 7.62x25"
-    ],
-    "class": "Kvld_Ammo_762x25TT_PTGJ"
-  },
-  {
-    "name": ".45 ACP Lasermatch FMJ",
-    "group": ".45 ACP",
-    "damage": 21,
-    "pellets": 1,
-    "shot": 21,
-    "blood": 21,
-    "speed": 360,
-    "tier": "",
-    "rank": "",
-    "price": 6,
-    "source": "торговцы",
-    "guns": [
-      "TDI KRISS Vector Gen.2 .45 ACP"
-    ],
-    "class": "Ammo_45ACP_FMJ"
-  },
-  {
-    "name": ".45 ACP AP",
-    "group": ".45 ACP",
-    "damage": 23,
-    "pellets": 1,
-    "shot": 23,
-    "blood": 23,
-    "speed": 319,
-    "tier": "",
-    "rank": "",
-    "price": 6,
-    "source": "торговцы, тайники, боевой пропуск",
-    "guns": [
-      "TDI KRISS Vector Gen.2 .45 ACP"
-    ],
-    "class": "Ammo_45ACP_AP"
-  },
-  {
-    "name": "9x21мм БТ гж",
-    "group": "9×21",
-    "damage": 26,
-    "pellets": 1,
-    "shot": 26,
-    "blood": 26,
-    "speed": 430,
-    "tier": "",
-    "rank": "",
-    "price": 7,
-    "source": "торговцы, тайники, боевой пропуск",
-    "guns": [
-      "СР-1МП Гюрза 9x21",
-      "СР-2М «Вереск»"
-    ],
-    "class": "Ammo_9x21_BT"
-  },
-  {
     "name": "Патроны .380 ACP",
     "group": ".380 ACP",
     "damage": 30,
@@ -167,48 +19,6 @@
       "Пистолет-пулемет ПП-91 Кедр"
     ],
     "class": "Ammo_380"
-  },
-  {
-    "name": "5.45x39мм ПС гс",
-    "group": "5.45×39",
-    "damage": 33,
-    "pellets": 1,
-    "shot": 33,
-    "blood": 33,
-    "speed": 910,
-    "tier": "",
-    "rank": "",
-    "price": 12,
-    "source": "торговцы",
-    "guns": [
-      "АЕК-971",
-      "АК-12 5.45x39",
-      "АК-74Н 5.45x39",
-      "АКС-74У 5.45x39",
-      "КА-74"
-    ],
-    "class": "Ammo_545x39_PS"
-  },
-  {
-    "name": "5.45x39мм БП гс",
-    "group": "5.45×39",
-    "damage": 35,
-    "pellets": 1,
-    "shot": 35,
-    "blood": 35,
-    "speed": 910,
-    "tier": "",
-    "rank": "",
-    "price": 12,
-    "source": "торговцы",
-    "guns": [
-      "АЕК-971",
-      "АК-12 5.45x39",
-      "АК-74Н 5.45x39",
-      "АКС-74У 5.45x39",
-      "КА-74"
-    ],
-    "class": "Ammo_545x39_BP"
   },
   {
     "name": "7,62х25мм FMJ",
@@ -261,27 +71,6 @@
       "ТОЗ-34"
     ],
     "class": "Ammo_12gaPellets"
-  },
-  {
-    "name": "5.45x39мм БС гс",
-    "group": "5.45×39",
-    "damage": 37,
-    "pellets": 1,
-    "shot": 37,
-    "blood": 37,
-    "speed": 850,
-    "tier": "",
-    "rank": "",
-    "price": 12,
-    "source": "торговцы",
-    "guns": [
-      "АЕК-971",
-      "АК-12 5.45x39",
-      "АК-74Н 5.45x39",
-      "АКС-74У 5.45x39",
-      "КА-74"
-    ],
-    "class": "Ammo_545x39_BS"
   },
   {
     "name": "Патроны .45 ACP",
@@ -348,56 +137,202 @@
     "class": "Ammo_9x21_PS"
   },
   {
-    "name": "5.56x45мм M855",
-    "group": "5.56×45",
-    "damage": 43,
+    "name": "9x19мм AP 6.3",
+    "group": "9×19",
+    "damage": 63,
     "pellets": 1,
-    "shot": 43,
-    "blood": 43,
-    "speed": 942,
+    "shot": 63,
+    "blood": 50,
+    "speed": 412,
     "tier": "",
     "rank": "",
-    "price": 12,
-    "source": "торговцы",
+    "price": 6,
+    "source": "торговцы, тайники",
     "guns": [
-      "HK416 A5",
-      "LE-MAS",
-      "АК-101 5.56x45",
-      "КА-101",
-      "Штурмовая винтовка Colt M4A1 5.56x45",
-      "Штурмовая винтовка LR-300 5.56x45"
+      "B&T MP9 9x19",
+      "HK MP5 9x19",
+      "IWI UZI 9x19",
+      "IWI UZI PRO SMG 9x19",
+      "KRISS Vector Gen.2 9x19",
+      "MP-40",
+      "MP-443 Грач 9x19",
+      "Mlock-91",
+      "ПП-19-01 Витязь 9x19",
+      "Пистолет Beretta M9A3 9x19",
+      "Пистолет Лебедева ПЛ-15 9x19",
+      "Пистолет-пулемет SIG MPX 9x19",
+      "Союз-ТМ STM-9 9x19"
     ],
-    "class": "Ammo_556x45_M855"
+    "class": "Ammo_9x19_AP"
   },
   {
-    "name": "5.56x45мм M856A1",
-    "group": "5.56×45",
-    "damage": 45,
+    "name": ".45 ACP AP",
+    "group": ".45 ACP",
+    "damage": 65,
     "pellets": 1,
-    "shot": 45,
-    "blood": 45,
-    "speed": 960,
+    "shot": 65,
+    "blood": 50,
+    "speed": 319,
+    "tier": "",
+    "rank": "",
+    "price": 6,
+    "source": "торговцы, тайники, боевой пропуск",
+    "guns": [
+      "TDI KRISS Vector Gen.2 .45 ACP"
+    ],
+    "class": "Ammo_45ACP_AP"
+  },
+  {
+    "name": "9x19мм Пст гж",
+    "group": "9×19",
+    "damage": 65,
+    "pellets": 1,
+    "shot": 65,
+    "blood": 10,
+    "speed": 477,
+    "tier": "",
+    "rank": "",
+    "price": 5,
+    "source": "торговцы",
+    "guns": [
+      "B&T MP9 9x19",
+      "HK MP5 9x19",
+      "IWI UZI 9x19",
+      "IWI UZI PRO SMG 9x19",
+      "KRISS Vector Gen.2 9x19",
+      "MP-40",
+      "MP-443 Грач 9x19",
+      "Mlock-91",
+      "ПП-19-01 Витязь 9x19",
+      "Пистолет Beretta M9A3 9x19",
+      "Пистолет Лебедева ПЛ-15 9x19",
+      "Пистолет-пулемет SIG MPX 9x19",
+      "Союз-ТМ STM-9 9x19"
+    ],
+    "class": "Ammo_9x19_PSTGZH"
+  },
+  {
+    "name": "7,62х25мм Пст гж",
+    "group": "7.62×25",
+    "damage": 67,
+    "pellets": 1,
+    "shot": 67,
+    "blood": 50,
+    "speed": 450,
+    "tier": "",
+    "rank": "",
+    "price": 6,
+    "source": "торговцы, тайники, лутбоксы, боевой пропуск",
+    "guns": [
+      "Пистолет ТТ-33 7.62x25 ТТ",
+      "Пистолет ТТ-33 7.62x25 ТТ (Золотой)",
+      "Пистолет-пулемет ППШ-41 7.62x25"
+    ],
+    "class": "Kvld_Ammo_762x25TT_PSTGJ"
+  },
+  {
+    "name": ".45 ACP Lasermatch FMJ",
+    "group": ".45 ACP",
+    "damage": 75,
+    "pellets": 1,
+    "shot": 75,
+    "blood": 10,
+    "speed": 360,
+    "tier": "",
+    "rank": "",
+    "price": 6,
+    "source": "торговцы",
+    "guns": [
+      "TDI KRISS Vector Gen.2 .45 ACP"
+    ],
+    "class": "Ammo_45ACP_FMJ"
+  },
+  {
+    "name": "7,62х25мм ПТ гж",
+    "group": "7.62×25",
+    "damage": 80,
+    "pellets": 1,
+    "shot": 80,
+    "blood": 50,
+    "speed": 435,
+    "tier": "",
+    "rank": "",
+    "price": 6,
+    "source": "торговцы",
+    "guns": [
+      "Пистолет ТТ-33 7.62x25 ТТ",
+      "Пистолет ТТ-33 7.62x25 ТТ (Золотой)",
+      "Пистолет-пулемет ППШ-41 7.62x25"
+    ],
+    "class": "Kvld_Ammo_762x25TT_PTGJ"
+  },
+  {
+    "name": "9x21мм БТ гж",
+    "group": "9×21",
+    "damage": 90,
+    "pellets": 1,
+    "shot": 90,
+    "blood": 50,
+    "speed": 430,
+    "tier": "",
+    "rank": "",
+    "price": 7,
+    "source": "торговцы, тайники, боевой пропуск",
+    "guns": [
+      "СР-1МП Гюрза 9x21",
+      "СР-2М «Вереск»"
+    ],
+    "class": "Ammo_9x21_BT"
+  },
+  {
+    "name": "Трассирующие патроны 5,45x39 мм",
+    "group": "5.45×39",
+    "damage": 100,
+    "pellets": 1,
+    "shot": 100,
+    "blood": 87,
+    "speed": 880,
+    "tier": "",
+    "rank": "",
+    "price": "",
+    "source": "торговцы",
+    "guns": [
+      "АЕК-971",
+      "АК-12 5.45x39",
+      "АК-74Н 5.45x39",
+      "АКС-74У 5.45x39",
+      "КА-74"
+    ],
+    "class": "Ammo_545x39Tracer"
+  },
+  {
+    "name": "5.45x39мм БС гс",
+    "group": "5.45×39",
+    "damage": 105,
+    "pellets": 1,
+    "shot": 105,
+    "blood": 50,
+    "speed": 850,
     "tier": "",
     "rank": "",
     "price": 12,
     "source": "торговцы",
     "guns": [
-      "HK416 A5",
-      "LE-MAS",
-      "АК-101 5.56x45",
-      "КА-101",
-      "Штурмовая винтовка Colt M4A1 5.56x45",
-      "Штурмовая винтовка LR-300 5.56x45"
+      "АЕК-971",
+      "АК-12 5.45x39",
+      "АК-74Н 5.45x39",
+      "АКС-74У 5.45x39",
+      "КА-74"
     ],
-    "class": "Ammo_556x45_M856A1"
+    "class": "Ammo_545x39_BS"
   },
   {
     "name": "5.56x45мм M855A1",
     "group": "5.56×45",
-    "damage": 49,
+    "damage": 105,
     "pellets": 1,
-    "shot": 49,
-    "blood": 49,
+    "shot": 105,
+    "blood": 50,
     "speed": 965,
     "tier": "",
     "rank": "",
@@ -414,67 +349,38 @@
     "class": "Ammo_556x45_M855A1"
   },
   {
-    "name": "12/70 бронебойная пуля AP-20",
-    "group": "12 калибр",
-    "damage": 50,
+    "name": "Трассирующие патроны 5,56x45 мм",
+    "group": "5.56×45",
+    "damage": 105,
     "pellets": 1,
-    "shot": 50,
-    "blood": 50,
-    "speed": 530,
+    "shot": 105,
+    "blood": 95,
+    "speed": 1000,
     "tier": "",
     "rank": "",
-    "price": 30,
-    "source": "торговцы, тайники, боевой пропуск",
+    "price": "",
+    "source": "торговцы",
     "guns": [
-      "Kel-Tec KSG 12к",
-      "MP-153 12к",
-      "MPS Auto Assault-12",
-      "Protecta",
-      "SPAS-12 12к",
-      "USAS-12",
-      "БK-12",
-      "БК-133",
-      "Болтовое ружье ТОЗ-106 20к",
-      "Помповое ружье Remington Model 870 12к",
-      "Ружье Benelli M3 Super 90 12к",
-      "Ружье МЦ-255-12 12к",
-      "Самозарядное ружье MP-153 12к",
-      "Самозарядное ружье MP-155 12к",
-      "Самозарядный карабин Вепрь 12К",
-      "Самозарядный карабин Сайга 12К",
-      "ТОЗ-34"
+      "HK416 A5",
+      "LE-MAS",
+      "АК-101 5.56x45",
+      "КА-101",
+      "Штурмовая винтовка Colt M4A1 5.56x45",
+      "Штурмовая винтовка LR-300 5.56x45"
     ],
-    "class": "Ammo_12gaAP20"
+    "class": "Ammo_556x45Tracer"
   },
   {
-    "name": "6.8x51mm SIG Hybrid",
-    "group": "6.8×51",
-    "damage": 54,
-    "pellets": 1,
-    "shot": 54,
-    "blood": 54,
-    "speed": 914,
-    "tier": "",
-    "rank": "",
-    "price": 36,
-    "source": "торговцы, тайники",
-    "guns": [
-      "SIG XM250 6.8x51мм",
-      "Штурмовая винтовка SIG MCX SPEAR 6.8x51мм"
-    ],
-    "class": "Ammo_68x51_Hybrid"
-  },
-  {
-    "name": "7.62x39мм ПС гж",
+    "name": "Трассирующие патроны 7,62x39 мм",
     "group": "7.62×39",
-    "damage": 56,
+    "damage": 115,
     "pellets": 1,
-    "shot": 56,
-    "blood": 56,
-    "speed": 720,
+    "shot": 115,
+    "blood": 105,
+    "speed": 740,
     "tier": "",
     "rank": "",
-    "price": 18,
+    "price": "",
     "source": "торговцы",
     "guns": [
       "АК-103 7.62x39",
@@ -483,15 +389,76 @@
       "БK-18",
       "КА-M"
     ],
-    "class": "Ammo_762x39_PS"
+    "class": "Ammo_762x39Tracer"
+  },
+  {
+    "name": "5.45x39мм ПС гс",
+    "group": "5.45×39",
+    "damage": 119,
+    "pellets": 1,
+    "shot": 119,
+    "blood": 50,
+    "speed": 910,
+    "tier": "",
+    "rank": "",
+    "price": 12,
+    "source": "торговцы",
+    "guns": [
+      "АЕК-971",
+      "АК-12 5.45x39",
+      "АК-74Н 5.45x39",
+      "АКС-74У 5.45x39",
+      "КА-74"
+    ],
+    "class": "Ammo_545x39_PS"
+  },
+  {
+    "name": ".300 Blackout M62 Tracer",
+    "group": ".300 Blackout",
+    "damage": 120,
+    "pellets": 1,
+    "shot": 120,
+    "blood": 50,
+    "speed": 462,
+    "tier": "",
+    "rank": "",
+    "price": 24,
+    "source": "торговцы",
+    "guns": [
+      "AAC Honey Badger .300 Blackout",
+      "LE-MAS"
+    ],
+    "class": "Ammo_300BLK_M62"
+  },
+  {
+    "name": "5.56x45мм M855",
+    "group": "5.56×45",
+    "damage": 120,
+    "pellets": 1,
+    "shot": 120,
+    "blood": 30,
+    "speed": 942,
+    "tier": "",
+    "rank": "",
+    "price": 12,
+    "source": "торговцы",
+    "guns": [
+      "HK416 A5",
+      "LE-MAS",
+      "АК-101 5.56x45",
+      "КА-101",
+      "Штурмовая винтовка Colt M4A1 5.56x45",
+      "Штурмовая винтовка LR-300 5.56x45"
+    ],
+    "class": "Ammo_556x45_M855"
   },
   {
     "name": "7.62x39мм БП гж",
     "group": "7.62×39",
-    "damage": 60,
+    "damage": 120,
     "pellets": 1,
-    "shot": 60,
-    "blood": 60,
+    "shot": 120,
+    "blood": 50,
     "speed": 750,
     "tier": "",
     "rank": "",
@@ -507,12 +474,154 @@
     "class": "Ammo_762x39_BP"
   },
   {
+    "name": "7.62x39мм ПС гж",
+    "group": "7.62×39",
+    "damage": 120,
+    "pellets": 1,
+    "shot": 120,
+    "blood": 50,
+    "speed": 720,
+    "tier": "",
+    "rank": "",
+    "price": 18,
+    "source": "торговцы",
+    "guns": [
+      "АК-103 7.62x39",
+      "АК-47 Золотой 7.62x39",
+      "Автомат Калашникова АКМН 7.62x39",
+      "БK-18",
+      "КА-M"
+    ],
+    "class": "Ammo_762x39_PS"
+  },
+  {
+    "name": "9x39мм СП-5 гс",
+    "group": "9×39",
+    "damage": 120,
+    "pellets": 1,
+    "shot": 120,
+    "blood": 50,
+    "speed": 290,
+    "tier": "",
+    "rank": "",
+    "price": 21,
+    "source": "торговцы",
+    "guns": [
+      "Автомат Специальный «Вал» 9x39",
+      "ВСК-94 9x39",
+      "ВСС «Винторез» 9x39",
+      "СВАЛ"
+    ],
+    "class": "Ammo_9x39_SP5"
+  },
+  {
+    "name": "5.45x39мм БП гс",
+    "group": "5.45×39",
+    "damage": 130,
+    "pellets": 1,
+    "shot": 130,
+    "blood": 50,
+    "speed": 910,
+    "tier": "",
+    "rank": "",
+    "price": 12,
+    "source": "торговцы",
+    "guns": [
+      "АЕК-971",
+      "АК-12 5.45x39",
+      "АК-74Н 5.45x39",
+      "АКС-74У 5.45x39",
+      "КА-74"
+    ],
+    "class": "Ammo_545x39_BP"
+  },
+  {
+    "name": "5.56x45мм M856A1",
+    "group": "5.56×45",
+    "damage": 130,
+    "pellets": 1,
+    "shot": 130,
+    "blood": 50,
+    "speed": 960,
+    "tier": "",
+    "rank": "",
+    "price": 12,
+    "source": "торговцы",
+    "guns": [
+      "HK416 A5",
+      "LE-MAS",
+      "АК-101 5.56x45",
+      "КА-101",
+      "Штурмовая винтовка Colt M4A1 5.56x45",
+      "Штурмовая винтовка LR-300 5.56x45"
+    ],
+    "class": "Ammo_556x45_M856A1"
+  },
+  {
+    "name": "9x39мм СП-6 гс",
+    "group": "9×39",
+    "damage": 130,
+    "pellets": 1,
+    "shot": 130,
+    "blood": 50,
+    "speed": 305,
+    "tier": "",
+    "rank": "",
+    "price": 23,
+    "source": "торговцы",
+    "guns": [
+      "Автомат Специальный «Вал» 9x39",
+      "ВСК-94 9x39",
+      "ВСС «Винторез» 9x39",
+      "СВАЛ"
+    ],
+    "class": "Ammo_9x39_SP6"
+  },
+  {
+    "name": "Бронебойные патроны 9х39 мм",
+    "group": "9×39",
+    "damage": 130,
+    "pellets": 1,
+    "shot": 130,
+    "blood": 173,
+    "speed": 320,
+    "tier": "",
+    "rank": "",
+    "price": 23,
+    "source": "торговцы",
+    "guns": [
+      "Автомат Специальный «Вал» 9x39",
+      "ВСК-94 9x39",
+      "ВСС «Винторез» 9x39",
+      "СВАЛ"
+    ],
+    "class": "Ammo_9x39AP"
+  },
+  {
+    "name": "6.8x51mm SIG Hybrid",
+    "group": "6.8×51",
+    "damage": 150,
+    "pellets": 1,
+    "shot": 150,
+    "blood": 50,
+    "speed": 914,
+    "tier": "",
+    "rank": "",
+    "price": 36,
+    "source": "торговцы, тайники",
+    "guns": [
+      "SIG XM250 6.8x51мм",
+      "Штурмовая винтовка SIG MCX SPEAR 6.8x51мм"
+    ],
+    "class": "Ammo_68x51_Hybrid"
+  },
+  {
     "name": "7,62x51 M80",
     "group": "7.62×51",
-    "damage": 68,
+    "damage": 160,
     "pellets": 1,
-    "shot": 68,
-    "blood": 68,
+    "shot": 160,
+    "blood": 50,
     "speed": 853,
     "tier": "",
     "rank": "",
@@ -546,29 +655,38 @@
     "class": "Ammo_308Win_M80"
   },
   {
-    "name": ".300 Blackout M62 Tracer",
-    "group": ".300 Blackout",
-    "damage": 69,
+    "name": "7.62x54мм R ЛПС гж",
+    "group": "7.62×54",
+    "damage": 162,
     "pellets": 1,
-    "shot": 69,
-    "blood": 69,
-    "speed": 462,
+    "shot": 162,
+    "blood": 50,
+    "speed": 885,
     "tier": "",
     "rank": "",
     "price": 24,
     "source": "торговцы",
     "guns": [
-      "AAC Honey Badger .300 Blackout"
+      "ВСД",
+      "Винтовка Мосин 91/30",
+      "ДП-28",
+      "Однозарядное ружье MP-18 7.62x54R",
+      "Пулемет Калашникова Модернизированный 7.62x54R",
+      "Пулемет Калашникова Пехотный ПКП 7.62x54R",
+      "СВ-98 7.62x54R",
+      "СВДС 7.62x54R",
+      "СВТ-40",
+      "СВУ 7.62x54R"
     ],
-    "class": "Ammo_300BLK_M62"
+    "class": "Ammo_762x54_LPS"
   },
   {
     "name": "7,62x51 M61",
     "group": "7.62×51",
-    "damage": 75,
+    "damage": 170,
     "pellets": 1,
-    "shot": 75,
-    "blood": 75,
+    "shot": 170,
+    "blood": 50,
     "speed": 869,
     "tier": "",
     "rank": "",
@@ -602,13 +720,13 @@
     "class": "Ammo_308Win_M61"
   },
   {
-    "name": "7.62x54мм R ЛПС гж",
+    "name": "7.62x54мм R ПС гж",
     "group": "7.62×54",
-    "damage": 78,
+    "damage": 175,
     "pellets": 1,
-    "shot": 78,
-    "blood": 78,
-    "speed": 885,
+    "shot": 175,
+    "blood": 50,
+    "speed": 895,
     "tier": "",
     "rank": "",
     "price": 24,
@@ -625,15 +743,48 @@
       "СВТ-40",
       "СВУ 7.62x54R"
     ],
-    "class": "Ammo_762x54_LPS"
+    "class": "Ammo_762x54_PS"
+  },
+  {
+    "name": "12/70 бронебойная пуля AP-20",
+    "group": "12 калибр",
+    "damage": 190,
+    "pellets": 1,
+    "shot": 190,
+    "blood": 100,
+    "speed": 530,
+    "tier": "",
+    "rank": "",
+    "price": 30,
+    "source": "торговцы, тайники, боевой пропуск",
+    "guns": [
+      "Kel-Tec KSG 12к",
+      "MP-153 12к",
+      "MPS Auto Assault-12",
+      "Protecta",
+      "SPAS-12 12к",
+      "USAS-12",
+      "БK-12",
+      "БК-133",
+      "Болтовое ружье ТОЗ-106 20к",
+      "Помповое ружье Remington Model 870 12к",
+      "Ружье Benelli M3 Super 90 12к",
+      "Ружье МЦ-255-12 12к",
+      "Самозарядное ружье MP-153 12к",
+      "Самозарядное ружье MP-155 12к",
+      "Самозарядный карабин Вепрь 12К",
+      "Самозарядный карабин Сайга 12К",
+      "ТОЗ-34"
+    ],
+    "class": "Ammo_12gaAP20"
   },
   {
     "name": "7,62x51 M993",
     "group": "7.62×51",
-    "damage": 81,
+    "damage": 200,
     "pellets": 1,
-    "shot": 81,
-    "blood": 81,
+    "shot": 200,
+    "blood": 50,
     "speed": 930,
     "tier": "",
     "rank": "",
@@ -665,173 +816,6 @@
       "Штурмовая винтовка HK417 7.62x51"
     ],
     "class": "Ammo_308Win_M993"
-  },
-  {
-    "name": "7.62x54мм R ПС гж",
-    "group": "7.62×54",
-    "damage": 81,
-    "pellets": 1,
-    "shot": 81,
-    "blood": 81,
-    "speed": 895,
-    "tier": "",
-    "rank": "",
-    "price": 24,
-    "source": "торговцы",
-    "guns": [
-      "ВСД",
-      "Винтовка Мосин 91/30",
-      "ДП-28",
-      "Однозарядное ружье MP-18 7.62x54R",
-      "Пулемет Калашникова Модернизированный 7.62x54R",
-      "Пулемет Калашникова Пехотный ПКП 7.62x54R",
-      "СВ-98 7.62x54R",
-      "СВДС 7.62x54R",
-      "СВТ-40",
-      "СВУ 7.62x54R"
-    ],
-    "class": "Ammo_762x54_PS"
-  },
-  {
-    "name": "9x39мм СП-5 гс",
-    "group": "9×39",
-    "damage": 98,
-    "pellets": 1,
-    "shot": 98,
-    "blood": 98,
-    "speed": 290,
-    "tier": "",
-    "rank": "",
-    "price": 21,
-    "source": "торговцы",
-    "guns": [
-      "Автомат Специальный «Вал» 9x39",
-      "ВСК-94 9x39",
-      "ВСС «Винторез» 9x39",
-      "СВАЛ"
-    ],
-    "class": "Ammo_9x39_SP5"
-  },
-  {
-    "name": "Трассирующие патроны 5,45x39 мм",
-    "group": "5.45×39",
-    "damage": 100,
-    "pellets": 1,
-    "shot": 100,
-    "blood": 87,
-    "speed": 880,
-    "tier": "",
-    "rank": "",
-    "price": "",
-    "source": "торговцы",
-    "guns": [
-      "АЕК-971",
-      "АК-12 5.45x39",
-      "АК-74Н 5.45x39",
-      "АКС-74У 5.45x39",
-      "КА-74"
-    ],
-    "class": "Ammo_545x39Tracer"
-  },
-  {
-    "name": "Трассирующие патроны 5,56x45 мм",
-    "group": "5.56×45",
-    "damage": 105,
-    "pellets": 1,
-    "shot": 105,
-    "blood": 95,
-    "speed": 1000,
-    "tier": "",
-    "rank": "",
-    "price": "",
-    "source": "торговцы",
-    "guns": [
-      "HK416 A5",
-      "LE-MAS",
-      "АК-101 5.56x45",
-      "КА-101",
-      "Штурмовая винтовка Colt M4A1 5.56x45",
-      "Штурмовая винтовка LR-300 5.56x45"
-    ],
-    "class": "Ammo_556x45Tracer"
-  },
-  {
-    "name": "9x39мм СП-6 гс",
-    "group": "9×39",
-    "damage": 107,
-    "pellets": 1,
-    "shot": 107,
-    "blood": 107,
-    "speed": 305,
-    "tier": "",
-    "rank": "",
-    "price": 23,
-    "source": "торговцы",
-    "guns": [
-      "Автомат Специальный «Вал» 9x39",
-      "ВСК-94 9x39",
-      "ВСС «Винторез» 9x39",
-      "СВАЛ"
-    ],
-    "class": "Ammo_9x39_SP6"
-  },
-  {
-    "name": "Трассирующие патроны 7,62x39 мм",
-    "group": "7.62×39",
-    "damage": 115,
-    "pellets": 1,
-    "shot": 115,
-    "blood": 105,
-    "speed": 740,
-    "tier": "",
-    "rank": "",
-    "price": "",
-    "source": "торговцы",
-    "guns": [
-      "АК-103 7.62x39",
-      "АК-47 Золотой 7.62x39",
-      "Автомат Калашникова АКМН 7.62x39",
-      "БK-18",
-      "КА-M"
-    ],
-    "class": "Ammo_762x39Tracer"
-  },
-  {
-    "name": "Бронебойные патроны 9х39 мм",
-    "group": "9×39",
-    "damage": 130,
-    "pellets": 1,
-    "shot": 130,
-    "blood": 173,
-    "speed": 320,
-    "tier": "",
-    "rank": "",
-    "price": 23,
-    "source": "торговцы",
-    "guns": [
-      "Автомат Специальный «Вал» 9x39",
-      "ВСК-94 9x39",
-      "ВСС «Винторез» 9x39",
-      "СВАЛ"
-    ],
-    "class": "Ammo_9x39AP"
-  },
-  {
-    "name": ".338 Lapua Magnum AP",
-    "group": ".338 Lapua",
-    "damage": 181,
-    "pellets": 1,
-    "shot": 181,
-    "blood": 181,
-    "speed": 920,
-    "tier": "",
-    "rank": "",
-    "price": 72,
-    "source": "торговцы, лутбоксы",
-    "guns": [
-      "AWM .338LM"
-    ],
-    "class": "Ammo_338LM_AP"
   },
   {
     "name": "Трассирующие патроны .308 WIN",
@@ -898,6 +882,24 @@
       "СВУ 7.62x54R"
     ],
     "class": "Ammo_762x54Tracer"
+  },
+  {
+    "name": ".338 Lapua Magnum AP",
+    "group": ".338 Lapua",
+    "damage": 340,
+    "pellets": 1,
+    "shot": 340,
+    "blood": 100,
+    "speed": 869,
+    "tier": "",
+    "rank": "",
+    "price": 72,
+    "source": "торговцы, лутбоксы",
+    "guns": [
+      "AWM .338LM",
+      "Accuracy International AX50 .338LM"
+    ],
+    "class": "Ammo_338LM_AP"
   },
   {
     "name": "Патроны 12 калибра с нарезами",
@@ -988,7 +990,8 @@
     "price": 18,
     "source": "торговцы",
     "guns": [
-      "AAC Honey Badger .300 Blackout"
+      "AAC Honey Badger .300 Blackout",
+      "LE-MAS"
     ],
     "class": "Ammo_300BLK_FMJ"
   },
@@ -1036,11 +1039,11 @@
   {
     "name": "23x75мм картечь Шрапнель-10",
     "group": "23×75",
-    "damage": 135,
-    "pellets": 12,
-    "shot": 1620,
-    "blood": 135,
-    "speed": 1420,
+    "damage": 40,
+    "pellets": 8,
+    "shot": 320,
+    "blood": 100,
+    "speed": 420,
     "tier": "W3",
     "rank": "Мастер",
     "price": 153,
@@ -1108,7 +1111,8 @@
     "price": 24,
     "source": "торговцы, тайники, лутбоксы, боевой пропуск",
     "guns": [
-      "AAC Honey Badger .300 Blackout"
+      "AAC Honey Badger .300 Blackout",
+      "LE-MAS"
     ],
     "class": "Ammo_300BLK_AP"
   },
@@ -1224,7 +1228,7 @@
     "pellets": 1,
     "shot": 260,
     "blood": 260,
-    "speed": 920,
+    "speed": 295,
     "tier": "W3",
     "rank": "Мастер",
     "price": 30,
@@ -1264,6 +1268,42 @@
     "class": "Ammo_762x54_SNB"
   },
   {
+    "name": "12,7 × 99 M33",
+    "group": "12.7×99",
+    "damage": 300,
+    "pellets": 1,
+    "shot": 300,
+    "blood": 100,
+    "speed": 838,
+    "tier": "W4",
+    "rank": "Легенда",
+    "price": 156,
+    "source": "торговцы, квесты, лутбоксы",
+    "guns": [
+      "M82A1 Barret",
+      "TheAKGuy AK-50 .50 BMG",
+      "Изделие №31"
+    ],
+    "class": "Ammo_127x99_M33"
+  },
+  {
+    "name": "12.7x108мм Б-32",
+    "group": "12.7×108",
+    "damage": 300,
+    "pellets": 1,
+    "shot": 300,
+    "blood": 100,
+    "speed": 818,
+    "tier": "W4",
+    "rank": "Легенда",
+    "price": 276,
+    "source": "торговцы, лутбоксы",
+    "guns": [
+      "КСВК 12,7×108 мм"
+    ],
+    "class": "Kuvalda_Ammo_12x7mm"
+  },
+  {
     "name": ".338 Lapua Magnum FMJ",
     "group": ".338 Lapua",
     "damage": 320,
@@ -1276,7 +1316,8 @@
     "price": 48,
     "source": "торговцы",
     "guns": [
-      "AWM .338LM"
+      "AWM .338LM",
+      "Accuracy International AX50 .338LM"
     ],
     "class": "Ammo_338LM_FMJ"
   },
@@ -1287,7 +1328,7 @@
     "pellets": 1,
     "shot": 330,
     "blood": 330,
-    "speed": 920,
+    "speed": 310,
     "tier": "W4",
     "rank": "Легенда",
     "price": 96,
@@ -1304,7 +1345,7 @@
     "pellets": 1,
     "shot": 350,
     "blood": 350,
-    "speed": 920,
+    "speed": 1100,
     "tier": "W4",
     "rank": "Легенда",
     "price": 84,
@@ -1321,7 +1362,7 @@
     "pellets": 1,
     "shot": 360,
     "blood": 360,
-    "speed": 920,
+    "speed": 320,
     "tier": "W4",
     "rank": "Легенда",
     "price": 108,
@@ -1330,42 +1371,5 @@
       "Автомат АШ-12 12.7x55"
     ],
     "class": "Kvld_Ammo_127x55B"
-  },
-  {
-    "name": "12,7 × 99 M33",
-    "group": "12.7×99",
-    "damage": 374,
-    "pellets": 1,
-    "shot": 374,
-    "blood": 374,
-    "speed": 920,
-    "tier": "W4",
-    "rank": "Легенда",
-    "price": 156,
-    "source": "торговцы, квесты, лутбоксы",
-    "guns": [
-      "Accuracy International AXM 12.7x99",
-      "TheAKGuy AK-50 .50 BMG",
-      "Изделие №31"
-    ],
-    "class": "Ammo_127x99_M33"
-  },
-  {
-    "name": "12.7x108мм Б-32",
-    "group": "12.7×108",
-    "damage": 662,
-    "pellets": 1,
-    "shot": 662,
-    "blood": 662,
-    "speed": 920,
-    "tier": "W4",
-    "rank": "Легенда",
-    "price": 276,
-    "source": "торговцы, лутбоксы",
-    "guns": [
-      "M82A1 Barret",
-      "КСВК 12,7×108 мм"
-    ],
-    "class": "Kuvalda_Ammo_12x7mm"
   }
 ]
