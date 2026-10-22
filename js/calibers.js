@@ -2,6 +2,7 @@ const grid = document.querySelector('.caliber-grid');
 const searchInput = document.getElementById('caliberSearch');
 const groupSelect = document.getElementById('caliberGroup');
 const tierSelect = document.getElementById('caliberTier');
+const mutantSelect = document.getElementById('caliberMutant');
 const tableWrap = document.querySelector('.caliber-table-wrap');
 const tableBody = document.querySelector('#caliberTable tbody');
 const tableHead = document.querySelector('#caliberTable thead');
@@ -19,6 +20,8 @@ const COLUMNS = [
     { key: 'shot', label: 'За выстрел', type: 'num' },
     { key: 'blood', label: 'Кровь', type: 'num' },
     { key: 'hits', label: 'Выстрелов на 1000 HP', type: 'num' },
+    { key: 'mutBody', label: 'На мутанта: тело', type: 'num' },
+    { key: 'mutHead', label: 'На мутанта: голова', type: 'num' },
     { key: 'speed', label: 'Скорость, м/с', type: 'num' },
     { key: 'tier', label: 'Тир', type: 'text' },
     { key: 'price', label: 'Цена', type: 'num' },
@@ -65,9 +68,57 @@ fetch("data/calibers.json", { cache: "no-cache" })
         fillFilters();
         buildHead();
         loadView();
+        applyMutant();
         render();
+        return fetch("data/mutants.json", { cache: "no-cache" }).then(res => res.json()).then(m => {
+            mutants = m;
+            fillMutants();
+            applyMutant();
+            render();
+        });
     })
     .catch(err => console.error('Ошибка загрузки калибров:', err));
+
+let mutants = [];
+let mutantIdx = -1;
+
+function mutantLabel(m) {
+    return m.name + (m.tier ? ' (T' + m.tier + ')' : '') + (m.mod && m.mod !== 'ваниль' ? ' · ' + m.mod : '');
+}
+
+function fillMutants() {
+    let saved = '';
+    try { saved = localStorage.getItem('caliberMutant') || ''; } catch (e) {}
+    const fams = [['мутанты', 'Мутанты и зомби'], ['животные', 'Животные']];
+    fams.forEach(([fam, title]) => {
+        const items = mutants.map((m, i) => [m, i]).filter(([m]) => m.fam === fam);
+        if (!items.length) return;
+        const og = document.createElement('optgroup');
+        og.label = title;
+        items.forEach(([m, i]) => {
+            const o = document.createElement('option');
+            o.value = String(i);
+            o.textContent = mutantLabel(m);
+            og.appendChild(o);
+        });
+        mutantSelect.appendChild(og);
+    });
+    let def = mutants.findIndex(m => m.name === saved);
+    if (def < 0) def = mutants.findIndex(m => /кровосос/i.test(m.name) && m.mod === 'SMCS');
+    if (def < 0) def = 0;
+    mutantSelect.value = String(def);
+}
+
+function applyMutant() {
+    mutantIdx = mutants.length ? Number(mutantSelect.value) : -1;
+    const m = mutantIdx >= 0 ? mutants[mutantIdx] : null;
+    data.forEach(r => {
+        const shot = r.shot || r.damage;
+        r.mutBody = m && m.body && shot > 0 ? Math.ceil(m.body / shot) : '';
+        r.mutHead = m && m.head && shot > 0 ? Math.ceil(m.head / shot) : '';
+    });
+    if (m) { try { localStorage.setItem('caliberMutant', m.name); } catch (e) {} }
+}
 
 function fillFilters() {
     const groups = [...new Set(data.map(r => r.group))].sort((a, b) => groupKey(a) - groupKey(b) || a.localeCompare(b));
@@ -148,6 +199,8 @@ function renderTable(rows) {
             <td class="num col-dmg"><span class="dmg-bar" style="width:${pct}%"></span><span class="dmg-val">${r.shot}</span></td>
             <td class="num">${r.blood !== '' ? r.blood : '—'}</td>
             <td class="num">${r.hits}</td>
+            <td class="num col-mut">${r.mutBody !== '' ? r.mutBody : '—'}</td>
+            <td class="num col-mut">${r.mutHead !== '' ? r.mutHead : '—'}</td>
             <td class="num">${r.speed !== '' ? r.speed : '—'}</td>
             <td class="col-tier">${r.tier ? `<span class="tier-pill">${esc(r.tier)}</span>` : '—'}</td>
             <td class="num">${r.price !== '' ? r.price : '—'}</td>
@@ -199,12 +252,15 @@ function renderCompare() {
     if (rows.length === 0) { compareBox.hidden = true; return; }
     const fields = [
         ['Калибр', r => r.group], ['Урон', r => r.pellets > 1 ? r.damage + ' × ' + r.pellets : r.damage], ['За выстрел', r => r.shot], ['Кровь', r => r.blood || '—'],
-        ['Выстрелов на 1000 HP', r => r.hits], ['Скорость, м/с', r => r.speed || '—'], ['Тир', r => r.tier || '—'],
+        ['Выстрелов на 1000 HP', r => r.hits], ['На мутанта: тело', r => r.mutBody !== '' ? r.mutBody : '—'], ['На мутанта: голова', r => r.mutHead !== '' ? r.mutHead : '—'],
+        ['Скорость, м/с', r => r.speed || '—'], ['Тир', r => r.tier || '—'],
         ['Цена', r => r.price !== '' ? r.price : '—'], ['Где взять', r => r.source || '—'], ['Стволов', r => r.gunsCount]
     ];
     const best = {
         'За выстрел': Math.max(...rows.map(r => r.shot)),
         'Выстрелов на 1000 HP': Math.min(...rows.map(r => r.hits || 9999)),
+        'На мутанта: тело': Math.min(...rows.map(r => r.mutBody || 9999)),
+        'На мутанта: голова': Math.min(...rows.map(r => r.mutHead || 9999)),
         'Скорость, м/с': Math.max(...rows.map(r => r.speed || 0))
     };
     compareBox.innerHTML = `
@@ -233,6 +289,7 @@ function render() {
 searchInput.addEventListener('input', render);
 groupSelect.addEventListener('change', render);
 tierSelect.addEventListener('change', render);
+mutantSelect.addEventListener('change', () => { applyMutant(); render(); });
 viewButtons.forEach(b => b.addEventListener('click', () => { view = b.dataset.view; saveView(); render(); }));
 document.getElementById('compareShow').addEventListener('click', renderCompare);
 document.getElementById('compareClear').addEventListener('click', () => {

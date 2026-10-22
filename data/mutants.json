@@ -1,0 +1,3345 @@
+[
+  {
+    "name": "Тарк",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 2,
+    "head": 2,
+    "classes": [
+      "Mutant_AoD_Tark1_Female"
+    ]
+  },
+  {
+    "name": "Химера",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 2,
+    "head": 2,
+    "classes": [
+      "Mutant_AoD_Himera1"
+    ]
+  },
+  {
+    "name": "...",
+    "fam": "мутанты",
+    "mod": "market_objects",
+    "tier": "",
+    "body": 70,
+    "head": 67,
+    "classes": [
+      "ExpansionTraderZmbM_JournalistSkinny"
+    ]
+  },
+  {
+    "name": "Зомбированный (Труп)",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "1",
+    "body": 160,
+    "head": 160,
+    "classes": [
+      "Zombi_AoD_Civ_Trup1"
+    ]
+  },
+  {
+    "name": "Мутировавший Тушкано",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "1",
+    "body": 164,
+    "head": 164,
+    "classes": [
+      "SMCS_Tushkano"
+    ]
+  },
+  {
+    "name": "Плоть",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 164,
+    "head": 82,
+    "classes": [
+      "Mutant_AoD_Fresh1"
+    ]
+  },
+  {
+    "name": "Плоть",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 165,
+    "head": 165,
+    "classes": [
+      "Mutant_AoD_Fresh1_Mat",
+      "Mutant_AoD_Fresh1_Empty"
+    ]
+  },
+  {
+    "name": "Плоть",
+    "fam": "мутанты",
+    "mod": "MutantsCFG",
+    "tier": "",
+    "body": 165,
+    "head": 165,
+    "classes": [
+      "Mutant_AoD_Fresh1_Easy",
+      "Mutant_AoD_Fresh2_Easy",
+      "Mutant_AoD_Fresh3_Easy"
+    ]
+  },
+  {
+    "name": "Тарк Детёныш",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "1",
+    "body": 165,
+    "head": 165,
+    "classes": [
+      "Mutant_AoD_Tark_Child",
+      "Mutant_AoD_Tark_Child_Empty"
+    ]
+  },
+  {
+    "name": "Тушкан",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "1",
+    "body": 165,
+    "head": 165,
+    "classes": [
+      "Mutant_AoD_Tushkano1",
+      "Mutant_AoD_Tushkano2",
+      "Mutant_AoD_Tushkano3",
+      "Mutant_AoD_Tushkano1_Easy",
+      "Mutant_AoD_Tushkano2_Easy",
+      "Mutant_AoD_Tushkano3_Easy",
+      "Mutant_AoD_Tushkano1_Empty",
+      "Mutant_AoD_Tushkano2_Empty",
+      "Mutant_AoD_Tushkano3_Empty"
+    ]
+  },
+  {
+    "name": "Зомбированный (Труп)",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 240,
+    "head": 240,
+    "classes": [
+      "Zombi_AoD_Civ_Trup2",
+      "Zombi_AoD_Civ_Trup3",
+      "Zombi_AoD_Civ_Trup4",
+      "Zombi_AoD_Civ_Trup5"
+    ]
+  },
+  {
+    "name": "Зомби-сталкер",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 246,
+    "head": 123,
+    "classes": [
+      "Zombi_AoD_Loner_Zorya",
+      "Zombi_AoD_Duty_Zorya",
+      "Zombi_AoD_Freedom_Zorya",
+      "Zombi_AoD_Monolith_Zorya"
+    ]
+  },
+  {
+    "name": "Мутировавшая Плоть",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "1",
+    "body": 246,
+    "head": 246,
+    "classes": [
+      "SMCS_Mutant_Flesh",
+      "SMCS_Mutant_Flesh_1",
+      "SMCS_Mutant_Flesh_2",
+      "SMCS_Mutant_Flesh_3"
+    ]
+  },
+  {
+    "name": "Зомбированный сталкер",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "",
+    "body": 248,
+    "head": 165,
+    "classes": [
+      "SMCS_ZombifiedStalker",
+      "SMCS_ZombifiedStalker_1b",
+      "SMCS_ZombifiedStalker_1c",
+      "SMCS_ZombifiedStalker_1d",
+      "SMCS_ZombifiedStalker_1e",
+      "SMCS_ZombifiedStalker_1f"
+    ]
+  },
+  {
+    "name": "Мутировавшая Собака",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "1",
+    "body": 248,
+    "head": 248,
+    "classes": [
+      "SMCS_Mutant_Dog_Black",
+      "SMCS_Mutant_Dog_White",
+      "SMCS_Mutant_Dog_Pink",
+      "SMCS_Mutant_Dog_GreyFur",
+      "SMCS_Mutant_Dog_BlackFur"
+    ]
+  },
+  {
+    "name": "Мутировавшая кошка",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "",
+    "body": 248,
+    "head": 248,
+    "classes": [
+      "SMCS_Mutant_Cat_old",
+      "SMCS_Mutant_Cat1",
+      "SMCS_Mutant_Cat1_1",
+      "SMCS_Mutant_Cat1_2",
+      "SMCS_Mutant_Cat1_3",
+      "SMCS_Mutant_Cat1_4",
+      "SMCS_Mutant_Cat2",
+      "SMCS_Mutant_Cat2_1",
+      "SMCS_Mutant_Cat2_2",
+      "SMCS_Mutant_Cat2_3",
+      "SMCS_Mutant_Cat2_4",
+      "SMCS_Mutant_Cat3",
+      "SMCS_Mutant_Cat3_1",
+      "SMCS_Mutant_Cat3_2",
+      "SMCS_Mutant_Cat3_3",
+      "SMCS_Mutant_Cat3_4",
+      "SMCS_Mutant_Cat4",
+      "SMCS_Mutant_Cat4_1",
+      "SMCS_Mutant_Cat4_2",
+      "SMCS_Mutant_Cat4_3",
+      "SMCS_Mutant_Cat4_4"
+    ]
+  },
+  {
+    "name": "Плоть",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 248,
+    "head": 248,
+    "classes": [
+      "Mutant_AoD_Fresh2",
+      "Mutant_AoD_Fresh2_Mat",
+      "Mutant_AoD_Fresh2_Empty"
+    ]
+  },
+  {
+    "name": "Слепой Пёс",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 248,
+    "head": 248,
+    "classes": [
+      "Mutant_AoD_Dog_Red",
+      "Mutant_AoD_Dog_White",
+      "Mutant_AoD_Dog_Fur",
+      "Mutant_AoD_Dog_Red_Empty",
+      "Mutant_AoD_Dog_White_Empty",
+      "Mutant_AoD_Dog_Fur_Empty"
+    ]
+  },
+  {
+    "name": "Слепой пёс",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 248,
+    "head": 248,
+    "classes": [
+      "Mutant_AoD_Dog_Brown",
+      "Mutant_AoD_Dog_Brown_Empty"
+    ]
+  },
+  {
+    "name": "Зомби-сталкер",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 250,
+    "head": 15,
+    "classes": [
+      "Zombi_AoD_Novice1",
+      "Zombi_AoD_Novice2",
+      "Zombi_AoD_Novice3",
+      "Zombi_AoD_Novice4",
+      "Zombi_AoD_Novice5",
+      "Zombi_AoD_Novice6",
+      "Zombi_AoD_Novice7"
+    ]
+  },
+  {
+    "name": "Зомбированный сталкер",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "",
+    "body": 260,
+    "head": 87,
+    "classes": [
+      "SMCS_ZombifiedStalker_EXO_Soldier",
+      "SMCS_ZombifiedStalker_EXO_Bandit",
+      "SMCS_ZombifiedStalker_EXO_Clear",
+      "SMCS_ZombifiedStalker_EXO_Dolg",
+      "SMCS_ZombifiedStalker_EXO_Free",
+      "SMCS_ZombifiedStalker_EXO_ISG",
+      "SMCS_ZombifiedStalker_EXO_Monolith",
+      "SMCS_ZombifiedStalker_EXO_Specnaz",
+      "SMCS_ZombifiedStalker_EXO_Tank"
+    ]
+  },
+  {
+    "name": "Инфицированный эколог",
+    "fam": "мутанты",
+    "mod": "AP_ecolog2",
+    "tier": "3",
+    "body": 300,
+    "head": 40,
+    "classes": [
+      "AP_zmb_ecolog_yellow",
+      "AP_zmb_ecolog_orange",
+      "AP_zmb_ecolog_blue",
+      "AP_zmb_ecolog_grey"
+    ]
+  },
+  {
+    "name": "Одичавший зараженный",
+    "fam": "мутанты",
+    "mod": "AP_ecolog2",
+    "tier": "3",
+    "body": 300,
+    "head": 40,
+    "classes": [
+      "AP_zmb_ecolog_wild"
+    ]
+  },
+  {
+    "name": "Токсичный зараженный",
+    "fam": "мутанты",
+    "mod": "AP_ecolog2",
+    "tier": "",
+    "body": 300,
+    "head": 40,
+    "classes": [
+      "AP_zmb_ecolog_nude"
+    ]
+  },
+  {
+    "name": "Крысиный Волк",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "1",
+    "body": 330,
+    "head": 198,
+    "classes": [
+      "Mutant_AoD_Rat_Wolf"
+    ]
+  },
+  {
+    "name": "Крысиный Волк",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 330,
+    "head": 330,
+    "classes": [
+      "Mutant_AoD_Rat_Wolf_Empty"
+    ]
+  },
+  {
+    "name": "Плоть",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 330,
+    "head": 330,
+    "classes": [
+      "Mutant_AoD_Fresh3",
+      "Mutant_AoD_Fresh3_Mat",
+      "Mutant_AoD_Fresh3_Empty"
+    ]
+  },
+  {
+    "name": "Zombie",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "",
+    "body": 350,
+    "head": 292,
+    "classes": [
+      "SMCS_Mutant_Zombie_Trup",
+      "SMCS_Mutant_Zombie_Trup_1",
+      "SMCS_Mutant_Zombie_Trup_2",
+      "SMCS_Mutant_Zombie_Trup_3",
+      "SMCS_Mutant_Zombie_Trup_4",
+      "SMCS_Mutant_Zombie_Trup_5",
+      "SMCS_Mutant_Zombie_Trup_6",
+      "SMCS_Mutant_Zombie_Trup_7",
+      "SMCS_Mutant_Zombie_Trup_8",
+      "SMCS_Mutant_Zombie_Trup_9",
+      "SMCS_Mutant_Zombie_Trup_10"
+    ]
+  },
+  {
+    "name": "Zombie",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "",
+    "body": 650,
+    "head": 542,
+    "classes": [
+      "SMCS_Mutant_Zombie_Trup_Hard",
+      "SMCS_Mutant_Zombie_Trup_1_Hard",
+      "SMCS_Mutant_Zombie_Trup_2_Hard",
+      "SMCS_Mutant_Zombie_Trup_3_Hard",
+      "SMCS_Mutant_Zombie_Trup_4_Hard",
+      "SMCS_Mutant_Zombie_Trup_5_Hard",
+      "SMCS_Mutant_Zombie_Trup_6_Hard",
+      "SMCS_Mutant_Zombie_Trup_7_Hard",
+      "SMCS_Mutant_Zombie_Trup_8_Hard",
+      "SMCS_Mutant_Zombie_Trup_9_Hard",
+      "SMCS_Mutant_Zombie_Trup_10_Hard"
+    ]
+  },
+  {
+    "name": "Контроллер",
+    "fam": "мутанты",
+    "mod": "Erapulsar_Controller",
+    "tier": "",
+    "body": 900,
+    "head": 375,
+    "classes": [
+      "Era_ZmbM_Controller",
+      "Era_ZmbM_Controller2"
+    ]
+  },
+  {
+    "name": "Контроллер",
+    "fam": "мутанты",
+    "mod": "Erapulsar_Controller",
+    "tier": "2",
+    "body": 900,
+    "head": 600,
+    "classes": [
+      "Era_ZmbM_Controller3",
+      "Era_ZmbM_Controller5"
+    ]
+  },
+  {
+    "name": "Излом",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 940,
+    "head": 940,
+    "classes": [
+      "Mutant_AoD_Izlom1_Easy",
+      "Mutant_AoD_Izlom2_Easy",
+      "Mutant_AoD_Izlom3_Easy"
+    ]
+  },
+  {
+    "name": "Снорк",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 940,
+    "head": 940,
+    "classes": [
+      "Mutant_AoD_Snork1_Easy",
+      "Mutant_AoD_Snork2_Easy"
+    ]
+  },
+  {
+    "name": "Мутировавший Кабан",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "2",
+    "body": 948,
+    "head": 1896,
+    "classes": [
+      "SMCS_Mutant_Boar",
+      "SMCS_Mutant_Boar1",
+      "SMCS_Mutant_Boar2"
+    ]
+  },
+  {
+    "name": "Мутировавший Тушкано",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "",
+    "body": 948,
+    "head": 474,
+    "classes": [
+      "SMCS_Tushkano_Hard"
+    ]
+  },
+  {
+    "name": "Мутировавший Кабан",
+    "fam": "мутанты",
+    "mod": "MutantsCFG",
+    "tier": "",
+    "body": 949,
+    "head": 949,
+    "classes": [
+      "Mutant_AoD_Boar1_Easy",
+      "Mutant_AoD_Boar2_Easy"
+    ]
+  },
+  {
+    "name": "Electro Poltergeist",
+    "fam": "мутанты",
+    "mod": "InvisibleDangers",
+    "tier": "",
+    "body": 1000,
+    "head": 1000,
+    "classes": [
+      "ElectroPoltergeist_Example",
+      "ElectroPoltergeist_Example_2",
+      "ElectroPoltergeist_Example_3"
+    ]
+  },
+  {
+    "name": "Кровавая сфера",
+    "fam": "мутанты",
+    "mod": "BRDK_EnergySphere_CLIENT",
+    "tier": "",
+    "body": 1000,
+    "head": 1000,
+    "classes": [
+      "BRDK_BloodSphere"
+    ]
+  },
+  {
+    "name": "Огненная сфера",
+    "fam": "мутанты",
+    "mod": "BRDK_EnergySphere_CLIENT",
+    "tier": "",
+    "body": 1000,
+    "head": 1000,
+    "classes": [
+      "BRDK_FireSphere"
+    ]
+  },
+  {
+    "name": "Токсичная сфера",
+    "fam": "мутанты",
+    "mod": "BRDK_EnergySphere_CLIENT",
+    "tier": "",
+    "body": 1000,
+    "head": 1000,
+    "classes": [
+      "BRDK_ToxSphere"
+    ]
+  },
+  {
+    "name": "Шипастая сфера",
+    "fam": "мутанты",
+    "mod": "BRDK_EnergySphere_CLIENT",
+    "tier": "",
+    "body": 1000,
+    "head": 1000,
+    "classes": [
+      "BRDK_SpykeSphere"
+    ]
+  },
+  {
+    "name": "Электрическая сфера",
+    "fam": "мутанты",
+    "mod": "BRDK_EnergySphere_CLIENT",
+    "tier": "",
+    "body": 1000,
+    "head": 1000,
+    "classes": [
+      "BRDK_ShockSphere"
+    ]
+  },
+  {
+    "name": "Карлик",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "",
+    "body": 1050,
+    "head": 875,
+    "classes": [
+      "SMCS_Karlik"
+    ]
+  },
+  {
+    "name": "Мутировавшая Плоть",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "1",
+    "body": 1210,
+    "head": 605,
+    "classes": [
+      "SMCS_Mutant_Flesh_Hard",
+      "SMCS_Mutant_Flesh_1_Hard",
+      "SMCS_Mutant_Flesh_3_Hard"
+    ]
+  },
+  {
+    "name": "Излом",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "2",
+    "body": 1260,
+    "head": 126,
+    "classes": [
+      "Mutant_AoD_Izlom1"
+    ]
+  },
+  {
+    "name": "Излом",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 1260,
+    "head": 1260,
+    "classes": [
+      "Mutant_AoD_Izlom3",
+      "Mutant_AoD_Izlom1_Empty",
+      "Mutant_AoD_Izlom3_Empty"
+    ]
+  },
+  {
+    "name": "Полтергейст",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "2",
+    "body": 1260,
+    "head": 1260,
+    "classes": [
+      "Mutant_AoD_Poltergeist",
+      "Mutant_AoD_Poltergeist_Empty"
+    ]
+  },
+  {
+    "name": "Снорк",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "2",
+    "body": 1260,
+    "head": 1260,
+    "classes": [
+      "Mutant_AoD_Snork1",
+      "Mutant_AoD_Snork2",
+      "Mutant_AoD_Snork1_Empty",
+      "Mutant_AoD_Snork2_Empty"
+    ]
+  },
+  {
+    "name": "Чёрный снорк",
+    "fam": "мутанты",
+    "mod": "Grotesk_SnorkBoss",
+    "tier": "",
+    "body": 1260,
+    "head": 1260,
+    "classes": [
+      "Grotesk_Snork_Boss"
+    ]
+  },
+  {
+    "name": "Мутировавшая Плоть",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "",
+    "body": 1264,
+    "head": 632,
+    "classes": [
+      "SMCS_Mutant_Flesh_2_Hard"
+    ]
+  },
+  {
+    "name": "Мутировавшая крыса",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "2",
+    "body": 1264,
+    "head": 843,
+    "classes": [
+      "SMCS_Rat"
+    ]
+  },
+  {
+    "name": "Мутировавший Кабан",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 1264,
+    "head": 6320,
+    "classes": [
+      "Mutant_AoD_Boar1_Mat"
+    ]
+  },
+  {
+    "name": "Мутировавший Кабан",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 1265,
+    "head": 759,
+    "classes": [
+      "Mutant_AoD_Boar1"
+    ]
+  },
+  {
+    "name": "Мутировавший Кабан",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 1265,
+    "head": 1265,
+    "classes": [
+      "Mutant_AoD_Boar1_Empty"
+    ]
+  },
+  {
+    "name": "Псевдособака",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "2",
+    "body": 1265,
+    "head": 1265,
+    "classes": [
+      "Mutant_AoD_Pse_Dog1",
+      "Mutant_AoD_Pse_Dog2",
+      "Mutant_AoD_Pse_Dog1_Empty",
+      "Mutant_AoD_Pse_Dog2_Empty"
+    ]
+  },
+  {
+    "name": "Кот Баюн",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 1320,
+    "head": 1320,
+    "classes": [
+      "Mutant_AoD_Cat_Bayn1",
+      "Mutant_AoD_Cat_Bayn2",
+      "Mutant_AoD_Cat_Bayn3",
+      "Mutant_AoD_Cat_Bayn1_Empty",
+      "Mutant_AoD_Cat_Bayn2_Empty",
+      "Mutant_AoD_Cat_Bayn3_Empty"
+    ]
+  },
+  {
+    "name": "Контроллер",
+    "fam": "мутанты",
+    "mod": "Erapulsar_Controller",
+    "tier": "3",
+    "body": 1500,
+    "head": 1000,
+    "classes": [
+      "Era_ZmbM_Controller4"
+    ]
+  },
+  {
+    "name": "Излом",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 1550,
+    "head": 1550,
+    "classes": [
+      "Mutant_AoD_Izlom2",
+      "Mutant_AoD_Izlom2_Empty"
+    ]
+  },
+  {
+    "name": "Зомбированный сталкер",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "2",
+    "body": 1552,
+    "head": 1035,
+    "classes": [
+      "SMCS_ZombifiedStalker2_A",
+      "SMCS_ZombifiedStalker2_B",
+      "SMCS_ZombifiedStalker2_C",
+      "SMCS_ZombifiedStalker2_E",
+      "SMCS_ZombifiedStalker2_F",
+      "SMCS_ZombifiedStalker2_G",
+      "SMCS_ZombifiedStalker2_EKO",
+      "SMCS_ZombifiedStalker2_Brother",
+      "SMCS_ZombifiedStalker2_Corp",
+      "SMCS_ZombifiedStalker2_CSK",
+      "SMCS_ZombifiedStalker2_Mono_Dolg",
+      "SMCS_ZombifiedStalker2_Duty",
+      "SMCS_ZombifiedStalker2_Eko_Blue",
+      "SMCS_ZombifiedStalker2_Freedom",
+      "SMCS_ZombifiedStalker2_Monolith",
+      "SMCS_ZombifiedStalker2_Neutral",
+      "SMCS_ZombifiedStalker2_Green_Stalker",
+      "SMCS_ZombifiedStalker2_Partizan_Stalker",
+      "SMCS_ZombifiedStalker2_Red_Stalker",
+      "SMCS_ZombifiedStalker2_Army",
+      "SMCS_ZombifiedStalker2_Army_Fly",
+      "SMCS_ZombifiedStalker2_Army_DE",
+      "SMCS_ZombifiedStalker2_Army_Olive",
+      "SMCS_ZombifiedStalker2_Army_Digital",
+      "SMCS_ZombifiedStalker2_Army_Emr"
+    ]
+  },
+  {
+    "name": "Мутировавший Кабан",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 1552,
+    "head": 931,
+    "classes": [
+      "Mutant_AoD_Boar2"
+    ]
+  },
+  {
+    "name": "Мутировавший Кабан",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 1552,
+    "head": 7760,
+    "classes": [
+      "Mutant_AoD_Boar2_Mat"
+    ]
+  },
+  {
+    "name": "Мутировавший Кабан",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 1552,
+    "head": 1552,
+    "classes": [
+      "Mutant_AoD_Boar2_Empty"
+    ]
+  },
+  {
+    "name": "Тарк",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "2",
+    "body": 1552,
+    "head": 1552,
+    "classes": [
+      "Mutant_AoD_Tark1_Male",
+      "Mutant_AoD_Tark1_Male_Empty",
+      "Mutant_AoD_Tark1_Female_Empty"
+    ]
+  },
+  {
+    "name": "Штурмовик",
+    "fam": "мутанты",
+    "mod": "AP_zmbomon_PUBLIC",
+    "tier": "2",
+    "body": 1552,
+    "head": 1035,
+    "classes": [
+      "AP_zmb_omon"
+    ]
+  },
+  {
+    "name": "Мутировавший Кабан",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "",
+    "body": 1724,
+    "head": 1724,
+    "classes": [
+      "SMCS_Mutant_Boar1_Hard",
+      "SMCS_Mutant_Boar2_Hard"
+    ]
+  },
+  {
+    "name": "Мутировавший Кабан",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "2",
+    "body": 1725,
+    "head": 3450,
+    "classes": [
+      "SMCS_Mutant_Boar_Hard"
+    ]
+  },
+  {
+    "name": "Кровосос",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "3",
+    "body": 1800,
+    "head": 360,
+    "classes": [
+      "Mutant_AoD_Krovosos1"
+    ]
+  },
+  {
+    "name": "Кровосос",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 1800,
+    "head": 1800,
+    "classes": [
+      "Mutant_AoD_Krovosos3",
+      "Mutant_AoD_Krovosos4",
+      "Mutant_AoD_Krovosos5",
+      "Mutant_AoD_Krovosos6",
+      "Mutant_AoD_Krovosos1_Easy",
+      "Mutant_AoD_Krovosos2_Easy",
+      "Mutant_AoD_Krovosos3_Easy",
+      "Mutant_AoD_Krovosos1_Empty",
+      "Mutant_AoD_Krovosos2_Empty",
+      "Mutant_AoD_Krovosos3_Empty",
+      "Mutant_AoD_Krovosos4_Easy",
+      "Mutant_AoD_Krovosos5_Easy",
+      "Mutant_AoD_Krovosos6_Easy",
+      "Mutant_AoD_Krovosos4_Empty",
+      "Mutant_AoD_Krovosos5_Empty",
+      "Mutant_AoD_Krovosos6_Empty"
+    ]
+  },
+  {
+    "name": "Мутировавший Излом",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "",
+    "body": 1800,
+    "head": 1200,
+    "classes": [
+      "SMCS_Izlom_Easy"
+    ]
+  },
+  {
+    "name": "Мутировавший Снорк",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "",
+    "body": 2160,
+    "head": 1440,
+    "classes": [
+      "SMCS_Snork_Hard"
+    ]
+  },
+  {
+    "name": "Химера",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "4",
+    "body": 2250,
+    "head": 2250,
+    "classes": [
+      "SMCS_Chimera_Hard"
+    ]
+  },
+  {
+    "name": "Химера",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "",
+    "body": 2300,
+    "head": 1533,
+    "classes": [
+      "SMCS_MwolF"
+    ]
+  },
+  {
+    "name": "Бюрер",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "3",
+    "body": 2400,
+    "head": 960,
+    "classes": [
+      "Mutant_AoD_Burer1"
+    ]
+  },
+  {
+    "name": "Бюрер",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 2400,
+    "head": 2400,
+    "classes": [
+      "Mutant_AoD_Burer1_Empty"
+    ]
+  },
+  {
+    "name": "Кровосос",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "3",
+    "body": 2400,
+    "head": 2400,
+    "classes": [
+      "Mutant_AoD_Krovosos2"
+    ]
+  },
+  {
+    "name": "Лесник",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "3",
+    "body": 2400,
+    "head": 2400,
+    "classes": [
+      "Mutant_AoD_Forester1",
+      "Mutant_AoD_Forester1_Empty"
+    ]
+  },
+  {
+    "name": "Мутировавший Снорк",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "3",
+    "body": 2400,
+    "head": 1600,
+    "classes": [
+      "SMCS_Snork"
+    ]
+  },
+  {
+    "name": "Дикий пес",
+    "fam": "мутанты",
+    "mod": "SFP3",
+    "tier": "",
+    "body": 2429,
+    "head": 2429,
+    "classes": [
+      "SFP_DikoDog"
+    ]
+  },
+  {
+    "name": "Лесник",
+    "fam": "мутанты",
+    "mod": "MutantsCFG",
+    "tier": "",
+    "body": 2576,
+    "head": 4600,
+    "classes": [
+      "Mutant_AoD_Forester1dz"
+    ]
+  },
+  {
+    "name": "Тарк",
+    "fam": "мутанты",
+    "mod": "MutantsCFG",
+    "tier": "",
+    "body": 2679,
+    "head": 2679,
+    "classes": [
+      "Mutant_AoD_Tark1_Maledz"
+    ]
+  },
+  {
+    "name": "Химера",
+    "fam": "мутанты",
+    "mod": "MutantsCFG",
+    "tier": "",
+    "body": 2679,
+    "head": 2679,
+    "classes": [
+      "Mutant_AoD_Himera3dz"
+    ]
+  },
+  {
+    "name": "Мутировавший Излом",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "",
+    "body": 2875,
+    "head": 1917,
+    "classes": [
+      "SMCS_Izlom_Hard"
+    ]
+  },
+  {
+    "name": "Бюрер",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 3000,
+    "head": 3000,
+    "classes": [
+      "Mutant_AoD_Burer2",
+      "Mutant_AoD_Burer2_Empty"
+    ]
+  },
+  {
+    "name": "Контролёр",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 3000,
+    "head": 3000,
+    "classes": [
+      "Mutant_AoD_Controller1",
+      "Mutant_AoD_Controller1_Empty"
+    ]
+  },
+  {
+    "name": "Мутировавший Излом",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "",
+    "body": 3000,
+    "head": 2000,
+    "classes": [
+      "SMCS_Izlom_Original",
+      "SMCS_Izlom"
+    ]
+  },
+  {
+    "name": "Тарк",
+    "fam": "мутанты",
+    "mod": "MutantsCFG",
+    "tier": "3",
+    "body": 3000,
+    "head": 3055,
+    "classes": [
+      "Mutant_AoD_Tark1_Malebig"
+    ]
+  },
+  {
+    "name": "Тарк",
+    "fam": "мутанты",
+    "mod": "MutantsCFG",
+    "tier": "",
+    "body": 3000,
+    "head": 3000,
+    "classes": [
+      "Mutant_AoD_Tark1_Malebig_Empty"
+    ]
+  },
+  {
+    "name": "Химера",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "3",
+    "body": 3000,
+    "head": 2000,
+    "classes": [
+      "SMCS_Chimera",
+      "SMCS_ChimeraNew"
+    ]
+  },
+  {
+    "name": "Химера",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 3000,
+    "head": 3000,
+    "classes": [
+      "Mutant_AoD_Himera2_Mat",
+      "Mutant_AoD_Himera3_Mat",
+      "Mutant_AoD_Himera1_Empty",
+      "Mutant_AoD_Himera2_Empty",
+      "Mutant_AoD_Himera3_Empty"
+    ]
+  },
+  {
+    "name": "Химера",
+    "fam": "мутанты",
+    "mod": "MutantsCFG",
+    "tier": "",
+    "body": 3000,
+    "head": 3000,
+    "classes": [
+      "Mutant_AoD_Himera2",
+      "Mutant_AoD_Himera3"
+    ]
+  },
+  {
+    "name": "Лесник",
+    "fam": "мутанты",
+    "mod": "MutantsCFG",
+    "tier": "4",
+    "body": 4500,
+    "head": 4500,
+    "classes": [
+      "Mutant_AoD_Foresterbig",
+      "Mutant_AoD_Foresterbig_Empty"
+    ]
+  },
+  {
+    "name": "Луркер",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "4",
+    "body": 4500,
+    "head": 3000,
+    "classes": [
+      "SMCS_Lurker"
+    ]
+  },
+  {
+    "name": "Мутировавший Бюрер",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "4",
+    "body": 4500,
+    "head": 3000,
+    "classes": [
+      "SMCS_Burer",
+      "SMCS_Burer_Thrower",
+      "SMCS_Burer_Summoner"
+    ]
+  },
+  {
+    "name": "Мутировавший Кровосос",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "4",
+    "body": 4500,
+    "head": 4500,
+    "classes": [
+      "SMCS_BloodSucker_Black",
+      "SMCS_BloodSucker_Brown",
+      "SMCS_BloodSucker_Normal",
+      "SMCS_BloodSucker_Swamp",
+      "SMCS_BloodSucker_Indoor_Normal",
+      "SMCS_BloodSucker_Indoor_Swamp",
+      "SMCS_BloodSucker_Indoor_Brown",
+      "SMCS_BloodSucker_Indoor_Black",
+      "SMCS_BloodSucker_Sleeper_Normal",
+      "SMCS_BloodSucker_Sleeper_Swamp",
+      "SMCS_BloodSucker_Sleeper_Brown",
+      "SMCS_BloodSucker_Sleeper_Black"
+    ]
+  },
+  {
+    "name": "Химера",
+    "fam": "мутанты",
+    "mod": "MutantsCFG",
+    "tier": "",
+    "body": 4500,
+    "head": 4500,
+    "classes": [
+      "Mutant_AoD_Himera3big",
+      "Mutant_AoD_Himera3big_Empty"
+    ]
+  },
+  {
+    "name": "Кровосос",
+    "fam": "мутанты",
+    "mod": "SFP",
+    "tier": "",
+    "body": 4600,
+    "head": 4600,
+    "classes": [
+      "SFP_Bloodsucker_original",
+      "SFP_Bloodsucker_Blue",
+      "SFP_Bloodsucker_black",
+      "SFP_Bloodsucker_red",
+      "SFP_Bloodsucker_green",
+      "SFP_Bloodsucker_Hameleon"
+    ]
+  },
+  {
+    "name": "Болотная тварь",
+    "fam": "мутанты",
+    "mod": "SFP",
+    "tier": "",
+    "body": 5200,
+    "head": 5200,
+    "classes": [
+      "SFP_ANM_Krovosos_Boloto",
+      "SFP_ANM_BIG_Krovosos_Boloto",
+      "SFP_ANM_Krovosos_Boloto_inviz"
+    ]
+  },
+  {
+    "name": "Кровосос",
+    "fam": "мутанты",
+    "mod": "SFP",
+    "tier": "",
+    "body": 5200,
+    "head": 5200,
+    "classes": [
+      "SFP_ANM_Krovosos",
+      "SFP_ANM_Krovosos_Dark",
+      "SFP_ANM_BIG_Krovosos",
+      "SFP_ANM_BIG_Krovosos_Dark",
+      "SFP_ANM_Krovosos_inviz",
+      "SFP_ANM_Krovosos_Dark_inviz"
+    ]
+  },
+  {
+    "name": "Лабораторный Бюрер",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "",
+    "body": 5329,
+    "head": 5329,
+    "classes": [
+      "SMCS_Burer_Lab"
+    ]
+  },
+  {
+    "name": "Контролёр",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "4",
+    "body": 5750,
+    "head": 3833,
+    "classes": [
+      "SMCS_Controller",
+      "SMCS_Controller_Suicide"
+    ]
+  },
+  {
+    "name": "Псевдогигант",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "4",
+    "body": 5750,
+    "head": 5750,
+    "classes": [
+      "Mutant_AoD_PGigant",
+      "Mutant_AoD_PGigant_Empty"
+    ]
+  },
+  {
+    "name": "Луркер",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "",
+    "body": 9250,
+    "head": 6167,
+    "classes": [
+      "SMCS_Lurker_Hard"
+    ]
+  },
+  {
+    "name": "Мутировавший Бюрер",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "",
+    "body": 9250,
+    "head": 6167,
+    "classes": [
+      "SMCS_Burer_Hard"
+    ]
+  },
+  {
+    "name": "Контролёр",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "4",
+    "body": 12375,
+    "head": 8250,
+    "classes": [
+      "SMCS_Controller_Hard",
+      "SMCS_Controller_Hard_Suicide"
+    ]
+  },
+  {
+    "name": "Лунный тарк",
+    "fam": "мутанты",
+    "mod": "MutantsCFG",
+    "tier": "5",
+    "body": 18500,
+    "head": 18500,
+    "classes": [
+      "Mutant_AoD_Tark_Boss"
+    ]
+  },
+  {
+    "name": "Мародёр",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "5",
+    "body": 18500,
+    "head": 12333,
+    "classes": [
+      "SMCS_Borya"
+    ]
+  },
+  {
+    "name": "Химера",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "",
+    "body": 18500,
+    "head": 12333,
+    "classes": [
+      "SMCS_ChimeraNew_Hard"
+    ]
+  },
+  {
+    "name": "Химера мать",
+    "fam": "мутанты",
+    "mod": "MutantsCFG",
+    "tier": "5",
+    "body": 18500,
+    "head": 18500,
+    "classes": [
+      "Mutant_AoD_Himera_Boss"
+    ]
+  },
+  {
+    "name": "Хозяин леса",
+    "fam": "мутанты",
+    "mod": "MutantsCFG",
+    "tier": "5",
+    "body": 18500,
+    "head": 18500,
+    "classes": [
+      "Mutant_AoD_ForesterBoss"
+    ]
+  },
+  {
+    "name": "Тесла",
+    "fam": "мутанты",
+    "mod": "AP_zmb_voltage_PUBLIC",
+    "tier": "5",
+    "body": 24750,
+    "head": 24750,
+    "classes": [
+      "AP_zmb_voltage_miltary"
+    ]
+  },
+  {
+    "name": "Псевдогигант",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "5",
+    "body": 49500,
+    "head": 49500,
+    "classes": [
+      "SMCS_PseudoGiant",
+      "SMCS_PseudoGiantKv3"
+    ]
+  },
+  {
+    "name": "Anatoly",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Merc_Stalker_Walk_4"
+    ]
+  },
+  {
+    "name": "Andrey",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Neutral_Stalker_2Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Andrey",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Stalker_Walking",
+      "RNG_Neutral_Stalker_2Walk"
+    ]
+  },
+  {
+    "name": "Andrey",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 100,
+    "classes": [
+      "RNG_Stalker_Test"
+    ]
+  },
+  {
+    "name": "Andriy",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Stalker_Walking_Soldier1"
+    ]
+  },
+  {
+    "name": "Anton",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Aggressive_Bandit_HD_6_Walk",
+      "RNG_Bandit_HD_6_Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Anton",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Bandit_HD_6_Walk"
+    ]
+  },
+  {
+    "name": "Arkady",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Freedom_Stalker_Walk5"
+    ]
+  },
+  {
+    "name": "Arkhip",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Aggressive_Bandit_HD_14_Walk",
+      "RNG_Bandit_HD_14_Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Arkhip",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Bandit_HD_14_Walk"
+    ]
+  },
+  {
+    "name": "Artem",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Soldier_Walking_7_AirDrop"
+    ]
+  },
+  {
+    "name": "Artem",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Soldier_Walking_7",
+      "RNG_Dolg_HD_5_Walk"
+    ]
+  },
+  {
+    "name": "Artemiy",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Neutral_Stalker_13Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Artemiy",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Neutral_Stalker_13Walk"
+    ]
+  },
+  {
+    "name": "Barman",
+    "fam": "мутанты",
+    "mod": "StalkerNpcCS",
+    "tier": "",
+    "body": null,
+    "head": 100,
+    "classes": [
+      "RNG_BarmanCS"
+    ]
+  },
+  {
+    "name": "Bogdan",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Neutral_Stalker_14Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Bogdan",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Neutral_Stalker_14Walk"
+    ]
+  },
+  {
+    "name": "Bohdan",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Stalker_Walking_Soldier4"
+    ]
+  },
+  {
+    "name": "Daniil",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Aggressive_Bandit_HD_7_Walk",
+      "RNG_Bandit_HD_7_Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Daniil",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Bandit_HD_7_Walk"
+    ]
+  },
+  {
+    "name": "Denis",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Dolg_HD_8_Walk"
+    ]
+  },
+  {
+    "name": "Dmitriy",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Neutral_Stalker_5Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Dmitriy",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Neutral_Stalker_5Walk"
+    ]
+  },
+  {
+    "name": "Dmytro",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Soldier_Walking_2_AirDrop"
+    ]
+  },
+  {
+    "name": "Dmytro",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Soldier_Walking_2"
+    ]
+  },
+  {
+    "name": "Eduard",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Aggressive_Bandit_HD_2_Walk",
+      "RNG_Bandit_HD_2_Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Eduard",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Bandit_HD_2_Walk"
+    ]
+  },
+  {
+    "name": "Evgeny",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Freedom_Stalker_Walk2"
+    ]
+  },
+  {
+    "name": "Fedor",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Freedom_Stalker_Walk7"
+    ]
+  },
+  {
+    "name": "Gennady",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Dolg_HD_1_Walk"
+    ]
+  },
+  {
+    "name": "Georgy",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Aggressive_Bandit_HD_1_Walk",
+      "RNG_Bandit_HD_1_Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Georgy",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Bandit_HD_1_Walk"
+    ]
+  },
+  {
+    "name": "Gleb",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Neutral_Stalker_8Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Gleb",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Neutral_Stalker_8Walk"
+    ]
+  },
+  {
+    "name": "Grigory",
+    "fam": "мутанты",
+    "mod": "RNGNPCcfg",
+    "tier": "",
+    "body": null,
+    "head": 420,
+    "classes": [
+      "RNG_Dolg_HD_6_Walk"
+    ]
+  },
+  {
+    "name": "Igor",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Freedom_Stalker_Walk"
+    ]
+  },
+  {
+    "name": "Illia",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Neutral_Stalker_11Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Illia",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Neutral_Stalker_11Walk"
+    ]
+  },
+  {
+    "name": "Ilya",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Aggressive_Bandit_HD_10_Walk",
+      "RNG_Bandit_HD_10_Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Ilya",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Bandit_HD_10_Walk"
+    ]
+  },
+  {
+    "name": "Ivan",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Soldier_Walking_4_AirDrop"
+    ]
+  },
+  {
+    "name": "Ivan",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Soldier_Walking_4"
+    ]
+  },
+  {
+    "name": "Kirill",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Dolg_HD_2_Walk"
+    ]
+  },
+  {
+    "name": "Konstantin",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Merc_Stalker_Walk_3"
+    ]
+  },
+  {
+    "name": "Leonid",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Aggressive_Bandit_HD_8_Walk",
+      "RNG_Bandit_HD_8_Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Leonid",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Bandit_HD_8_Walk",
+      "RNG_Freedom_Stalker_Walk3"
+    ]
+  },
+  {
+    "name": "Lev",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Neutral_Stalker_15Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Lev",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Neutral_Stalker_15Walk"
+    ]
+  },
+  {
+    "name": "Maksim",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Stalker_Walking_Soldier"
+    ]
+  },
+  {
+    "name": "Maksym",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Soldier_Walking_10_AirDrop"
+    ]
+  },
+  {
+    "name": "Maksym",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Soldier_Walking_10"
+    ]
+  },
+  {
+    "name": "Matvey",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Neutral_Stalker_3Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Matvey",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Neutral_Stalker_3Walk"
+    ]
+  },
+  {
+    "name": "Maxim",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Dolg_HD_3_Walk"
+    ]
+  },
+  {
+    "name": "Miron",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Neutral_Stalker_7Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Miron",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Neutral_Stalker_7Walk"
+    ]
+  },
+  {
+    "name": "Mykola",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Soldier_Walking_3_AirDrop"
+    ]
+  },
+  {
+    "name": "Mykola",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Soldier_Walking_3"
+    ]
+  },
+  {
+    "name": "Nikita",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Freedom_Stalker_Walk9"
+    ]
+  },
+  {
+    "name": "Oleksandr",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Soldier_Walking_14_AirDrop"
+    ]
+  },
+  {
+    "name": "Oleksandr",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Soldier_Walking_14"
+    ]
+  },
+  {
+    "name": "Petro",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Soldier_Walking_6_AirDrop"
+    ]
+  },
+  {
+    "name": "Petro",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Soldier_Walking_6"
+    ]
+  },
+  {
+    "name": "Platon",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Neutral_Stalker_6Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Platon",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Neutral_Stalker_6Walk"
+    ]
+  },
+  {
+    "name": "Pyotr",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Aggressive_Bandit_HD_11_Walk",
+      "RNG_Bandit_HD_11_Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Pyotr",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Bandit_HD_11_Walk"
+    ]
+  },
+  {
+    "name": "Rodion",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Aggressive_Bandit_HD_12_Walk",
+      "RNG_Bandit_HD_12_Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Rodion",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Bandit_HD_12_Walk"
+    ]
+  },
+  {
+    "name": "Rostyk",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Neutral_Stalker_9Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Rostyk",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Neutral_Stalker_9Walk"
+    ]
+  },
+  {
+    "name": "Ruslan",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Aggressive_Bandit_HD_5_Walk",
+      "RNG_Bandit_HD_5_Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Ruslan",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Bandit_HD_5_Walk"
+    ]
+  },
+  {
+    "name": "Semyon",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Aggressive_Bandit_HD_13_Walk",
+      "RNG_Bandit_HD_13_Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Semyon",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Bandit_HD_13_Walk"
+    ]
+  },
+  {
+    "name": "Sergey",
+    "fam": "мутанты",
+    "mod": "RNGNPCcfg",
+    "tier": "",
+    "body": null,
+    "head": 175,
+    "classes": [
+      "RNG_Bandit_HD_4_Walk"
+    ]
+  },
+  {
+    "name": "Sergey",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Aggressive_Bandit_HD_4_Walk",
+      "RNG_Bandit_HD_4_Walk_AirDrop",
+      "RNG_Neutral_Stalker_4Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Sergey",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Neutral_Stalker_4Walk"
+    ]
+  },
+  {
+    "name": "Serhiy",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Soldier_Walking_12_AirDrop"
+    ]
+  },
+  {
+    "name": "Serhiy",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Soldier_Walking_12"
+    ]
+  },
+  {
+    "name": "Sidor",
+    "fam": "мутанты",
+    "mod": "StalkerNpcCS",
+    "tier": "",
+    "body": null,
+    "head": 100,
+    "classes": [
+      "RNG_SidorCS"
+    ]
+  },
+  {
+    "name": "Stanislav",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Dolg_HD_4_Walk"
+    ]
+  },
+  {
+    "name": "Stepan",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Freedom_Stalker_Walk6"
+    ]
+  },
+  {
+    "name": "Timofey",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Aggressive_Bandit_HD_3_Walk",
+      "RNG_Bandit_HD_3_Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Timofey",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Bandit_HD_3_Walk"
+    ]
+  },
+  {
+    "name": "Tymur",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Neutral_Stalker_10Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Tymur",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Neutral_Stalker_10Walk"
+    ]
+  },
+  {
+    "name": "Unknown",
+    "fam": "мутанты",
+    "mod": "RNGNPCcfg",
+    "tier": "",
+    "body": null,
+    "head": 475,
+    "classes": [
+      "RNG_Aggressive_Monolith_Stalker_HD_1",
+      "RNG_Aggressive_Monolith_Stalker_HD_2",
+      "RNG_Aggressive_Monolith_Stalker_HD_3",
+      "RNG_Aggressive_Monolith_Stalker_HD_4",
+      "RNG_Aggressive_Monolith_Stalker_HD_5",
+      "RNG_Aggressive_Monolith_Stalker_HD_6",
+      "RNG_Aggressive_Monolith_Stalker_HD_7",
+      "RNG_Aggressive_Monolith_Stalker_HD_8",
+      "RNG_Aggressive_Monolith_Stalker_HD_9"
+    ]
+  },
+  {
+    "name": "Vadim",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Aggressive_Bandit_HD_9_Walk",
+      "RNG_Bandit_HD_9_Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Vadim",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Bandit_HD_9_Walk"
+    ]
+  },
+  {
+    "name": "Valery",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Freedom_Stalker_Walk8"
+    ]
+  },
+  {
+    "name": "Vasily",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Neutral_Stalker_12Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Vasily",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Merc_Stalker_Walk_5",
+      "RNG_Neutral_Stalker_12Walk"
+    ]
+  },
+  {
+    "name": "Vasyl",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Soldier_Walking_5_AirDrop"
+    ]
+  },
+  {
+    "name": "Vasyl",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Soldier_Walking_5"
+    ]
+  },
+  {
+    "name": "Viktor",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Merc_Stalker_Walk_2"
+    ]
+  },
+  {
+    "name": "Vladislav",
+    "fam": "мутанты",
+    "mod": "RNGNPCcfg",
+    "tier": "",
+    "body": null,
+    "head": 420,
+    "classes": [
+      "RNG_Merc_Stalker_Walk_1"
+    ]
+  },
+  {
+    "name": "Vladislav",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Freedom_Stalker_Walk10"
+    ]
+  },
+  {
+    "name": "Volodymyr",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Soldier_Walking_8_AirDrop"
+    ]
+  },
+  {
+    "name": "Volodymyr",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Soldier_Walking_8"
+    ]
+  },
+  {
+    "name": "Vyacheslav",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Neutral_Stalker_1Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Vyacheslav",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Freedom_Stalker_Walk4",
+      "RNG_Neutral_Stalker_1Walk"
+    ]
+  },
+  {
+    "name": "Yaroslav",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Dolg_HD_7_Walk"
+    ]
+  },
+  {
+    "name": "Yevhen",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Soldier_Walking_11_AirDrop"
+    ]
+  },
+  {
+    "name": "Yevhen",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Soldier_Walking_11"
+    ]
+  },
+  {
+    "name": "Yuriy",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Soldier_Walking_9_AirDrop"
+    ]
+  },
+  {
+    "name": "Yuriy",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Soldier_Walking_9"
+    ]
+  },
+  {
+    "name": "Zakhar",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Neutral_Stalker_16Walk_AirDrop"
+    ]
+  },
+  {
+    "name": "Zakhar",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Neutral_Stalker_16Walk"
+    ]
+  },
+  {
+    "name": "Алексей «Тень»",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 250,
+    "classes": [
+      "RNG_Loot_NPC_Alexei_Shadow"
+    ]
+  },
+  {
+    "name": "Борис «Волкодав»",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 250,
+    "classes": [
+      "RNG_Loot_NPC_Boris_Wolfhound"
+    ]
+  },
+  {
+    "name": "Генрих «Клинок»",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 250,
+    "classes": [
+      "RNG_Loot_NPC_Henrik_Blade"
+    ]
+  },
+  {
+    "name": "Григорий «Сажа»",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 250,
+    "classes": [
+      "RNG_Loot_NPC_Grigory_Soot"
+    ]
+  },
+  {
+    "name": "Даниил «Заплатка»",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 250,
+    "classes": [
+      "RNG_Loot_NPC_Daniil_Patch"
+    ]
+  },
+  {
+    "name": "Егор «Бочка»",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 250,
+    "classes": [
+      "RNG_Loot_NPC_Egor_Barrel"
+    ]
+  },
+  {
+    "name": "Зараженный",
+    "fam": "мутанты",
+    "mod": "RNGNPCcfg",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Aggressive_Stalker_Walking_Base"
+    ]
+  },
+  {
+    "name": "Зараженный",
+    "fam": "мутанты",
+    "mod": "RNGNPCcfg",
+    "tier": "",
+    "body": null,
+    "head": 100,
+    "classes": [
+      "RNG_Bandit_Stalker",
+      "RNG_Dolg_Stalker",
+      "RNG_Ecolog_Toolkarev_Stalker",
+      "RNG_Freedom_Stalker",
+      "RNG_Hero_Stalker",
+      "RNG_Greh_Stalker",
+      "RNG_ISG_Stalker",
+      "RNG_Lesnik_Stalker",
+      "RNG_Merc_Stalker",
+      "RNG_Monolith_Stalker",
+      "RNG_Neutral_Stalker",
+      "RNG_Poluden_Stalker",
+      "RNG_Renegade_Stalker",
+      "RNG_Soldier_Stalker",
+      "RNG_Ucheniy_Stalker"
+    ]
+  },
+  {
+    "name": "Зараженный",
+    "fam": "мутанты",
+    "mod": "RNGNPCcfg",
+    "tier": "",
+    "body": null,
+    "head": 1100,
+    "classes": [
+      "RNG_Bandit_Stalker_neutral_1C",
+      "RNG_Bandit_Stalker_neutral_1EE"
+    ]
+  },
+  {
+    "name": "Зараженный",
+    "fam": "мутанты",
+    "mod": "RNGNPCcfg",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Stalker_Walking_Base"
+    ]
+  },
+  {
+    "name": "Зараженный",
+    "fam": "мутанты",
+    "mod": "StalkerNpcCS",
+    "tier": "",
+    "body": null,
+    "head": 100,
+    "classes": [
+      "RNG_Izogy_Stalker",
+      "RNG_Bandit_Stalker_Brown",
+      "RNG_Bandit_Stalker_Black",
+      "RNG_Bandit_Stalker_Leather_Jacket",
+      "RNG_Bandit_Stalker_Leather_Blue",
+      "RNG_Bandit_Stalker_Brown1",
+      "RNG_Bandit_Stalker_Green",
+      "RNG_Bandit_Stalker_Purplet",
+      "RNG_Bandit_Stalker_Red",
+      "RNG_Bandit_Stalker_Leather_yellow",
+      "RNG_Bandit_Stalker_neutral_1",
+      "RNG_Bandit_Stalker_neutral_1E",
+      "RNG_Bandit_Stalker_neutral_1A",
+      "RNG_Bandit_Stalker_neutral_1B",
+      "RNG_Bandit_Stalker_neutral_1D",
+      "RNG_Bandit_Stalker_neutral_1F",
+      "RNG_Bandit_HD_1",
+      "RNG_Bandit_HD_2",
+      "RNG_Bandit_HD_3",
+      "RNG_Bandit_HD_4",
+      "RNG_Bandit_HD_5",
+      "RNG_Bandit_HD_6",
+      "RNG_Bandit_HD_7",
+      "RNG_Bandit_HD_8",
+      "RNG_Bandit_HD_9",
+      "RNG_Bandit_HD_10",
+      "RNG_Bandit_HD_11",
+      "RNG_Bandit_HD_12",
+      "RNG_Bandit_HD_13",
+      "RNG_Bandit_HD_14",
+      "RNG_Dolg_1b",
+      "RNG_Dolg_1c",
+      "RNG_Dolg_HD_1",
+      "RNG_Dolg_HD_2",
+      "RNG_Dolg_HD_3",
+      "RNG_Dolg_HD_4",
+      "RNG_Dolg_HD_5",
+      "RNG_Dolg_HD_6",
+      "RNG_Dolg_HD_7",
+      "RNG_Dolg_HD_8",
+      "RNG_Freedom_Stalker_HD_1",
+      "RNG_Freedom_Stalker_HD_2",
+      "RNG_Freedom_Stalker_HD_3",
+      "RNG_Freedom_Stalker_HD_4",
+      "RNG_Freedom_Stalker_HD_5",
+      "RNG_Freedom_Stalker_HD_6",
+      "RNG_Freedom_Stalker_HD_7",
+      "RNG_Freedom_Stalker_HD_8",
+      "RNG_Freedom_Stalker_HD_9",
+      "RNG_Freedom_Stalker_HD_10",
+      "RNG_Greh_Stalker_Blue",
+      "RNG_Greh_Stalker_Yellouw",
+      "RNG_Iskra_Soldier_Light",
+      "RNG_Iskra_Soldier_Medium",
+      "RNG_Iskra_Soldier_Heavy",
+      "RNG_Merc_Stalker_HD_1",
+      "RNG_Merc_Stalker_HD_2",
+      "RNG_Merc_Stalker_HD_3",
+      "RNG_Merc_Stalker_HD_4",
+      "RNG_Merc_Stalker_HD_5",
+      "RNG_Merc_Stalker_HD_6",
+      "RNG_Merc_Stalker_HD_7",
+      "RNG_Merc_Stalker_HD_8",
+      "RNG_Merc_Stalker_HD_9",
+      "RNG_Merc_Stalker_HD_10",
+      "RNG_Merc_Stalker_HD_11",
+      "RNG_Monolith_Stalker_HD_1",
+      "RNG_Monolith_Stalker_HD_2",
+      "RNG_Monolith_Stalker_HD_3",
+      "RNG_Monolith_Stalker_HD_4",
+      "RNG_Monolith_Stalker_HD_5",
+      "RNG_Monolith_Stalker_HD_6",
+      "RNG_Monolith_Stalker_HD_7",
+      "RNG_Monolith_Stalker_HD_8",
+      "RNG_Monolith_Stalker_HD_9",
+      "RNG_Neutral_Stalker_2c",
+      "RNG_Neutral_Stalker_2d",
+      "RNG_Neutral_Stalker_2e",
+      "RNG_Neutral_Stalker_2f",
+      "RNG_Neutral_Stalker_2",
+      "RNG_Neutral_Stalker_2Apex",
+      "RNG_Neutral_Stalker_2_neutral2fall",
+      "RNG_Neutral_Stalker_2_neutral",
+      "RNG_Neutral_Stalker_2_neutral_copy",
+      "RNG_Neutral_Stalker_2_neutral1",
+      "RNG_Neutral_Stalker_2_neutral2",
+      "RNG_Neutral_Stalker_2_neutral3",
+      "RNG_Neutral_Stalker_2_neutral4",
+      "RNG_Neutral_Stalker_2_neutral5",
+      "RNG_Neutral_Stalker_2_neutral6",
+      "RNG_Neutral_Stalker_2_neutral7",
+      "RNG_Neutral_Stalker_2_neutral8",
+      "RNG_Neutral_Stalker_2_neutral9",
+      "RNG_Neutral_Stalker_2_neutral10",
+      "RNG_Neutral_Stalker_2_neutral11",
+      "RNG_Neutral_Stalker_2_neutral12",
+      "RNG_Neutral_Stalker_2_neutral13",
+      "RNG_Neutral_Stalker_2_BarterNPC",
+      "RNG_Poluden_Stalker_1",
+      "RNG_Monolith_Stalker_2",
+      "RNG_Monolith_Stalker_3",
+      "RNG_Monolith_Stalker_4",
+      "RNG_Monolith_Stalker_5",
+      "RNG_Monolith_Stalker_6",
+      "RNG_Monolith_Stalker_7",
+      "RNG_Monolith_Stalker_8",
+      "RNG_Monolith_Stalker_9",
+      "RNG_Soldier_2",
+      "RNG_Soldier_3",
+      "RNG_Soldier_4",
+      "RNG_Soldier_5",
+      "RNG_Soldier_Duty",
+      "RNG_Soldier_V_1",
+      "RNG_Soldier_V_1_Black",
+      "RNG_Soldier_V_1_Zraneny",
+      "RNG_Soldier_HD_2",
+      "RNG_Soldier_HD_3",
+      "RNG_Soldier_HD_4",
+      "RNG_Soldier_HD_5",
+      "RNG_Soldier_HD_6",
+      "RNG_Soldier_HD_7",
+      "RNG_Soldier_HD_8",
+      "RNG_Soldier_HD_9",
+      "RNG_Soldier_HD_10",
+      "RNG_Soldier_HD_11",
+      "RNG_Soldier_HD_12",
+      "RNG_Soldier_HD_13",
+      "RNG_Soldier_HD_14",
+      "RNG_Soldier_HD_15",
+      "RNG_Varda_Soldier_Light",
+      "RNG_Varda_Soldier_Medium",
+      "RNG_Varda_Soldier_Heavy",
+      "RNG_AI_Vehicle_Base",
+      "RNG_AI_Kamaz_Vehicle"
+    ]
+  },
+  {
+    "name": "Зараженный",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 350,
+    "classes": [
+      "RNG_Iskra_SoldierAgresive_Light",
+      "RNG_Iskra_SoldierAgresive_Medium",
+      "RNG_Iskra_SoldierAgresive_Heavy",
+      "RNG_Varda_SoldierAgresive_Light",
+      "RNG_Varda_SoldierAgresive_Medium",
+      "RNG_Varda_SoldierAgresive_Heavy",
+      "RNG_Poluden_StalkerAgresive_1",
+      "RNG_Poluden_StalkerAgresive_2",
+      "RNG_Poluden_StalkerAgresive_3",
+      "RNG_Poluden_StalkerAgresive_4",
+      "RNG_Poluden_StalkerAgresive_5",
+      "RNG_Poluden_StalkerAgresive_6",
+      "RNG_Poluden_StalkerAgresive_7",
+      "RNG_Poluden_StalkerAgresive_8",
+      "RNG_Poluden_StalkerAgresive_9",
+      "RNG_AirdropGuard_Walking_Base",
+      "RNG_Iskra_AirdropGuard_Light",
+      "RNG_Iskra_AirdropGuard_Medium",
+      "RNG_Iskra_SoldierAirdropGuard_Heavy",
+      "RNG_Varda_SoldierAirdropGuard_Light",
+      "RNG_Varda_SoldierAirdropGuard_Medium",
+      "RNG_Varda_SoldierAirdropGuard_Heavy",
+      "RNG_Poluden_StalkerAirdropGuard_1",
+      "RNG_Poluden_StalkerAirdropGuard_2",
+      "RNG_Poluden_StalkerAirdropGuard_3",
+      "RNG_Poluden_StalkerAirdropGuard_4",
+      "RNG_Poluden_StalkerAirdropGuard_5",
+      "RNG_Poluden_StalkerAirdropGuard_6",
+      "RNG_Poluden_StalkerAirdropGuard_7",
+      "RNG_Poluden_StalkerAirdropGuard_8",
+      "RNG_Poluden_StalkerAirdropGuard_9"
+    ]
+  },
+  {
+    "name": "Зараженный",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 250,
+    "classes": [
+      "RNG_Stalker_Loot_NPC"
+    ]
+  },
+  {
+    "name": "Зараженный",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 150,
+    "classes": [
+      "RNG_Iskra_SoldierWalk_Light",
+      "RNG_Iskra_SoldierWalk_Medium",
+      "RNG_Iskra_SoldierWalk_Heavy",
+      "RNG_Varda_SoldierWalk_Light",
+      "RNG_Varda_SoldierWalk_Medium",
+      "RNG_Varda_SoldierWalk_Heavy",
+      "RNG_Poluden_StalkerWalk_1",
+      "RNG_Monolith_StalkerWalk_2",
+      "RNG_Monolith_StalkerWalk_3",
+      "RNG_Monolith_StalkerWalk_4",
+      "RNG_Monolith_StalkerWalk_5",
+      "RNG_Monolith_StalkerWalk_6",
+      "RNG_Monolith_StalkerWalk_7",
+      "RNG_Monolith_StalkerWalk_8",
+      "RNG_Monolith_StalkerWalk_9"
+    ]
+  },
+  {
+    "name": "Зараженный",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 100,
+    "classes": [
+      "RNG_Stalker_Test_Base"
+    ]
+  },
+  {
+    "name": "Игорь «Ус»",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 250,
+    "classes": [
+      "RNG_Loot_NPC_Igor_Whisker"
+    ]
+  },
+  {
+    "name": "Иосиф «Шип»",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 250,
+    "classes": [
+      "RNG_Loot_NPC_Josef_Thorn"
+    ]
+  },
+  {
+    "name": "Кирилл «Призрак»",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 250,
+    "classes": [
+      "RNG_Loot_NPC_Kirill_Ghost"
+    ]
+  },
+  {
+    "name": "Леонид «Маска»",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 250,
+    "classes": [
+      "RNG_Loot_NPC_Leonid_Mask"
+    ]
+  },
+  {
+    "name": "Максим «Кремень»",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 250,
+    "classes": [
+      "RNG_Loot_NPC_Maksim_Flint"
+    ]
+  },
+  {
+    "name": "Никита «Вой»",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 250,
+    "classes": [
+      "RNG_Loot_NPC_Nikita_Howl"
+    ]
+  },
+  {
+    "name": "Олег «Решала»",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 250,
+    "classes": [
+      "RNG_Loot_NPC_Oleg_Fixer"
+    ]
+  },
+  {
+    "name": "Павел «Глаз»",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 250,
+    "classes": [
+      "RNG_Loot_NPC_Pavel_Sight"
+    ]
+  },
+  {
+    "name": "Семён «Кузня»",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 250,
+    "classes": [
+      "RNG_Loot_NPC_Semyon_Forge"
+    ]
+  },
+  {
+    "name": "Фёдор «Грач»",
+    "fam": "мутанты",
+    "mod": "StalkerNpcScripts",
+    "tier": "",
+    "body": null,
+    "head": 250,
+    "classes": [
+      "RNG_Loot_NPC_Fyodor_Rook"
+    ]
+  },
+  {
+    "name": "Курица",
+    "fam": "животные",
+    "mod": "ваниль",
+    "tier": "",
+    "body": 15,
+    "head": 15,
+    "classes": [
+      "Animal_GallusGallusDomesticusF_Brown",
+      "Animal_GallusGallusDomesticusF_Spotted",
+      "Animal_GallusGallusDomesticusF_White"
+    ]
+  },
+  {
+    "name": "Петух",
+    "fam": "животные",
+    "mod": "ваниль",
+    "tier": "",
+    "body": 15,
+    "head": 15,
+    "classes": [
+      "Animal_GallusGallusDomesticus"
+    ]
+  },
+  {
+    "name": "Заяц",
+    "fam": "животные",
+    "mod": "ваниль",
+    "tier": "",
+    "body": 25,
+    "head": 25,
+    "classes": [
+      "Animal_LepusEuropaeus"
+    ]
+  },
+  {
+    "name": "Рыжая лисица",
+    "fam": "животные",
+    "mod": "ваниль",
+    "tier": "",
+    "body": 50,
+    "head": 50,
+    "classes": [
+      "Animal_VulpesVulpes"
+    ]
+  },
+  {
+    "name": "Баран",
+    "fam": "животные",
+    "mod": "ваниль",
+    "tier": "",
+    "body": 120,
+    "head": 120,
+    "classes": [
+      "Animal_OvisAries"
+    ]
+  },
+  {
+    "name": "Бык",
+    "fam": "животные",
+    "mod": "ваниль",
+    "tier": "",
+    "body": 120,
+    "head": 120,
+    "classes": [
+      "Animal_BosTaurus_Brown",
+      "Animal_BosTaurus_White",
+      "Animal_BosTaurus_Spotted"
+    ]
+  },
+  {
+    "name": "Дикий кабан",
+    "fam": "животные",
+    "mod": "ваниль",
+    "tier": "",
+    "body": 120,
+    "head": 120,
+    "classes": [
+      "Animal_SusScrofa"
+    ]
+  },
+  {
+    "name": "Коза",
+    "fam": "животные",
+    "mod": "ваниль",
+    "tier": "",
+    "body": 120,
+    "head": 120,
+    "classes": [
+      "Animal_CapraHircusF"
+    ]
+  },
+  {
+    "name": "Козел",
+    "fam": "животные",
+    "mod": "ваниль",
+    "tier": "",
+    "body": 120,
+    "head": 120,
+    "classes": [
+      "Animal_CapraHircus_Brown",
+      "Animal_CapraHircus_Black",
+      "Animal_CapraHircus_White",
+      "Animal_CapraHircus_Spooky"
+    ]
+  },
+  {
+    "name": "Корова",
+    "fam": "животные",
+    "mod": "ваниль",
+    "tier": "",
+    "body": 120,
+    "head": 120,
+    "classes": [
+      "Animal_BosTaurusF_Brown",
+      "Animal_BosTaurusF_White",
+      "Animal_BosTaurusF_Spotted"
+    ]
+  },
+  {
+    "name": "Косуля",
+    "fam": "животные",
+    "mod": "ваниль",
+    "tier": "",
+    "body": 120,
+    "head": 120,
+    "classes": [
+      "Animal_CapreolusCapreolusF"
+    ]
+  },
+  {
+    "name": "Овца",
+    "fam": "животные",
+    "mod": "ваниль",
+    "tier": "",
+    "body": 120,
+    "head": 120,
+    "classes": [
+      "Animal_OvisAriesF"
+    ]
+  },
+  {
+    "name": "Олениха",
+    "fam": "животные",
+    "mod": "ваниль",
+    "tier": "",
+    "body": 120,
+    "head": 120,
+    "classes": [
+      "Animal_CervusElaphusF"
+    ]
+  },
+  {
+    "name": "Олень",
+    "fam": "животные",
+    "mod": "ваниль",
+    "tier": "",
+    "body": 120,
+    "head": 120,
+    "classes": [
+      "Animal_CervusElaphus"
+    ]
+  },
+  {
+    "name": "Самец косули",
+    "fam": "животные",
+    "mod": "ваниль",
+    "tier": "",
+    "body": 120,
+    "head": 120,
+    "classes": [
+      "Animal_CapreolusCapreolus"
+    ]
+  },
+  {
+    "name": "Свинья",
+    "fam": "животные",
+    "mod": "ваниль",
+    "tier": "",
+    "body": 120,
+    "head": 120,
+    "classes": [
+      "Animal_SusDomesticus"
+    ]
+  },
+  {
+    "name": "Северный олень",
+    "fam": "животные",
+    "mod": "ваниль",
+    "tier": "",
+    "body": 120,
+    "head": 120,
+    "classes": [
+      "Animal_RangiferTarandus",
+      "Animal_RangiferTarandus_Xmas",
+      "Animal_RangiferTarandusF"
+    ]
+  },
+  {
+    "name": "Бурый медведь",
+    "fam": "животные",
+    "mod": "ваниль",
+    "tier": "",
+    "body": 200,
+    "head": 200,
+    "classes": [
+      "Animal_UrsusArctos"
+    ]
+  },
+  {
+    "name": "Волк",
+    "fam": "животные",
+    "mod": "ваниль",
+    "tier": "",
+    "body": 200,
+    "head": 200,
+    "classes": [
+      "Animal_CanisLupus_Grey",
+      "Animal_CanisLupus_White"
+    ]
+  }
+]
