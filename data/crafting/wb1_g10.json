@@ -29,6 +29,11 @@
         "name": "Изолента",
         "amount": 8,
         "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 8,
+        "kind": "quantity"
       }
     ]
   },
@@ -60,6 +65,11 @@
       },
       {
         "name": "Изолента",
+        "amount": 15,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
         "amount": 15,
         "kind": "quantity"
       }
@@ -95,6 +105,11 @@
         "name": "Изолента",
         "amount": 26,
         "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 26,
+        "kind": "quantity"
       }
     ]
   },
@@ -126,6 +141,11 @@
       },
       {
         "name": "Изолента",
+        "amount": 33,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
         "amount": 33,
         "kind": "quantity"
       }

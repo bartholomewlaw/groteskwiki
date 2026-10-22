@@ -39,6 +39,16 @@
         "name": "Инструменты тонкой работы",
         "amount": 1,
         "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 1,
+        "kind": "quantity"
       }
     ]
   },
@@ -84,6 +94,21 @@
         "name": "Инструменты тонкой работы",
         "amount": 6,
         "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 2,
+        "kind": "quantity"
       }
     ]
   },
@@ -123,6 +148,21 @@
       {
         "name": "Инструменты тонкой работы",
         "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 2,
         "kind": "quantity"
       }
     ]
@@ -169,6 +209,26 @@
         "name": "Инструменты тонкой работы",
         "amount": 15,
         "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 1,
+        "kind": "quantity"
       }
     ]
   },
@@ -213,6 +273,26 @@
       {
         "name": "Инструменты тонкой работы",
         "amount": 36,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 20,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 20,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 10,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 2,
         "kind": "quantity"
       }
     ]
@@ -277,6 +357,16 @@
       },
       {
         "name": "Сломанный дисплей",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
         "amount": 1,
         "kind": "quantity"
       }

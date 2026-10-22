@@ -9,6 +9,11 @@
         "name": "Летучая мышь 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -22,6 +27,11 @@
         "name": "Батарейка 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -35,6 +45,11 @@
         "name": "Ангел 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -48,6 +63,11 @@
         "name": "Кровь камня 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -61,6 +81,11 @@
         "name": "Челюсть 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -74,6 +99,11 @@
         "name": "Компасс 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -87,6 +117,11 @@
         "name": "Серафим 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -100,6 +135,11 @@
         "name": "Душа 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -113,6 +153,11 @@
         "name": "Фонтан 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -126,6 +171,11 @@
         "name": "Генератор 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -139,6 +189,11 @@
         "name": "Гимлет 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -152,6 +207,11 @@
         "name": "Глаз 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -165,6 +225,11 @@
         "name": "Грави 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -178,6 +243,11 @@
         "name": "Изолятор 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -191,6 +261,11 @@
         "name": "Колобок 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -204,6 +279,11 @@
         "name": "Кристалл 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -217,6 +297,11 @@
         "name": "Маяк 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -230,6 +315,11 @@
         "name": "Мамины бусы 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -243,6 +333,11 @@
         "name": "Медальон 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -256,6 +351,11 @@
         "name": "Медуза 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -269,6 +369,11 @@
         "name": "Ломоть мяса 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -282,6 +387,11 @@
         "name": "Оазис 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -295,6 +405,11 @@
         "name": "Фантом 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -308,6 +423,11 @@
         "name": "Пламя 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -321,6 +441,11 @@
         "name": "Пузырь 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -334,6 +459,11 @@
         "name": "Золотая рыбка 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -347,6 +477,11 @@
         "name": "Шар 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -360,6 +495,11 @@
         "name": "Штурвал 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -373,6 +513,11 @@
         "name": "Перстень 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -386,6 +531,11 @@
         "name": "Череп Скряги 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -399,6 +549,11 @@
         "name": "Снежинка 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -412,6 +567,11 @@
         "name": "Ночная звезда 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -425,6 +585,11 @@
         "name": "Каменный цветок 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -438,6 +603,11 @@
         "name": "Лунный свет 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -451,6 +621,11 @@
         "name": "Вспышка 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   },
@@ -464,6 +639,11 @@
         "name": "Выверт 'Тир II'",
         "amount": 2,
         "kind": "count"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 6,
+        "kind": "quantity"
       }
     ]
   }

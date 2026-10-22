@@ -41,6 +41,36 @@
         "name": "Медная катушка",
         "amount": 32,
         "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Упакованное стекло",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 1,
+        "kind": "quantity"
       }
     ]
   },
@@ -85,6 +115,36 @@
       {
         "name": "Медная катушка",
         "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Упакованное стекло",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 1,
         "kind": "quantity"
       }
     ]
@@ -131,6 +191,36 @@
         "name": "Медная катушка",
         "amount": 32,
         "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Упакованное стекло",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 1,
+        "kind": "quantity"
       }
     ]
   },
@@ -175,6 +265,36 @@
       {
         "name": "Медная катушка",
         "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Упакованное стекло",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 1,
         "kind": "quantity"
       }
     ]
@@ -221,6 +341,36 @@
         "name": "Медная катушка",
         "amount": 32,
         "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Упакованное стекло",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 1,
+        "kind": "quantity"
       }
     ]
   },
@@ -266,6 +416,36 @@
         "name": "Медная катушка",
         "amount": 32,
         "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Упакованное стекло",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 1,
+        "kind": "quantity"
       }
     ]
   },
@@ -310,6 +490,36 @@
       {
         "name": "Медная катушка",
         "amount": 32,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Упакованное стекло",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 1,
         "kind": "quantity"
       }
     ]

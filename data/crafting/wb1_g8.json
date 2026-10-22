@@ -39,6 +39,21 @@
         "name": "Инструменты калибровки",
         "amount": 1,
         "kind": "quantity"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 2,
+        "kind": "quantity"
       }
     ]
   },
@@ -81,6 +96,21 @@
       {
         "name": "Инструменты калибровки",
         "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 3,
         "kind": "quantity"
       }
     ]
@@ -126,6 +156,21 @@
       {
         "name": "Инструменты калибровки",
         "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Перекись водорода",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 5,
         "kind": "quantity"
       }
     ]

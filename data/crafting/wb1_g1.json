@@ -22,12 +22,22 @@
       },
       {
         "name": "Нитки",
-        "amount": 4,
+        "amount": 8,
         "kind": "quantity"
       },
       {
         "name": "Инструменты калибровки",
         "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Леска",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 2,
         "kind": "quantity"
       }
     ]
@@ -55,12 +65,22 @@
       },
       {
         "name": "Нитки",
-        "amount": 4,
+        "amount": 8,
         "kind": "quantity"
       },
       {
         "name": "Инструменты калибровки",
         "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Леска",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 2,
         "kind": "quantity"
       }
     ]
@@ -88,12 +108,22 @@
       },
       {
         "name": "Нитки",
-        "amount": 4,
+        "amount": 8,
         "kind": "quantity"
       },
       {
         "name": "Инструменты калибровки",
         "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Леска",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 2,
         "kind": "quantity"
       }
     ]
@@ -121,12 +151,22 @@
       },
       {
         "name": "Нитки",
-        "amount": 4,
+        "amount": 8,
         "kind": "quantity"
       },
       {
         "name": "Инструменты калибровки",
         "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Леска",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 2,
         "kind": "quantity"
       }
     ]
@@ -156,12 +196,22 @@
       },
       {
         "name": "Нитки",
-        "amount": 5,
+        "amount": 10,
         "kind": "quantity"
       },
       {
         "name": "Инструменты калибровки",
         "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Леска",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 3,
         "kind": "quantity"
       }
     ]
@@ -191,12 +241,22 @@
       },
       {
         "name": "Нитки",
-        "amount": 5,
+        "amount": 10,
         "kind": "quantity"
       },
       {
         "name": "Инструменты калибровки",
         "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Леска",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 3,
         "kind": "quantity"
       }
     ]
@@ -226,12 +286,22 @@
       },
       {
         "name": "Нитки",
-        "amount": 6,
+        "amount": 12,
         "kind": "quantity"
       },
       {
         "name": "Инструменты калибровки",
         "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Леска",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 3,
         "kind": "quantity"
       }
     ]
@@ -261,12 +331,22 @@
       },
       {
         "name": "Нитки",
-        "amount": 6,
+        "amount": 12,
         "kind": "quantity"
       },
       {
         "name": "Инструменты калибровки",
         "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Леска",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 3,
         "kind": "quantity"
       }
     ]
@@ -306,12 +386,27 @@
       },
       {
         "name": "Нитки",
-        "amount": 8,
+        "amount": 16,
         "kind": "quantity"
       },
       {
         "name": "Резистор",
         "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Леска",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 4,
         "kind": "quantity"
       }
     ]
@@ -351,12 +446,27 @@
       },
       {
         "name": "Нитки",
-        "amount": 8,
+        "amount": 16,
         "kind": "quantity"
       },
       {
         "name": "Резистор",
         "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Леска",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 4,
         "kind": "quantity"
       }
     ]
@@ -396,12 +506,27 @@
       },
       {
         "name": "Нитки",
-        "amount": 11,
+        "amount": 22,
         "kind": "quantity"
       },
       {
         "name": "Резистор",
         "amount": 9,
+        "kind": "quantity"
+      },
+      {
+        "name": "Леска",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 6,
         "kind": "quantity"
       }
     ]
@@ -441,12 +566,27 @@
       },
       {
         "name": "Нитки",
-        "amount": 11,
+        "amount": 22,
         "kind": "quantity"
       },
       {
         "name": "Резистор",
         "amount": 9,
+        "kind": "quantity"
+      },
+      {
+        "name": "Леска",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 6,
         "kind": "quantity"
       }
     ]
@@ -486,12 +626,27 @@
       },
       {
         "name": "Нитки",
-        "amount": 14,
+        "amount": 28,
         "kind": "quantity"
       },
       {
         "name": "Резистор",
         "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Леска",
+        "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 8,
         "kind": "quantity"
       }
     ]
@@ -531,12 +686,27 @@
       },
       {
         "name": "Нитки",
-        "amount": 14,
+        "amount": 28,
         "kind": "quantity"
       },
       {
         "name": "Резистор",
         "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Леска",
+        "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 8,
         "kind": "quantity"
       }
     ]

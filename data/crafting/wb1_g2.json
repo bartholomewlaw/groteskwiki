@@ -56,6 +56,31 @@
         "name": "Отвертка",
         "amount": 47,
         "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 23,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 23,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 11,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 11,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 11,
+        "kind": "quantity"
       }
     ]
   },
@@ -120,6 +145,31 @@
       {
         "name": "Отвертка",
         "amount": 58,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 29,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 29,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 14,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 14,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 14,
         "kind": "quantity"
       }
     ]
@@ -186,6 +236,36 @@
         "name": "Отвертка",
         "amount": 67,
         "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 33,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 33,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 2,
+        "kind": "quantity"
       }
     ]
   },
@@ -251,6 +331,36 @@
         "name": "Отвертка",
         "amount": 82,
         "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 41,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 41,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 20,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 20,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 20,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 4,
+        "kind": "quantity"
       }
     ]
   },
@@ -311,6 +421,31 @@
         "name": "Отвертка",
         "amount": 12,
         "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 3,
+        "kind": "quantity"
       }
     ]
   },
@@ -370,6 +505,31 @@
       {
         "name": "Отвертка",
         "amount": 47,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 23,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 23,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 11,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 11,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 11,
         "kind": "quantity"
       }
     ]
@@ -436,6 +596,31 @@
         "name": "Отвертка",
         "amount": 58,
         "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 29,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 29,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 14,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 14,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 14,
+        "kind": "quantity"
       }
     ]
   },
@@ -500,6 +685,36 @@
       {
         "name": "Отвертка",
         "amount": 67,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 33,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 33,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 2,
         "kind": "quantity"
       }
     ]
@@ -566,6 +781,36 @@
         "name": "Отвертка",
         "amount": 82,
         "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 41,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 41,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 20,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 20,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 20,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 4,
+        "kind": "quantity"
       }
     ]
   },
@@ -625,6 +870,31 @@
       {
         "name": "Отвертка",
         "amount": 47,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 23,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 23,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 11,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 11,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 11,
         "kind": "quantity"
       }
     ]
@@ -691,6 +961,31 @@
         "name": "Отвертка",
         "amount": 58,
         "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 29,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 29,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 14,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 14,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 14,
+        "kind": "quantity"
       }
     ]
   },
@@ -756,6 +1051,36 @@
         "name": "Отвертка",
         "amount": 67,
         "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 33,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 33,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 16,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 2,
+        "kind": "quantity"
       }
     ]
   },
@@ -820,6 +1145,36 @@
       {
         "name": "Отвертка",
         "amount": 82,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 41,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 41,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
+        "amount": 20,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 20,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 20,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 4,
         "kind": "quantity"
       }
     ]

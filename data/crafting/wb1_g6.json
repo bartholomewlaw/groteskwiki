@@ -46,6 +46,26 @@
         "name": "лебедка",
         "amount": 1,
         "kind": "quantity"
+      },
+      {
+        "name": "Порох Сокол",
+        "amount": 15,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 20,
+        "kind": "quantity"
       }
     ]
   },
@@ -71,6 +91,16 @@
         "name": "Печатная плата",
         "amount": 20,
         "kind": "count"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 10,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 1,
+        "kind": "quantity"
       }
     ]
   }

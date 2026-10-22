@@ -17,6 +17,11 @@
       },
       {
         "name": "Леска",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
         "amount": 1,
         "kind": "quantity"
       }
@@ -50,6 +55,21 @@
       },
       {
         "name": "Инструменты калибровки",
+        "amount": 1,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Плоскогубцы",
         "amount": 1,
         "kind": "quantity"
       }

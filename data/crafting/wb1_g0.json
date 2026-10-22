@@ -24,6 +24,16 @@
         "name": "Пачка гривневых банкнот",
         "amount": 1000,
         "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 2,
+        "kind": "quantity"
       }
     ]
   },
@@ -57,6 +67,16 @@
         "name": "Пачка гривневых банкнот",
         "amount": 1400,
         "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 2,
+        "kind": "quantity"
       }
     ]
   },
@@ -89,6 +109,16 @@
       {
         "name": "Пачка гривневых банкнот",
         "amount": 2100,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Изолента",
+        "amount": 3,
         "kind": "quantity"
       }
     ]
@@ -128,6 +158,21 @@
         "name": "Пачка гривневых банкнот",
         "amount": 3000,
         "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 2,
+        "kind": "quantity"
       }
     ]
   },
@@ -166,6 +211,21 @@
         "name": "Пачка гривневых банкнот",
         "amount": 4400,
         "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 3,
+        "kind": "quantity"
       }
     ]
   },
@@ -203,6 +263,21 @@
       {
         "name": "Пачка гривневых банкнот",
         "amount": 6400,
+        "kind": "quantity"
+      },
+      {
+        "name": "Ржавые гайки",
+        "amount": 7,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 3,
         "kind": "quantity"
       }
     ]
@@ -244,6 +319,21 @@
         "name": "Пачка гривневых банкнот",
         "amount": 9300,
         "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 3,
+        "kind": "quantity"
       }
     ]
   },
@@ -283,6 +373,21 @@
       {
         "name": "Пачка гривневых банкнот",
         "amount": 13500,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 4,
         "kind": "quantity"
       }
     ]
@@ -324,6 +429,21 @@
         "name": "Пачка гривневых банкнот",
         "amount": 19500,
         "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 4,
+        "kind": "quantity"
       }
     ]
   },
@@ -363,6 +483,21 @@
       {
         "name": "Пачка гривневых банкнот",
         "amount": 28300,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Старый магнит",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Предохранители",
+        "amount": 5,
         "kind": "quantity"
       }
     ]
@@ -409,6 +544,16 @@
         "name": "Пачка гривневых банкнот",
         "amount": 41100,
         "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 1,
+        "kind": "quantity"
       }
     ]
   },
@@ -453,6 +598,16 @@
       {
         "name": "Пачка гривневых банкнот",
         "amount": 59600,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 7,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 1,
         "kind": "quantity"
       }
     ]
@@ -499,6 +654,16 @@
         "name": "Пачка гривневых банкнот",
         "amount": 86400,
         "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 8,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 2,
+        "kind": "quantity"
       }
     ]
   },
@@ -543,6 +708,16 @@
       {
         "name": "Пачка гривневых банкнот",
         "amount": 140000,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 10,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 2,
         "kind": "quantity"
       }
     ]
@@ -589,6 +764,16 @@
         "name": "Пачка гривневых банкнот",
         "amount": 225000,
         "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 12,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 3,
+        "kind": "quantity"
       }
     ]
   },
@@ -634,6 +819,16 @@
         "name": "Пачка гривневых банкнот",
         "amount": 410000,
         "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 18,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 4,
+        "kind": "quantity"
       }
     ]
   },
@@ -678,6 +873,16 @@
       {
         "name": "Пачка гривневых банкнот",
         "amount": 760000,
+        "kind": "quantity"
+      },
+      {
+        "name": "Конденсаторы",
+        "amount": 25,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 6,
         "kind": "quantity"
       }
     ]
