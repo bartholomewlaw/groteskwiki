@@ -83,7 +83,7 @@ let mutants = [];
 let mutantIdx = -1;
 
 function mutantLabel(m) {
-    return m.name + (m.tier ? ' (T' + m.tier + ')' : '') + (m.mod && m.mod !== 'ваниль' ? ' · ' + m.mod : '');
+    return m.name + (m.tier ? ' (T' + m.tier + ')' : '') + (m.suffix ? ' ' + m.suffix : '');
 }
 
 function fillMutants() {
