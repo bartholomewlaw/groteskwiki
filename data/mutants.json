@@ -24,18 +24,6 @@
     "suffix": ""
   },
   {
-    "name": "Плоть",
-    "fam": "мутанты",
-    "mod": "AoD",
-    "tier": "",
-    "body": 164,
-    "head": 82,
-    "classes": [
-      "Mutant_AoD_Fresh1"
-    ],
-    "suffix": ""
-  },
-  {
     "name": "Тарк Детёныш",
     "fam": "мутанты",
     "mod": "AoD",
@@ -108,30 +96,16 @@
     "suffix": ""
   },
   {
-    "name": "Слепой Пёс",
+    "name": "Electro Poltergeist",
     "fam": "мутанты",
-    "mod": "AoD",
-    "tier": "",
-    "body": 248,
-    "head": 248,
+    "mod": "InvisibleDangers",
+    "tier": "2",
+    "body": 330,
+    "head": 330,
     "classes": [
-      "Mutant_AoD_Dog_Red",
-      "Mutant_AoD_Dog_White",
-      "Mutant_AoD_Dog_Fur"
+      "ElectroPoltergeist_Example"
     ],
-    "suffix": ""
-  },
-  {
-    "name": "Слепой пёс",
-    "fam": "мутанты",
-    "mod": "AoD",
-    "tier": "",
-    "body": 248,
-    "head": 248,
-    "classes": [
-      "Mutant_AoD_Dog_Brown"
-    ],
-    "suffix": ""
+    "suffix": "(вид 1)"
   },
   {
     "name": "Крысиный Волк",
@@ -172,6 +146,30 @@
     "suffix": ""
   },
   {
+    "name": "Electro Poltergeist",
+    "fam": "мутанты",
+    "mod": "InvisibleDangers",
+    "tier": "2",
+    "body": 440,
+    "head": 440,
+    "classes": [
+      "ElectroPoltergeist_Example_2"
+    ],
+    "suffix": "(вид 2)"
+  },
+  {
+    "name": "Electro Poltergeist",
+    "fam": "мутанты",
+    "mod": "InvisibleDangers",
+    "tier": "2",
+    "body": 550,
+    "head": 550,
+    "classes": [
+      "ElectroPoltergeist_Example_3"
+    ],
+    "suffix": "(вид 3)"
+  },
+  {
     "name": "Контроллер",
     "fam": "мутанты",
     "mod": "Erapulsar_Controller",
@@ -180,80 +178,6 @@
     "head": 660,
     "classes": [
       "Era_ZmbM_Controller3"
-    ],
-    "suffix": ""
-  },
-  {
-    "name": "Electro Poltergeist",
-    "fam": "мутанты",
-    "mod": "InvisibleDangers",
-    "tier": "",
-    "body": 1000,
-    "head": 1000,
-    "classes": [
-      "ElectroPoltergeist_Example",
-      "ElectroPoltergeist_Example_2",
-      "ElectroPoltergeist_Example_3"
-    ],
-    "suffix": ""
-  },
-  {
-    "name": "Кровавая сфера",
-    "fam": "мутанты",
-    "mod": "BRDK_EnergySphere_CLIENT",
-    "tier": "",
-    "body": 1000,
-    "head": 1000,
-    "classes": [
-      "BRDK_BloodSphere"
-    ],
-    "suffix": ""
-  },
-  {
-    "name": "Огненная сфера",
-    "fam": "мутанты",
-    "mod": "BRDK_EnergySphere_CLIENT",
-    "tier": "",
-    "body": 1000,
-    "head": 1000,
-    "classes": [
-      "BRDK_FireSphere"
-    ],
-    "suffix": ""
-  },
-  {
-    "name": "Токсичная сфера",
-    "fam": "мутанты",
-    "mod": "BRDK_EnergySphere_CLIENT",
-    "tier": "",
-    "body": 1000,
-    "head": 1000,
-    "classes": [
-      "BRDK_ToxSphere"
-    ],
-    "suffix": ""
-  },
-  {
-    "name": "Шипастая сфера",
-    "fam": "мутанты",
-    "mod": "BRDK_EnergySphere_CLIENT",
-    "tier": "",
-    "body": 1000,
-    "head": 1000,
-    "classes": [
-      "BRDK_SpykeSphere"
-    ],
-    "suffix": ""
-  },
-  {
-    "name": "Электрическая сфера",
-    "fam": "мутанты",
-    "mod": "BRDK_EnergySphere_CLIENT",
-    "tier": "",
-    "body": 1000,
-    "head": 1000,
-    "classes": [
-      "BRDK_ShockSphere"
     ],
     "suffix": ""
   },
@@ -267,17 +191,65 @@
     "classes": [
       "SMCS_Mutant_Boar"
     ],
-    "suffix": "(вид 1)"
+    "suffix": ""
   },
   {
-    "name": "Кот Баюн",
+    "name": "Кровавая сфера",
     "fam": "мутанты",
-    "mod": "AoD",
-    "tier": "",
-    "body": 1320,
-    "head": 1320,
+    "mod": "BRDK_EnergySphere_CLIENT",
+    "tier": "4",
+    "body": 1250,
+    "head": 1250,
     "classes": [
-      "Mutant_AoD_Cat_Bayn1"
+      "BRDK_BloodSphere"
+    ],
+    "suffix": ""
+  },
+  {
+    "name": "Огненная сфера",
+    "fam": "мутанты",
+    "mod": "BRDK_EnergySphere_CLIENT",
+    "tier": "4",
+    "body": 1250,
+    "head": 1250,
+    "classes": [
+      "BRDK_FireSphere"
+    ],
+    "suffix": ""
+  },
+  {
+    "name": "Токсичная сфера",
+    "fam": "мутанты",
+    "mod": "BRDK_EnergySphere_CLIENT",
+    "tier": "4",
+    "body": 1250,
+    "head": 1250,
+    "classes": [
+      "BRDK_ToxSphere"
+    ],
+    "suffix": ""
+  },
+  {
+    "name": "Шипастая сфера",
+    "fam": "мутанты",
+    "mod": "BRDK_EnergySphere_CLIENT",
+    "tier": "4",
+    "body": 1250,
+    "head": 1250,
+    "classes": [
+      "BRDK_SpykeSphere"
+    ],
+    "suffix": ""
+  },
+  {
+    "name": "Электрическая сфера",
+    "fam": "мутанты",
+    "mod": "BRDK_EnergySphere_CLIENT",
+    "tier": "4",
+    "body": 1250,
+    "head": 1250,
+    "classes": [
+      "BRDK_ShockSphere"
     ],
     "suffix": ""
   },
@@ -291,7 +263,7 @@
     "classes": [
       "Mutant_AoD_Izlom1"
     ],
-    "suffix": "(вид 1)"
+    "suffix": ""
   },
   {
     "name": "Мутировавшая крыса",
@@ -327,19 +299,7 @@
     "classes": [
       "Mutant_AoD_Snork1"
     ],
-    "suffix": "(вид 1)"
-  },
-  {
-    "name": "Мутировавший Кабан",
-    "fam": "мутанты",
-    "mod": "AoD",
-    "tier": "",
-    "body": 1392,
-    "head": 835,
-    "classes": [
-      "Mutant_AoD_Boar1"
-    ],
-    "suffix": "(вид 2)"
+    "suffix": ""
   },
   {
     "name": "Псевдособака",
@@ -357,19 +317,19 @@
     "name": "Снорк",
     "fam": "мутанты",
     "mod": "AoD",
-    "tier": "",
+    "tier": "3",
     "body": 1450,
     "head": 1450,
     "classes": [
       "Mutant_AoD_Snork2"
     ],
-    "suffix": "(вид 2)"
+    "suffix": ""
   },
   {
     "name": "Чёрный снорк",
     "fam": "мутанты",
     "mod": "Grotesk_SnorkBoss",
-    "tier": "",
+    "tier": "3",
     "body": 1450,
     "head": 1450,
     "classes": [
@@ -429,13 +389,13 @@
     "name": "Излом",
     "fam": "мутанты",
     "mod": "AoD",
-    "tier": "",
+    "tier": "3",
     "body": 1780,
     "head": 1780,
     "classes": [
       "Mutant_AoD_Izlom2"
     ],
-    "suffix": "(вид 2)"
+    "suffix": ""
   },
   {
     "name": "Кровосос",
@@ -459,7 +419,7 @@
     "classes": [
       "Mutant_AoD_Burer1"
     ],
-    "suffix": "(вид 1)"
+    "suffix": ""
   },
   {
     "name": "Кровосос",
@@ -507,7 +467,7 @@
     "classes": [
       "SMCS_Chimera_Hard"
     ],
-    "suffix": "(усиленный)"
+    "suffix": ""
   },
   {
     "name": "Мутировавший Излом",
@@ -543,43 +503,19 @@
     "classes": [
       "SMCS_Chimera"
     ],
-    "suffix": "(вид 1)"
-  },
-  {
-    "name": "Химера",
-    "fam": "мутанты",
-    "mod": "MutantsCFG",
-    "tier": "",
-    "body": 3450,
-    "head": 3450,
-    "classes": [
-      "Mutant_AoD_Himera3"
-    ],
-    "suffix": "(вид 2)"
+    "suffix": ""
   },
   {
     "name": "Бюрер",
     "fam": "мутанты",
     "mod": "AoD",
-    "tier": "",
+    "tier": "4",
     "body": 3750,
     "head": 3750,
     "classes": [
       "Mutant_AoD_Burer2"
     ],
-    "suffix": "(вид 2)"
-  },
-  {
-    "name": "Кровосос",
-    "fam": "мутанты",
-    "mod": "SFP",
-    "tier": "",
-    "body": 5200,
-    "head": 5200,
-    "classes": [
-      "SFP_ANM_Krovosos_Dark_inviz"
-    ],
-    "suffix": "(невидимый)"
+    "suffix": ""
   },
   {
     "name": "Луркер",
@@ -621,7 +557,7 @@
     "name": "Мутировавший Бюрер",
     "fam": "мутанты",
     "mod": "SMCS",
-    "tier": "",
+    "tier": "4",
     "body": 5625,
     "head": 3750,
     "classes": [
@@ -644,22 +580,22 @@
     "suffix": ""
   },
   {
-    "name": "Химера",
+    "name": "Кровосос",
     "fam": "мутанты",
-    "mod": "MutantsCFG",
-    "tier": "",
-    "body": 5625,
-    "head": 5625,
+    "mod": "SFP",
+    "tier": "4",
+    "body": 6500,
+    "head": 6500,
     "classes": [
-      "Mutant_AoD_Himera3big"
+      "SFP_ANM_Krovosos_Dark_inviz"
     ],
-    "suffix": "(большой)"
+    "suffix": "(невидимый)"
   },
   {
     "name": "Лабораторный Бюрер",
     "fam": "мутанты",
     "mod": "SMCS",
-    "tier": "",
+    "tier": "4",
     "body": 6661,
     "head": 6661,
     "classes": [
