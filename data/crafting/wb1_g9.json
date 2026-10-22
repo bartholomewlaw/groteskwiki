@@ -54,40 +54,5 @@
         "kind": "quantity"
       }
     ]
-  },
-  {
-    "item_name": "Нож из нержавеющей стали",
-    "class": "karas_Knifefree",
-    "image": "karas_Knifefree.png",
-    "requires": [
-      "Шеврон с... Чем-то"
-    ],
-    "assemble": [
-      {
-        "name": "Инструменты калибровки",
-        "amount": 28,
-        "kind": "quantity"
-      },
-      {
-        "name": "Инструменты грубой работы",
-        "amount": 28,
-        "kind": "quantity"
-      },
-      {
-        "name": "Инструменты тонкой работы",
-        "amount": 28,
-        "kind": "quantity"
-      },
-      {
-        "name": "Медная катушка",
-        "amount": 28,
-        "kind": "quantity"
-      },
-      {
-        "name": "Отвертка",
-        "amount": 28,
-        "kind": "quantity"
-      }
-    ]
   }
 ]
