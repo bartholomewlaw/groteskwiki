@@ -134,32 +134,6 @@
     "suffix": ""
   },
   {
-    "name": "Инфицированный эколог",
-    "fam": "мутанты",
-    "mod": "AP_ecolog2",
-    "tier": "3",
-    "body": 300,
-    "head": 40,
-    "classes": [
-      "AP_zmb_ecolog_yellow",
-      "AP_zmb_ecolog_orange",
-      "AP_zmb_ecolog_blue"
-    ],
-    "suffix": ""
-  },
-  {
-    "name": "Одичавший зараженный",
-    "fam": "мутанты",
-    "mod": "AP_ecolog2",
-    "tier": "3",
-    "body": 300,
-    "head": 40,
-    "classes": [
-      "AP_zmb_ecolog_wild"
-    ],
-    "suffix": ""
-  },
-  {
     "name": "Крысиный Волк",
     "fam": "мутанты",
     "mod": "AoD",
@@ -172,28 +146,42 @@
     "suffix": ""
   },
   {
-    "name": "Контроллер",
+    "name": "Инфицированный эколог",
     "fam": "мутанты",
-    "mod": "Erapulsar_Controller",
-    "tier": "2",
-    "body": 900,
-    "head": 600,
+    "mod": "AP_ecolog2",
+    "tier": "3",
+    "body": 345,
+    "head": 46,
     "classes": [
-      "Era_ZmbM_Controller3"
+      "AP_zmb_ecolog_yellow",
+      "AP_zmb_ecolog_orange",
+      "AP_zmb_ecolog_blue"
     ],
     "suffix": ""
   },
   {
-    "name": "Мутировавший Кабан",
+    "name": "Одичавший зараженный",
     "fam": "мутанты",
-    "mod": "SMCS",
-    "tier": "2",
-    "body": 948,
-    "head": 1896,
+    "mod": "AP_ecolog2",
+    "tier": "3",
+    "body": 345,
+    "head": 46,
     "classes": [
-      "SMCS_Mutant_Boar"
+      "AP_zmb_ecolog_wild"
     ],
-    "suffix": "(вид 1)"
+    "suffix": ""
+  },
+  {
+    "name": "Контроллер",
+    "fam": "мутанты",
+    "mod": "Erapulsar_Controller",
+    "tier": "2",
+    "body": 990,
+    "head": 660,
+    "classes": [
+      "Era_ZmbM_Controller3"
+    ],
+    "suffix": ""
   },
   {
     "name": "Electro Poltergeist",
@@ -270,89 +258,16 @@
     "suffix": ""
   },
   {
-    "name": "Излом",
-    "fam": "мутанты",
-    "mod": "AoD",
-    "tier": "2",
-    "body": 1260,
-    "head": 126,
-    "classes": [
-      "Mutant_AoD_Izlom1"
-    ],
-    "suffix": "(вид 1)"
-  },
-  {
-    "name": "Полтергейст",
-    "fam": "мутанты",
-    "mod": "AoD",
-    "tier": "2",
-    "body": 1260,
-    "head": 1260,
-    "classes": [
-      "Mutant_AoD_Poltergeist"
-    ],
-    "suffix": ""
-  },
-  {
-    "name": "Снорк",
-    "fam": "мутанты",
-    "mod": "AoD",
-    "tier": "2",
-    "body": 1260,
-    "head": 1260,
-    "classes": [
-      "Mutant_AoD_Snork1",
-      "Mutant_AoD_Snork2"
-    ],
-    "suffix": ""
-  },
-  {
-    "name": "Чёрный снорк",
-    "fam": "мутанты",
-    "mod": "Grotesk_SnorkBoss",
-    "tier": "",
-    "body": 1260,
-    "head": 1260,
-    "classes": [
-      "Grotesk_Snork_Boss"
-    ],
-    "suffix": ""
-  },
-  {
-    "name": "Мутировавшая крыса",
+    "name": "Мутировавший Кабан",
     "fam": "мутанты",
     "mod": "SMCS",
     "tier": "2",
-    "body": 1264,
-    "head": 843,
+    "body": 1042,
+    "head": 2084,
     "classes": [
-      "SMCS_Rat"
+      "SMCS_Mutant_Boar"
     ],
-    "suffix": ""
-  },
-  {
-    "name": "Мутировавший Кабан",
-    "fam": "мутанты",
-    "mod": "AoD",
-    "tier": "",
-    "body": 1265,
-    "head": 759,
-    "classes": [
-      "Mutant_AoD_Boar1"
-    ],
-    "suffix": "(вид 2)"
-  },
-  {
-    "name": "Псевдособака",
-    "fam": "мутанты",
-    "mod": "AoD",
-    "tier": "2",
-    "body": 1265,
-    "head": 1265,
-    "classes": [
-      "Mutant_AoD_Pse_Dog1"
-    ],
-    "suffix": ""
+    "suffix": "(вид 1)"
   },
   {
     "name": "Кот Баюн",
@@ -367,36 +282,108 @@
     "suffix": ""
   },
   {
-    "name": "Контроллер",
+    "name": "Излом",
     "fam": "мутанты",
-    "mod": "Erapulsar_Controller",
-    "tier": "3",
-    "body": 1500,
-    "head": 1000,
+    "mod": "AoD",
+    "tier": "2",
+    "body": 1390,
+    "head": 139,
     "classes": [
-      "Era_ZmbM_Controller4"
+      "Mutant_AoD_Izlom1"
+    ],
+    "suffix": "(вид 1)"
+  },
+  {
+    "name": "Мутировавшая крыса",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "2",
+    "body": 1390,
+    "head": 927,
+    "classes": [
+      "SMCS_Rat"
     ],
     "suffix": ""
   },
   {
-    "name": "Излом",
+    "name": "Полтергейст",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "2",
+    "body": 1390,
+    "head": 1390,
+    "classes": [
+      "Mutant_AoD_Poltergeist"
+    ],
+    "suffix": ""
+  },
+  {
+    "name": "Снорк",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "2",
+    "body": 1390,
+    "head": 1390,
+    "classes": [
+      "Mutant_AoD_Snork1"
+    ],
+    "suffix": "(вид 1)"
+  },
+  {
+    "name": "Мутировавший Кабан",
     "fam": "мутанты",
     "mod": "AoD",
     "tier": "",
-    "body": 1550,
-    "head": 1550,
+    "body": 1392,
+    "head": 835,
     "classes": [
-      "Mutant_AoD_Izlom2"
+      "Mutant_AoD_Boar1"
     ],
     "suffix": "(вид 2)"
+  },
+  {
+    "name": "Псевдособака",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "2",
+    "body": 1392,
+    "head": 1392,
+    "classes": [
+      "Mutant_AoD_Pse_Dog1"
+    ],
+    "suffix": ""
+  },
+  {
+    "name": "Снорк",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 1450,
+    "head": 1450,
+    "classes": [
+      "Mutant_AoD_Snork2"
+    ],
+    "suffix": "(вид 2)"
+  },
+  {
+    "name": "Чёрный снорк",
+    "fam": "мутанты",
+    "mod": "Grotesk_SnorkBoss",
+    "tier": "",
+    "body": 1450,
+    "head": 1450,
+    "classes": [
+      "Grotesk_Snork_Boss"
+    ],
+    "suffix": ""
   },
   {
     "name": "Зомбированный сталкер",
     "fam": "мутанты",
     "mod": "SMCS",
     "tier": "2",
-    "body": 1552,
-    "head": 1035,
+    "body": 1707,
+    "head": 1138,
     "classes": [
       "SMCS_ZombifiedStalker2_A"
     ],
@@ -407,8 +394,8 @@
     "fam": "мутанты",
     "mod": "AoD",
     "tier": "2",
-    "body": 1552,
-    "head": 1552,
+    "body": 1707,
+    "head": 1707,
     "classes": [
       "Mutant_AoD_Tark1_Male"
     ],
@@ -419,44 +406,56 @@
     "fam": "мутанты",
     "mod": "AP_zmbomon_PUBLIC",
     "tier": "2",
-    "body": 1552,
-    "head": 1035,
+    "body": 1707,
+    "head": 1138,
     "classes": [
       "AP_zmb_omon"
     ],
     "suffix": ""
   },
   {
+    "name": "Контроллер",
+    "fam": "мутанты",
+    "mod": "Erapulsar_Controller",
+    "tier": "3",
+    "body": 1725,
+    "head": 1150,
+    "classes": [
+      "Era_ZmbM_Controller4"
+    ],
+    "suffix": ""
+  },
+  {
+    "name": "Излом",
+    "fam": "мутанты",
+    "mod": "AoD",
+    "tier": "",
+    "body": 1780,
+    "head": 1780,
+    "classes": [
+      "Mutant_AoD_Izlom2"
+    ],
+    "suffix": "(вид 2)"
+  },
+  {
     "name": "Кровосос",
     "fam": "мутанты",
     "mod": "AoD",
     "tier": "3",
-    "body": 1800,
-    "head": 360,
+    "body": 2070,
+    "head": 414,
     "classes": [
       "Mutant_AoD_Krovosos1"
     ],
     "suffix": "(вид 1)"
   },
   {
-    "name": "Химера",
-    "fam": "мутанты",
-    "mod": "SMCS",
-    "tier": "4",
-    "body": 2250,
-    "head": 2250,
-    "classes": [
-      "SMCS_Chimera_Hard"
-    ],
-    "suffix": "(усиленный)"
-  },
-  {
     "name": "Бюрер",
     "fam": "мутанты",
     "mod": "AoD",
     "tier": "3",
-    "body": 2400,
-    "head": 960,
+    "body": 2760,
+    "head": 1104,
     "classes": [
       "Mutant_AoD_Burer1"
     ],
@@ -467,8 +466,8 @@
     "fam": "мутанты",
     "mod": "AoD",
     "tier": "3",
-    "body": 2400,
-    "head": 2400,
+    "body": 2760,
+    "head": 2760,
     "classes": [
       "Mutant_AoD_Krovosos2"
     ],
@@ -479,8 +478,8 @@
     "fam": "мутанты",
     "mod": "AoD",
     "tier": "3",
-    "body": 2400,
-    "head": 2400,
+    "body": 2760,
+    "head": 2760,
     "classes": [
       "Mutant_AoD_Forester1"
     ],
@@ -491,32 +490,32 @@
     "fam": "мутанты",
     "mod": "SMCS",
     "tier": "3",
-    "body": 2400,
-    "head": 1600,
+    "body": 2760,
+    "head": 1840,
     "classes": [
       "SMCS_Snork"
     ],
     "suffix": ""
   },
   {
-    "name": "Бюрер",
+    "name": "Химера",
     "fam": "мутанты",
-    "mod": "AoD",
-    "tier": "",
-    "body": 3000,
-    "head": 3000,
+    "mod": "SMCS",
+    "tier": "4",
+    "body": 2812,
+    "head": 2812,
     "classes": [
-      "Mutant_AoD_Burer2"
+      "SMCS_Chimera_Hard"
     ],
-    "suffix": "(вид 2)"
+    "suffix": "(усиленный)"
   },
   {
     "name": "Мутировавший Излом",
     "fam": "мутанты",
     "mod": "SMCS",
     "tier": "3",
-    "body": 3000,
-    "head": 2000,
+    "body": 3450,
+    "head": 2300,
     "classes": [
       "SMCS_Izlom"
     ],
@@ -527,8 +526,8 @@
     "fam": "мутанты",
     "mod": "MutantsCFG",
     "tier": "3",
-    "body": 3000,
-    "head": 3055,
+    "body": 3450,
+    "head": 3513,
     "classes": [
       "Mutant_AoD_Tark1_Malebig"
     ],
@@ -539,8 +538,8 @@
     "fam": "мутанты",
     "mod": "SMCS",
     "tier": "3",
-    "body": 3000,
-    "head": 2000,
+    "body": 3450,
+    "head": 2300,
     "classes": [
       "SMCS_Chimera"
     ],
@@ -551,75 +550,24 @@
     "fam": "мутанты",
     "mod": "MutantsCFG",
     "tier": "",
-    "body": 3000,
-    "head": 3000,
+    "body": 3450,
+    "head": 3450,
     "classes": [
       "Mutant_AoD_Himera3"
     ],
     "suffix": "(вид 2)"
   },
   {
-    "name": "Лесник",
+    "name": "Бюрер",
     "fam": "мутанты",
-    "mod": "MutantsCFG",
-    "tier": "4",
-    "body": 4500,
-    "head": 4500,
-    "classes": [
-      "Mutant_AoD_Foresterbig"
-    ],
-    "suffix": ""
-  },
-  {
-    "name": "Луркер",
-    "fam": "мутанты",
-    "mod": "SMCS",
-    "tier": "4",
-    "body": 4500,
-    "head": 3000,
-    "classes": [
-      "SMCS_Lurker"
-    ],
-    "suffix": ""
-  },
-  {
-    "name": "Мутировавший Бюрер",
-    "fam": "мутанты",
-    "mod": "SMCS",
-    "tier": "4",
-    "body": 4500,
-    "head": 3000,
-    "classes": [
-      "SMCS_Burer",
-      "SMCS_Burer_Thrower",
-      "SMCS_Burer_Summoner"
-    ],
-    "suffix": ""
-  },
-  {
-    "name": "Мутировавший Кровосос",
-    "fam": "мутанты",
-    "mod": "SMCS",
-    "tier": "4",
-    "body": 4500,
-    "head": 4500,
-    "classes": [
-      "SMCS_BloodSucker_Black",
-      "SMCS_BloodSucker_Sleeper_Black"
-    ],
-    "suffix": ""
-  },
-  {
-    "name": "Химера",
-    "fam": "мутанты",
-    "mod": "MutantsCFG",
+    "mod": "AoD",
     "tier": "",
-    "body": 4500,
-    "head": 4500,
+    "body": 3750,
+    "head": 3750,
     "classes": [
-      "Mutant_AoD_Himera3big"
+      "Mutant_AoD_Burer2"
     ],
-    "suffix": "(большой)"
+    "suffix": "(вид 2)"
   },
   {
     "name": "Кровосос",
@@ -634,27 +582,88 @@
     "suffix": "(невидимый)"
   },
   {
-    "name": "Лабораторный Бюрер",
+    "name": "Луркер",
     "fam": "мутанты",
     "mod": "SMCS",
-    "tier": "",
-    "body": 5329,
-    "head": 5329,
+    "tier": "4",
+    "body": 5624,
+    "head": 3749,
     "classes": [
-      "SMCS_Burer_Lab"
+      "SMCS_Lurker"
     ],
     "suffix": ""
   },
   {
-    "name": "Контролёр",
+    "name": "Мутировавший Бюрер",
     "fam": "мутанты",
     "mod": "SMCS",
     "tier": "4",
-    "body": 5750,
-    "head": 3833,
+    "body": 5624,
+    "head": 3749,
     "classes": [
-      "SMCS_Controller",
-      "SMCS_Controller_Suicide"
+      "SMCS_Burer"
+    ],
+    "suffix": "(вид 1)"
+  },
+  {
+    "name": "Лесник",
+    "fam": "мутанты",
+    "mod": "MutantsCFG",
+    "tier": "4",
+    "body": 5625,
+    "head": 5625,
+    "classes": [
+      "Mutant_AoD_Foresterbig"
+    ],
+    "suffix": ""
+  },
+  {
+    "name": "Мутировавший Бюрер",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "",
+    "body": 5625,
+    "head": 3750,
+    "classes": [
+      "SMCS_Burer_Thrower",
+      "SMCS_Burer_Summoner"
+    ],
+    "suffix": "(вид 2)"
+  },
+  {
+    "name": "Мутировавший Кровосос",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "4",
+    "body": 5625,
+    "head": 5625,
+    "classes": [
+      "SMCS_BloodSucker_Black",
+      "SMCS_BloodSucker_Sleeper_Black"
+    ],
+    "suffix": ""
+  },
+  {
+    "name": "Химера",
+    "fam": "мутанты",
+    "mod": "MutantsCFG",
+    "tier": "",
+    "body": 5625,
+    "head": 5625,
+    "classes": [
+      "Mutant_AoD_Himera3big"
+    ],
+    "suffix": "(большой)"
+  },
+  {
+    "name": "Лабораторный Бюрер",
+    "fam": "мутанты",
+    "mod": "SMCS",
+    "tier": "",
+    "body": 6661,
+    "head": 6661,
+    "classes": [
+      "SMCS_Burer_Lab"
     ],
     "suffix": ""
   },
@@ -663,22 +672,23 @@
     "fam": "мутанты",
     "mod": "AoD",
     "tier": "4",
-    "body": 5750,
-    "head": 5750,
+    "body": 7187,
+    "head": 7187,
     "classes": [
       "Mutant_AoD_PGigant"
     ],
     "suffix": ""
   },
   {
-    "name": "Лунный тарк",
+    "name": "Контролёр",
     "fam": "мутанты",
-    "mod": "MutantsCFG",
-    "tier": "5",
-    "body": 18500,
-    "head": 18500,
+    "mod": "SMCS",
+    "tier": "4",
+    "body": 7188,
+    "head": 4792,
     "classes": [
-      "Mutant_AoD_Tark_Boss"
+      "SMCS_Controller",
+      "SMCS_Controller_Suicide"
     ],
     "suffix": ""
   },
@@ -687,8 +697,8 @@
     "fam": "мутанты",
     "mod": "SMCS",
     "tier": "5",
-    "body": 18500,
-    "head": 12333,
+    "body": 23124,
+    "head": 15416,
     "classes": [
       "SMCS_Borya"
     ],
@@ -699,10 +709,22 @@
     "fam": "мутанты",
     "mod": "MutantsCFG",
     "tier": "5",
-    "body": 18500,
-    "head": 18500,
+    "body": 23125,
+    "head": 23125,
     "classes": [
       "Mutant_AoD_Himera_Boss"
+    ],
+    "suffix": ""
+  },
+  {
+    "name": "Лунный тарк",
+    "fam": "мутанты",
+    "mod": "MutantsCFG",
+    "tier": "5",
+    "body": 23126,
+    "head": 23126,
+    "classes": [
+      "Mutant_AoD_Tark_Boss"
     ],
     "suffix": ""
   },
@@ -711,8 +733,8 @@
     "fam": "мутанты",
     "mod": "MutantsCFG",
     "tier": "5",
-    "body": 18500,
-    "head": 18500,
+    "body": 23126,
+    "head": 23126,
     "classes": [
       "Mutant_AoD_ForesterBoss"
     ],
@@ -723,8 +745,8 @@
     "fam": "мутанты",
     "mod": "AP_zmb_voltage_PUBLIC",
     "tier": "5",
-    "body": 24750,
-    "head": 24750,
+    "body": 30940,
+    "head": 30940,
     "classes": [
       "AP_zmb_voltage_miltary"
     ],
@@ -735,8 +757,8 @@
     "fam": "мутанты",
     "mod": "SMCS",
     "tier": "5",
-    "body": 49500,
-    "head": 49500,
+    "body": 61876,
+    "head": 61876,
     "classes": [
       "SMCS_PseudoGiant",
       "SMCS_PseudoGiantKv3"
