@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Готовка на костре - GroteskStalker</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+
+    <!-- Основные css -->
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/Radiation.css">
+    <link rel="stylesheet" href="css/scroll_layout.css">
+    <!-- Компоненты css -->
+    <link rel="stylesheet" href="css/components/garland.css">
+    <link rel="stylesheet" href="css/components/fon.css">
+    <link rel="stylesheet" href="css/components/footer.css">
+    <link rel="stylesheet" href="css/components/nav.css">
+    <!-- Компоненты js -->
+    <script src="js/components/components.js"></script>
+    <style>
+        .cook-items { display: flex; flex-wrap: wrap; gap: 16px; margin: 10px 0 14px; }
+        .cook-item { flex: 1 1 200px; max-width: 320px; background-color: #1b1b1b; border: 1px solid #333; padding: 10px; }
+        .cook-item img { display: block; margin: 0 auto 8px; max-width: 100%; height: 140px; object-fit: contain; }
+        .cook-item h4 { margin: 0 0 6px; color: #ffb000; }
+        .cook-item p { margin: 0; }
+    </style>
+</head>
+<body>
+        <!-- гирлянда -->
+    <div id="garland"></div>
+
+<header>
+    <h1>Готовка на костре</h1>
+</header>
+
+<div id="nav"></div>
+
+<main class="text-page">
+    <section class="text-block">
+
+<h2>🍲 Готовка на костре</h2>
+<p>
+    На костре можно сварить чай, отвары и похлёбки. Каждое блюдо даёт временный бафф:
+    быстрее лечит, держит тепло, бережёт выносливость или помогает в бою с мутантами.
+</p>
+
+<h3>Как варить</h3>
+<ul>
+    <li>Поставь <strong>треногу</strong> на костёр, повесь <strong>кастрюлю</strong> (подойдёт и котелок) и разожги огонь.</li>
+    <li>Налей чистой воды: от <strong>300 мл</strong> до полной кастрюли, это <strong>2 литра</strong>.</li>
+    <li>Положи ингредиенты прямо в кастрюлю. <strong>Одного набора хватает на всю кастрюлю</strong>, то есть на две полные фляги.</li>
+    <li>Когда вода закипит, начинается варка. Через время из рецепта вода превращается в блюдо, ингредиенты пропадают.</li>
+    <li>Пока в кастрюле лежит полный набор, костёр его не сжигает и вода не выкипает. Если чего-то не хватает, вещи будут гореть и вариться как обычно.</li>
+    <li>Готовое блюдо <strong>сними с огня</strong>: на огне оно выкипает, как обычная вода.</li>
+</ul>
+
+<h3>Рецепты</h3>
+<table class="rad-table">
+    <thead><tr><th>Блюдо</th><th>Что положить</th><th>Варится</th><th>Эффект</th><th>Длится</th></tr></thead>
+    <tbody>
+        <tr><td><strong>Травяной чай</strong></td><td>пачка травяного сбора</td><td>1 мин</td><td>здоровье +6 в минуту</td><td>15 мин</td></tr>
+        <tr><td><strong>Чифир</strong></td><td>пачка чая</td><td>1 мин</td><td>выносливость тратится на 30% медленнее</td><td>10 мин</td></tr>
+        <tr><td><strong>Согревающий сбор</strong></td><td>пачка травяного сбора + пачка чая</td><td>1 мин</td><td>холод не берёт</td><td>20 мин</td></tr>
+        <tr><td><strong>Отвар от радиации</strong></td><td>таблетка антирада + пачка травяного сбора</td><td>1,5 мин</td><td>радиация выводится, 40 единиц в минуту</td><td>15 мин</td></tr>
+        <tr><td><strong>Мясная похлёбка</strong></td><td>2 куска любого мяса</td><td>2 мин</td><td>кровь +50 в минуту</td><td>20 мин</td></tr>
+        <tr><td><strong>Похлёбка из мутанта</strong></td><td>голова тушкана, хвост слепого пса или хвост псевдопса + 1 кусок мяса</td><td>2 мин</td><td>урон по мутантам и зверям +10%</td><td>15 мин</td></tr>
+        <tr><td><strong>Уха</strong></td><td>1 рыба или 1 филе (карп, скумбрия, сардины, горчаки, минтай, форель)</td><td>1,5 мин</td><td>раны кровят вдвое реже</td><td>15 мин</td></tr>
+    </tbody>
+</table>
+<p class="muted">
+    Время варки считается с момента закипания. Если в кастрюле лежат и сбор, и чай, получится согревающий сбор,
+    а если сбор и антирад, получится отвар от радиации.
+</p>
+
+<h3>Где взять ингредиенты</h3>
+<ul>
+    <li><strong>Пачка чая</strong> (150) и <strong>пачка травяного сбора</strong> (120) продаются в разделе «Провизия» у Сидоровича и у других торговцев с провизией.</li>
+    <li><strong>Таблетки антирада</strong> есть почти у всех торговцев.</li>
+    <li><strong>Мясо</strong> добывается охотой: разделай зверя ножом.</li>
+    <li><strong>Рыба</strong> ловится удочкой.</li>
+    <li><strong>Голова тушкана, хвост слепого пса и хвост псевдопса</strong> добываются разделкой мутантов.</li>
+</ul>
+
+<h3>Как есть и пить</h3>
+<ul>
+    <li>Напитки можно пить прямо из кастрюли или перелить во флягу и бутылку.</li>
+    <li>Похлёбки во флягу не наливаются. Их едят из кастрюли или из <strong>деревянной миски</strong>: налей в миску и выбери «Съесть».</li>
+    <li>Бафф включается, когда выпито <strong>100 мл</strong> напитка или съедено <strong>150 мл</strong> похлёбки.</li>
+    <li>Повторная порция того же блюда не складывает эффект, а начинает время заново. Разные блюда действуют одновременно.</li>
+    <li>Действующие баффы видны справа на экране вместе с оставшимся временем, при первом глотке приходит сообщение.</li>
+    <li>Баффы пропадают при выходе с сервера и при рестарте.</li>
+</ul>
+
+<h3>Посуда и пачки</h3>
+<div class="cook-items">
+    <div class="cook-item">
+        <img src="images/cooking/teapack.png" alt="Чай чёрный, пачка">
+        <h4>Чай чёрный, пачка</h4>
+        <p>Крепкий листовой чай для чифира и согревающего сбора. Одна пачка на кастрюлю. Цена 150.</p>
+    </div>
+    <div class="cook-item">
+        <img src="images/cooking/herbpack.png" alt="Травяной сбор, пачка">
+        <h4>Травяной сбор, пачка</h4>
+        <p>Зверобой, чабрец, мята, ромашка. Основа для травяного чая, отвара от радиации и согревающего сбора. Цена 120.</p>
+    </div>
+    <div class="cook-item">
+        <img src="images/cooking/bowl.png" alt="Деревянная миска">
+        <h4>Деревянная миска</h4>
+        <p>Вмещает 500 мл похлёбки. Только для супов, на огонь не ставится. Цена 250.</p>
+    </div>
+</div>
+
+<h3>Отдых у костра</h3>
+<p>
+    У горящего костра можно отдохнуть: встань рядом, в пределах <strong>5 метров</strong>.
+</p>
+<ul>
+    <li>Кровь восстанавливается на <strong>100 в минуту</strong>, здоровье на <strong>10 в минуту</strong>.</li>
+    <li>Пока греешься, голод и жажда не растут.</li>
+    <li>Если идёт кровь, отдохнуть не выйдет: сначала перевяжись.</li>
+    <li>Когда начинаешь и заканчиваешь отдых, приходит сообщение.</li>
+</ul>
+<p class="muted">Удобно совмещать: пока варится похлёбка, греешься у того же костра.</p>
+
+    </section>
+</main>
+
+<div id="footer"></div>
+
+</body>
+</html>
