@@ -233,3 +233,12 @@ main {
 .kits-grid { flex: 1; min-height: 0; }
 .info-modal-content { max-height: 88vh; overflow-y: auto; position: relative; }
 .info-btn { margin-left: auto; }
+
+.weapons-note {
+    margin: 10px 0 16px;
+    padding: 12px 15px;
+    background-color: #333333;
+    border-left: 6px solid #ffb000;
+    border-radius: 8px;
+    line-height: 1.5;
+}
