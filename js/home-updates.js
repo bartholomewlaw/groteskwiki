@@ -15,7 +15,17 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(res => res.json())
         .then(data => {
             const mainNews = document.getElementById('mainNews');
-            if (mainNews && data && data.text && data.date) {
+            if (!mainNews || !data) return;
+            if (Array.isArray(data)) {
+                mainNews.classList.remove('main-news');
+                data.forEach(item => {
+                    if (!item || !item.text || !item.date) return;
+                    const block = document.createElement('div');
+                    block.className = 'main-news';
+                    block.innerHTML = `<strong>${item.date}:</strong> ${item.text}`;
+                    mainNews.appendChild(block);
+                });
+            } else if (data.text && data.date) {
                 mainNews.innerHTML = `<strong>${data.date}:</strong> ${data.text}`;
             }
         })
