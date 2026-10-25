@@ -123,16 +123,30 @@ body {
     padding-right: 6px;
 }
 
+/* Новости со скроллом внутри блока */
+main#content {
+    min-height: 0;
+    overflow-y: auto;
+}
+
+.main-news ul {
+    margin: 6px 0 4px;
+    padding-left: 22px;
+}
+
 /* (необязательно) красивый скролл */
-#updatesList::-webkit-scrollbar {
+#updatesList::-webkit-scrollbar,
+main#content::-webkit-scrollbar {
     width: 6px;
 }
 
-#updatesList::-webkit-scrollbar-track {
+#updatesList::-webkit-scrollbar-track,
+main#content::-webkit-scrollbar-track {
     background: #111;
 }
 
-#updatesList::-webkit-scrollbar-thumb {
+#updatesList::-webkit-scrollbar-thumb,
+main#content::-webkit-scrollbar-thumb {
     background: #ffb000;
     border-radius: 4px;
 }
