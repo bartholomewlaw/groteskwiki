@@ -61,6 +61,11 @@
     ],
     "assemble": [
       {
+        "name": "Сенсорный блок",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
         "name": "Детектор Медведь",
         "amount": 1,
         "kind": "count"
@@ -121,6 +126,11 @@
     ],
     "assemble": [
       {
+        "name": "Сенсорный блок",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
         "name": "Резистор",
         "amount": 12,
         "kind": "quantity"
@@ -175,6 +185,11 @@
       "Шеврон с... Чем-то"
     ],
     "assemble": [
+      {
+        "name": "Сенсорный блок",
+        "amount": 1,
+        "kind": "count"
+      },
       {
         "name": "Детектор Гилка",
         "amount": 1,
@@ -240,6 +255,11 @@
       "Шеврон с... Чем-то"
     ],
     "assemble": [
+      {
+        "name": "Сенсорный блок",
+        "amount": 2,
+        "kind": "count"
+      },
       {
         "name": "Детектор Велес",
         "amount": 1,

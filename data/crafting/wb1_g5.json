@@ -8,6 +8,11 @@
     ],
     "assemble": [
       {
+        "name": "Лазерный излучатель",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
         "name": "лебедка",
         "amount": 1,
         "kind": "quantity"
@@ -82,6 +87,11 @@
       "Шеврон с... Чем-то"
     ],
     "assemble": [
+      {
+        "name": "Лазерный излучатель",
+        "amount": 1,
+        "kind": "count"
+      },
       {
         "name": "лебедка",
         "amount": 1,
@@ -158,6 +168,11 @@
     ],
     "assemble": [
       {
+        "name": "Лазерный излучатель",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
         "name": "лебедка",
         "amount": 1,
         "kind": "quantity"
@@ -232,6 +247,11 @@
       "Шеврон с... Чем-то"
     ],
     "assemble": [
+      {
+        "name": "Лазерный излучатель",
+        "amount": 1,
+        "kind": "count"
+      },
       {
         "name": "лебедка",
         "amount": 1,
@@ -308,6 +328,11 @@
     ],
     "assemble": [
       {
+        "name": "Лазерный излучатель",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
         "name": "лебедка",
         "amount": 1,
         "kind": "quantity"
@@ -383,6 +408,11 @@
     ],
     "assemble": [
       {
+        "name": "Лазерный излучатель",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
         "name": "лебедка",
         "amount": 1,
         "kind": "quantity"
@@ -457,6 +487,11 @@
       "Шеврон с... Чем-то"
     ],
     "assemble": [
+      {
+        "name": "Лазерный излучатель",
+        "amount": 1,
+        "kind": "count"
+      },
       {
         "name": "лебедка",
         "amount": 1,

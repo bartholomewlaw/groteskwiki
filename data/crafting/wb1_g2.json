@@ -8,6 +8,11 @@
     ],
     "assemble": [
       {
+        "name": "Сервопривод",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
         "name": "лебедка",
         "amount": 1,
         "kind": "quantity"
@@ -92,6 +97,11 @@
       "Шеврон с... Чем-то"
     ],
     "assemble": [
+      {
+        "name": "Сервопривод",
+        "amount": 1,
+        "kind": "count"
+      },
       {
         "name": "Экзоскелет Первого образца",
         "amount": 1,
@@ -182,6 +192,11 @@
       "Шеврон с... Чем-то"
     ],
     "assemble": [
+      {
+        "name": "Сервопривод",
+        "amount": 2,
+        "kind": "count"
+      },
       {
         "name": "Экзоскелет Второго образца",
         "amount": 1,
@@ -278,6 +293,11 @@
     ],
     "assemble": [
       {
+        "name": "Сервопривод",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
         "name": "Экзоскелет Третьего образца",
         "amount": 1,
         "kind": "count"
@@ -373,6 +393,11 @@
     ],
     "assemble": [
       {
+        "name": "Сервопривод",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
         "name": "лебедка",
         "amount": 1,
         "kind": "quantity"
@@ -458,6 +483,11 @@
     ],
     "assemble": [
       {
+        "name": "Сервопривод",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
         "name": "лебедка",
         "amount": 1,
         "kind": "quantity"
@@ -537,11 +567,16 @@
   {
     "item_name": "Экзоскелет Второго образца",
     "class": "Grotesk_Exo_LVL2",
-    "image": "Grotesk_Exo.png",
+    "image": "",
     "requires": [
       "Шеврон с... Чем-то"
     ],
     "assemble": [
+      {
+        "name": "Сервопривод",
+        "amount": 1,
+        "kind": "count"
+      },
       {
         "name": "Экзоскелет Первого образца",
         "amount": 1,
@@ -632,6 +667,11 @@
       "Шеврон с... Чем-то"
     ],
     "assemble": [
+      {
+        "name": "Сервопривод",
+        "amount": 2,
+        "kind": "count"
+      },
       {
         "name": "Экзоскелет Второго образца",
         "amount": 1,
@@ -728,6 +768,11 @@
     ],
     "assemble": [
       {
+        "name": "Сервопривод",
+        "amount": 2,
+        "kind": "count"
+      },
+      {
         "name": "Экзоскелет Третьего образца",
         "amount": 1,
         "kind": "count"
@@ -823,6 +868,11 @@
     ],
     "assemble": [
       {
+        "name": "Сервопривод",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
         "name": "лебедка",
         "amount": 1,
         "kind": "quantity"
@@ -902,11 +952,16 @@
   {
     "item_name": "Экзоскелет Ратник Второго образца",
     "class": "TNRJ_Exo_LVL2",
-    "image": "TNRJ_Exo.png",
+    "image": "",
     "requires": [
       "Шеврон с... Чем-то"
     ],
     "assemble": [
+      {
+        "name": "Сервопривод",
+        "amount": 1,
+        "kind": "count"
+      },
       {
         "name": "Экзоскелет Ратник Первого образца",
         "amount": 1,
@@ -997,6 +1052,11 @@
       "Шеврон с... Чем-то"
     ],
     "assemble": [
+      {
+        "name": "Сервопривод",
+        "amount": 2,
+        "kind": "count"
+      },
       {
         "name": "Экзоскелет Ратник Второго образца",
         "amount": 1,
@@ -1092,6 +1152,11 @@
       "Шеврон с... Чем-то"
     ],
     "assemble": [
+      {
+        "name": "Сервопривод",
+        "amount": 2,
+        "kind": "count"
+      },
       {
         "name": "Экзоскелет Ратник Третьего образца",
         "amount": 1,

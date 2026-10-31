@@ -772,5 +772,18 @@
       "Animal_UrsusArctos"
     ],
     "suffix": ""
+  },
+  {
+    "name": "Волк",
+    "fam": "животные",
+    "mod": "ваниль",
+    "tier": "",
+    "body": 200,
+    "head": 200,
+    "classes": [
+      "Animal_CanisLupus_Grey",
+      "Animal_CanisLupus_White"
+    ],
+    "suffix": ""
   }
 ]

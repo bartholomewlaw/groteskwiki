@@ -1,0 +1,641 @@
+[
+  {
+    "item_name": "Ствол под 7.62x39",
+    "class": "Grotesk_GunBarrel_762x39",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Оружейная заготовка I",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для штурмовых винтовок",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 2,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Модуль калибра 7.62x39",
+    "class": "Grotesk_CaliberModule_762x39",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ствол под 7.62x39",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Затвор под 7.62x39",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для штурмовых винтовок",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Порох Сокол",
+        "amount": 3,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ствол под .300 BLK",
+    "class": "Grotesk_GunBarrel_300blk",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Оружейная заготовка I",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для штурмовых винтовок",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 2,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Модуль калибра .300 BLK",
+    "class": "Grotesk_CaliberModule_300blk",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ствол под .300 BLK",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Затвор под .300 BLK",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для штурмовых винтовок",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Порох Сокол",
+        "amount": 3,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ствол под 9x39",
+    "class": "Grotesk_GunBarrel_9x39",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Оружейная заготовка I",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для штурмовых винтовок",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 2,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Модуль калибра 9x39",
+    "class": "Grotesk_CaliberModule_9x39",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ствол под 9x39",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Затвор под 9x39",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для штурмовых винтовок",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Порох Сокол",
+        "amount": 3,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ствол под 6.8x51",
+    "class": "Grotesk_GunBarrel_68x51",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Оружейная заготовка II",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для штурмовых винтовок",
+        "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 3,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Модуль калибра 6.8x51",
+    "class": "Grotesk_CaliberModule_68x51",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ствол под 6.8x51",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Затвор под 6.8x51",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для штурмовых винтовок",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 4,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ствол под 7.62x54R",
+    "class": "Grotesk_GunBarrel_762x54",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Оружейная заготовка II",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для снайперских винтовок",
+        "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 3,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Модуль калибра 7.62x54R",
+    "class": "Grotesk_CaliberModule_762x54",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ствол под 7.62x54R",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Затвор под 7.62x54R",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для снайперских винтовок",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 4,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ствол под .308 Win",
+    "class": "Grotesk_GunBarrel_308win",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Оружейная заготовка II",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для снайперских винтовок",
+        "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 3,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Модуль калибра .308 Win",
+    "class": "Grotesk_CaliberModule_308win",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ствол под .308 Win",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Затвор под .308 Win",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для снайперских винтовок",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 4,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ствол под 9.3x64",
+    "class": "Grotesk_GunBarrel_93x64",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Оружейная заготовка II",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для снайперских винтовок",
+        "amount": 6,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 3,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Модуль калибра 9.3x64",
+    "class": "Grotesk_CaliberModule_93x64",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ствол под 9.3x64",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Затвор под 9.3x64",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для снайперских винтовок",
+        "amount": 4,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 4,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ствол под .338 Lapua",
+    "class": "Grotesk_GunBarrel_338lm",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Оружейная заготовка III",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для снайперских винтовок",
+        "amount": 10,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 4,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Модуль калибра .338 Lapua",
+    "class": "Grotesk_CaliberModule_338lm",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ствол под .338 Lapua",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Затвор под .338 Lapua",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для снайперских винтовок",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 2,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ствол под .408 CheyTac",
+    "class": "Grotesk_GunBarrel_408",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Оружейная заготовка III",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для снайперских винтовок",
+        "amount": 10,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 4,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Модуль калибра .408 CheyTac",
+    "class": "Grotesk_CaliberModule_408",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ствол под .408 CheyTac",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Затвор под .408 CheyTac",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для снайперских винтовок",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 2,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ствол под .50 BMG",
+    "class": "Grotesk_GunBarrel_50bmg",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Оружейная заготовка III",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для снайперских винтовок",
+        "amount": 10,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 4,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Модуль калибра .50 BMG",
+    "class": "Grotesk_CaliberModule_50bmg",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ствол под .50 BMG",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Затвор под .50 BMG",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для снайперских винтовок",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 2,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Ствол под 12.7x55",
+    "class": "Grotesk_GunBarrel_127x55",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Оружейная заготовка III",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для снайперских винтовок",
+        "amount": 10,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты калибровки",
+        "amount": 4,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Модуль калибра 12.7x55",
+    "class": "Grotesk_CaliberModule_127x55",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Ствол под 12.7x55",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Затвор под 12.7x55",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
+        "name": "Оружейные запчасти для снайперских винтовок",
+        "amount": 5,
+        "kind": "quantity"
+      },
+      {
+        "name": "Сломанный дисплей",
+        "amount": 2,
+        "kind": "quantity"
+      }
+    ]
+  },
+  {
+    "item_name": "Набор оружейника",
+    "class": "Grotesk_CaliberToolkit",
+    "image": "",
+    "requires": [],
+    "assemble": [
+      {
+        "name": "Оружейные запчасти для пистолетов",
+        "amount": 3,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты грубой работы",
+        "amount": 2,
+        "kind": "quantity"
+      },
+      {
+        "name": "Инструменты тонкой работы",
+        "amount": 2,
+        "kind": "quantity"
+      }
+    ]
+  }
+]

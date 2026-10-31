@@ -8,6 +8,11 @@
     ],
     "assemble": [
       {
+        "name": "Сервопривод",
+        "amount": 1,
+        "kind": "count"
+      },
+      {
         "name": "Ящик для патронов",
         "amount": 1,
         "kind": "count"
@@ -72,11 +77,16 @@
   {
     "item_name": "Аномальный автозарядник",
     "class": "AmmoReloaderupgrade",
-    "image": "AmmoReloader.png",
+    "image": "",
     "requires": [
       "Шеврон с... Чем-то"
     ],
     "assemble": [
+      {
+        "name": "Сервопривод",
+        "amount": 1,
+        "kind": "count"
+      },
       {
         "name": "Автозарядник",
         "amount": 1,
