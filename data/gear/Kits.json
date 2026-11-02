@@ -104,34 +104,34 @@
         ]
       },
       {
-        "rank": "Тир III · Ветеран",
+        "rank": "Тир II · Ветеран",
         "key": "b",
         "description": "Весь комплект можно носить с ранга: Ветеран. Ранг каждой вещи — в подсказке её слота.",
         "slots": [
           {
             "vest": 1,
-            "description": "Бронежилет Горки Модифицированный — Защита: 26%. Защита от радиации: 10.5. Вместимость: 90 слотов. Крепления: Магазин ×5. Ранг: Ветеран.",
+            "description": "Бронежилет Горки Модифицированный — Защита: 14%. Защита от радиации: 4.9. Вместимость: 90 слотов. Крепления: Магазин ×5. Ранг: Ветеран.",
             "images": [
               "images/slots/Vest.png"
             ]
           },
           {
             "jacket": 1,
-            "description": "Куртка Горка Модифицированная — Защита: 26%. Защита от радиации: 17.5. Вместимость: 180 слотов. Слот под броневставку. Активные артефакты: 7. Ранг: Ветеран.",
+            "description": "Куртка Горка Модифицированная — Защита: 14%. Защита от радиации: 8.1. Вместимость: 180 слотов. Слот под броневставку. Активные артефакты: 7. Ранг: Ветеран.",
             "images": [
               "images/slots/Jacket.png"
             ]
           },
           {
             "belt": 1,
-            "description": "Ременная система Горки Модифицированная — Защита от радиации: 3.4. Вместимость: 50 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Ветеран.",
+            "description": "Ременная система Горки Модифицированная — Защита от радиации: 1.6. Вместимость: 50 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Ветеран.",
             "images": [
               "images/slots/Belt.png"
             ]
           },
           {
             "pants": 1,
-            "description": "Штаны Горка Модифицированные — Защита: 45%. Защита от радиации: 10.5. Вместимость: 180 слотов. Ранг: Ветеран.",
+            "description": "Штаны Горка Модифицированные — Защита: 26%. Защита от радиации: 4.9. Вместимость: 180 слотов. Ранг: Ветеран.",
             "images": [
               "images/slots/Pants.png"
             ]
@@ -145,14 +145,14 @@
           },
           {
             "helmet": 1,
-            "description": "Шлем Алтын Горки Модифицированный — Защита: 26%. Защита от радиации: 7. Вместимость: 0 слотов. Ранг: Ветеран.",
+            "description": "Шлем Алтын Горки Модифицированный — Защита: 14%. Защита от радиации: 3.2. Вместимость: 0 слотов. Ранг: Ветеран.",
             "images": [
               "images/slots/Helmet.png"
             ]
           },
           {
             "mask": 1,
-            "description": "Маска Горки Модифицированная — Защита: 26%. Защита от радиации: 14. Вместимость: 0 слотов. Ранг: Ветеран.",
+            "description": "Маска Горки Модифицированная — Защита: 14%. Защита от радиации: 6.5. Вместимость: 0 слотов. Ранг: Ветеран.",
             "images": [
               "images/slots/Mask.png"
             ]
@@ -166,25 +166,25 @@
           },
           {
             "gloves": 1,
-            "description": "Перчатки Горки Модифицированные — Защита: 45%. Защита от радиации: 5.2. Вместимость: 0 слотов. Ранг: Ветеран.",
+            "description": "Перчатки Горки Модифицированные — Защита: 26%. Защита от радиации: 2.4. Вместимость: 0 слотов. Ранг: Ветеран.",
             "images": [
               "images/slots/Gloves.png"
             ]
           },
           {
             "boots": 1,
-            "description": "Ботинки Горка Модифицированные — Защита: 45%. Защита от радиации: 5.2. Вместимость: 0 слотов. Ранг: Ветеран.",
+            "description": "Ботинки Горка Модифицированные — Защита: 26%. Защита от радиации: 2.4. Вместимость: 0 слотов. Ранг: Ветеран.",
             "images": [
               "images/slots/Boots.png"
             ]
           }
         ],
         "stats": {
-          "Тир брони": "III",
-          "Защита торса": "46%",
-          "Защита головы": "45%",
-          "Защита ног": "45%",
-          "Защита от радиации": 73.3,
+          "Тир брони": "II",
+          "Защита торса": "27%",
+          "Защита головы": "26%",
+          "Защита ног": "26%",
+          "Защита от радиации": 34,
           "Слоты артефактов": 17,
           "Вместимость": 500
         },
@@ -207,7 +207,7 @@
     ],
     "tiers": [
       1,
-      3
+      2
     ]
   },
   {
@@ -638,6 +638,288 @@
     ]
   },
   {
+    "name": "Биохазард",
+    "variants": [
+      {
+        "rank": "Тир II · Ветеран",
+        "key": "",
+        "description": "Весь комплект можно носить с ранга: Ветеран. Ранг каждой вещи — в подсказке её слота.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет Biohazard — Защита: 14%. Защита от радиации: 4.9. Вместимость: 90 слотов. Крепления: Магазин ×5. Ранг: Ветеран.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка Biohazard — Защита: 14%. Защита от радиации: 8.1. Вместимость: 180 слотов. Слот под броневставку. Активные артефакты: 7. Ранг: Ветеран.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ременная система Biohazard — Защита от радиации: 1.6. Вместимость: 110 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Ветеран.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны Biohazard — Защита: 26%. Защита от радиации: 4.9. Вместимость: 180 слотов. Ранг: Ветеран.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Ранцевый баллон Biohazard — Защита от радиации: 0. Вместимость: 330 слотов. Крепления: Руки ×2, Оружие ×2. Ранг: Ветеран.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Капюшон Biohazard — Защита: 14%. Защита от радиации: 3.2. Вместимость: 0 слотов. Ранг: Ветеран.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз Biohazard — Защита: 14%. Защита от радиации: 6.5. Вместимость: 0 слотов. Ранг: Ветеран.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Biohazard gloves — Защита: 26%. Защита от радиации: 2.4. Вместимость: 0 слотов. Ранг: Ветеран.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки Biohazard — Защита: 26%. Защита от радиации: 2.4. Вместимость: 0 слотов. Ранг: Ветеран.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Тир брони": "II",
+          "Защита торса": "27%",
+          "Защита головы": "26%",
+          "Защита ног": "26%",
+          "Защита от радиации": 34,
+          "Слоты артефактов": 17,
+          "Вместимость": 890
+        },
+        "images": [
+          "images/gear/science/Biohazard/Biohazard_1.png",
+          "images/gear/science/Biohazard/Biohazard_2.png",
+          "images/gear/science/Biohazard/Biohazard_3.png"
+        ]
+      },
+      {
+        "rank": "Тир III · Легенда Зоны III (Легенда III)",
+        "key": "Leg3",
+        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет Biohazard — Защита: 23%. Защита от радиации: 11.3. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка Biohazard — Защита: 23%. Защита от радиации: 18.9. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ременная система Biohazard — Защита от радиации: 3.8. Вместимость: 110 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны Biohazard — Защита: 41%. Защита от радиации: 11.3. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Ранцевый баллон Biohazard — Защита от радиации: 0. Вместимость: 330 слотов. Крепления: Руки ×2, Оружие ×6. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Капюшон Biohazard — Защита: 23%. Защита от радиации: 7.6. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз Biohazard — Защита: 23%. Защита от радиации: 15.1. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Biohazard gloves — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки Biohazard — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Тир брони": "III",
+          "Защита торса": "43%",
+          "Защита головы": "41%",
+          "Защита ног": "41%",
+          "Защита от радиации": 79.4,
+          "Слоты артефактов": 19,
+          "Вместимость": 990
+        },
+        "images": [
+          "images/gear/science/Biohazard/Biohazard_1.png",
+          "images/gear/science/Biohazard/Biohazard_2.png",
+          "images/gear/science/Biohazard/Biohazard_3.png"
+        ]
+      },
+      {
+        "rank": "Тир III · Легенда Зоны III (Легенда X)",
+        "key": "Leg10",
+        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет Biohazard — Защита: 23%. Защита от радиации: 11.3. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка Biohazard — Защита: 23%. Защита от радиации: 18.9. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 10. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ременная система Biohazard — Защита от радиации: 3.8. Вместимость: 110 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны Biohazard — Защита: 41%. Защита от радиации: 11.3. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Ранцевый баллон Biohazard — Защита от радиации: 0. Вместимость: 330 слотов. Крепления: Руки ×2, Оружие ×6. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Капюшон Biohazard — Защита: 23%. Защита от радиации: 7.6. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз Biohazard — Защита: 23%. Защита от радиации: 15.1. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Biohazard gloves — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки Biohazard — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Тир брони": "III",
+          "Защита торса": "43%",
+          "Защита головы": "41%",
+          "Защита ног": "41%",
+          "Защита от радиации": 79.4,
+          "Слоты артефактов": 20,
+          "Вместимость": 990
+        },
+        "images": [
+          "images/gear/science/Biohazard/Biohazard_1.png",
+          "images/gear/science/Biohazard/Biohazard_2.png",
+          "images/gear/science/Biohazard/Biohazard_3.png"
+        ]
+      }
+    ],
+    "tiers": [
+      2,
+      3
+    ]
+  },
+  {
     "name": "Бракен",
     "variants": [
       {
@@ -1026,6 +1308,111 @@
         ]
       },
       {
+        "rank": "Тир III · Легенда Зоны III",
+        "key": "Leg3",
+        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет от 'Булата' — Защита: 23%. Защита от радиации: 11.3. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка от 'Булата' — Защита: 23%. Защита от радиации: 18.9. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ремень от 'Булата' — Защита от радиации: 3.8. Вместимость: 130 слотов. Крепления: Сумка, Кобура ×2, Подсумок, Ножны, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны от 'Булата' — Защита: 41%. Защита от радиации: 11.3. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Рюкзак от 'Булата' — Защита от радиации: 0. Вместимость: 390 слотов. Крепления: Ремешок ×2, Фляжка, Оружие ×6, Руки ×2. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Шлем Сфера М13 — Защита: 23%. Защита от радиации: 7.6. Вместимость: 0 слотов. Крепления: Очки ночн. видения, Фонарик. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз СКАТ — Защита: 23%. Защита от радиации: 15.1. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки от 'Булата' — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки от 'Булата' — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Тир брони": "III",
+          "Защита торса": "43%",
+          "Защита головы": "41%",
+          "Защита ног": "41%",
+          "Защита от радиации": 79.4,
+          "Слоты артефактов": 19,
+          "Вместимость": 1070
+        },
+        "images": [
+          "images/gear/combat/Bulat/bulat_1.png",
+          "images/gear/combat/Bulat/bulat_2.png",
+          "images/gear/combat/Bulat/bulat_3.png",
+          "images/gear/combat/Bulat/bulat_4.png",
+          "images/gear/combat/Bulat/bulat_5.png",
+          "images/gear/combat/Bulat/bulat_6.png",
+          "images/gear/combat/Bulat/bulat_7.png",
+          "images/gear/combat/Bulat/bulat_8.png",
+          "images/gear/combat/Bulat/bulat_9.png",
+          "images/gear/combat/Bulat/bulat_10.png",
+          "images/gear/combat/Bulat/bulat_11.png",
+          "images/gear/combat/Bulat/bulat_12.png",
+          "images/gear/combat/Bulat/bulat_13.png",
+          "images/gear/combat/Bulat/bulat_14.png",
+          "images/gear/combat/Bulat/bulat_15.png",
+          "images/gear/combat/Bulat/bulat_16.png",
+          "images/gear/combat/Bulat/bulat_17.png"
+        ]
+      },
+      {
         "rank": "Тир IV · Легенда Зоны V (Прокачка Л5)",
         "key": "L5",
         "description": "Весь комплект можно носить с ранга: Легенда Зоны V. Ранг каждой вещи — в подсказке её слота.",
@@ -1109,111 +1496,6 @@
           "Защита от радиации": 116.7,
           "Слоты артефактов": 20,
           "Вместимость": 980
-        },
-        "images": [
-          "images/gear/combat/Bulat/bulat_1.png",
-          "images/gear/combat/Bulat/bulat_2.png",
-          "images/gear/combat/Bulat/bulat_3.png",
-          "images/gear/combat/Bulat/bulat_4.png",
-          "images/gear/combat/Bulat/bulat_5.png",
-          "images/gear/combat/Bulat/bulat_6.png",
-          "images/gear/combat/Bulat/bulat_7.png",
-          "images/gear/combat/Bulat/bulat_8.png",
-          "images/gear/combat/Bulat/bulat_9.png",
-          "images/gear/combat/Bulat/bulat_10.png",
-          "images/gear/combat/Bulat/bulat_11.png",
-          "images/gear/combat/Bulat/bulat_12.png",
-          "images/gear/combat/Bulat/bulat_13.png",
-          "images/gear/combat/Bulat/bulat_14.png",
-          "images/gear/combat/Bulat/bulat_15.png",
-          "images/gear/combat/Bulat/bulat_16.png",
-          "images/gear/combat/Bulat/bulat_17.png"
-        ]
-      },
-      {
-        "rank": "Тир IV · Легенда Зоны III",
-        "key": "Leg3",
-        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
-        "slots": [
-          {
-            "vest": 1,
-            "description": "Бронежилет от 'Булата' — Защита: 33%. Защита от радиации: 18. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Vest.png"
-            ]
-          },
-          {
-            "jacket": 1,
-            "description": "Куртка от 'Булата' — Защита: 33%. Защита от радиации: 30. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Jacket.png"
-            ]
-          },
-          {
-            "belt": 1,
-            "description": "Ремень от 'Булата' — Защита от радиации: 5. Вместимость: 130 слотов. Крепления: Сумка, Кобура ×2, Подсумок, Ножны, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Belt.png"
-            ]
-          },
-          {
-            "pants": 1,
-            "description": "Штаны от 'Булата' — Защита: 55%. Защита от радиации: 18. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Pants.png"
-            ]
-          },
-          {
-            "backpack": 1,
-            "description": "Рюкзак от 'Булата' — Защита от радиации: 0. Вместимость: 390 слотов. Крепления: Ремешок ×2, Фляжка, Оружие ×6, Руки ×2. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Backpack.png"
-            ]
-          },
-          {
-            "helmet": 1,
-            "description": "Шлем Сфера М13 — Защита: 33%. Защита от радиации: 12. Вместимость: 0 слотов. Крепления: Очки ночн. видения, Фонарик. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Helmet.png"
-            ]
-          },
-          {
-            "mask": 1,
-            "description": "Противогаз СКАТ — Защита: 33%. Защита от радиации: 24. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Mask.png"
-            ]
-          },
-          {
-            "glasses": 0,
-            "description": "",
-            "images": [
-              "images/slots/Glasses.png"
-            ]
-          },
-          {
-            "gloves": 1,
-            "description": "Перчатки от 'Булата' — Защита: 55%. Защита от радиации: 9. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Gloves.png"
-            ]
-          },
-          {
-            "boots": 1,
-            "description": "Ботинки от 'Булата' — Защита: 55%. Защита от радиации: 9. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Boots.png"
-            ]
-          }
-        ],
-        "stats": {
-          "Тир брони": "IV",
-          "Защита торса": "56%",
-          "Защита головы": "55%",
-          "Защита ног": "55%",
-          "Защита от радиации": 125,
-          "Слоты артефактов": 19,
-          "Вместимость": 1070
         },
         "images": [
           "images/gear/combat/Bulat/bulat_1.png",
@@ -1343,6 +1625,7 @@
     ],
     "tiers": [
       2,
+      3,
       4,
       6
     ]
@@ -1434,6 +1717,102 @@
           "Защита от радиации": 36,
           "Слоты артефактов": 18,
           "Вместимость": 300
+        },
+        "images": [
+          "images/gear/combat/Warfaiter/Warfaiter_1.png",
+          "images/gear/combat/Warfaiter/Warfaiter_2.png",
+          "images/gear/combat/Warfaiter/Warfaiter_3.png",
+          "images/gear/combat/Warfaiter/Warfaiter_4.png",
+          "images/gear/combat/Warfaiter/Warfaiter_5.png",
+          "images/gear/combat/Warfaiter/Warfaiter_6.png",
+          "images/gear/combat/Warfaiter/Warfaiter_7.png",
+          "images/gear/combat/Warfaiter/Warfaiter_8.png"
+        ]
+      },
+      {
+        "rank": "Тир III · Легенда Зоны III",
+        "key": "Leg3",
+        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет Warfighter — Защита: 23%. Защита от радиации: 11.3. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка Warfighter — Защита: 23%. Защита от радиации: 18.9. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ремень Warfighter — Защита от радиации: 3.8. Вместимость: 90 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 0,
+            "description": "",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 0,
+            "description": "",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Шлем Warfighter — Защита: 23%. Защита от радиации: 7.6. Вместимость: 0 слотов. Крепления: Очки ночн. видения, Фонарик. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Балаклава Warfighter — Защита: 23%. Защита от радиации: 15.1. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 1,
+            "description": "Очки Kpop — Защита от радиации: 0. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки Warfighter — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки Warfighter — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Тир брони": "III",
+          "Защита торса": "43%",
+          "Защита головы": "51%",
+          "Защита ног": "0%",
+          "Защита от радиации": 68.1,
+          "Слоты артефактов": 19,
+          "Вместимость": 420
         },
         "images": [
           "images/gear/combat/Warfaiter/Warfaiter_1.png",
@@ -1543,198 +1922,6 @@
         ]
       },
       {
-        "rank": "Тир IV · Легенда Зоны III",
-        "key": "Leg3",
-        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
-        "slots": [
-          {
-            "vest": 1,
-            "description": "Бронежилет Warfighter — Защита: 33%. Защита от радиации: 21.2. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Vest.png"
-            ]
-          },
-          {
-            "jacket": 1,
-            "description": "Куртка Warfighter — Защита: 33%. Защита от радиации: 35.3. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Jacket.png"
-            ]
-          },
-          {
-            "belt": 1,
-            "description": "Ремень Warfighter — Защита от радиации: 5. Вместимость: 90 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Belt.png"
-            ]
-          },
-          {
-            "pants": 0,
-            "description": "",
-            "images": [
-              "images/slots/Pants.png"
-            ]
-          },
-          {
-            "backpack": 0,
-            "description": "",
-            "images": [
-              "images/slots/Backpack.png"
-            ]
-          },
-          {
-            "helmet": 1,
-            "description": "Шлем Warfighter — Защита: 33%. Защита от радиации: 14.1. Вместимость: 0 слотов. Крепления: Очки ночн. видения, Фонарик. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Helmet.png"
-            ]
-          },
-          {
-            "mask": 1,
-            "description": "Балаклава Warfighter — Защита: 33%. Защита от радиации: 28.2. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Mask.png"
-            ]
-          },
-          {
-            "glasses": 1,
-            "description": "Очки Kpop — Защита от радиации: 0. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Glasses.png"
-            ]
-          },
-          {
-            "gloves": 1,
-            "description": "Перчатки Warfighter — Защита: 55%. Защита от радиации: 10.6. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Gloves.png"
-            ]
-          },
-          {
-            "boots": 1,
-            "description": "Ботинки Warfighter — Защита: 55%. Защита от радиации: 10.6. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Boots.png"
-            ]
-          }
-        ],
-        "stats": {
-          "Тир брони": "IV",
-          "Защита торса": "56%",
-          "Защита головы": "62%",
-          "Защита ног": "0%",
-          "Защита от радиации": 125,
-          "Слоты артефактов": 19,
-          "Вместимость": 420
-        },
-        "images": [
-          "images/gear/combat/Warfaiter/Warfaiter_1.png",
-          "images/gear/combat/Warfaiter/Warfaiter_2.png",
-          "images/gear/combat/Warfaiter/Warfaiter_3.png",
-          "images/gear/combat/Warfaiter/Warfaiter_4.png",
-          "images/gear/combat/Warfaiter/Warfaiter_5.png",
-          "images/gear/combat/Warfaiter/Warfaiter_6.png",
-          "images/gear/combat/Warfaiter/Warfaiter_7.png",
-          "images/gear/combat/Warfaiter/Warfaiter_8.png"
-        ]
-      },
-      {
-        "rank": "Тир V · Призрак Зоны IV",
-        "key": "Leg10",
-        "description": "Весь комплект можно носить с ранга: Призрак Зоны IV. Ранг каждой вещи — в подсказке её слота.",
-        "slots": [
-          {
-            "vest": 1,
-            "description": "Бронежилет Warfighter — Защита: 41%. Защита от радиации: 35.3. Вместимость: 130 слотов. Крепления: Магазин ×8. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Vest.png"
-            ]
-          },
-          {
-            "jacket": 1,
-            "description": "Куртка Warfighter — Защита: 41%. Защита от радиации: 58.8. Вместимость: 260 слотов. Слот под броневставку. Активные артефакты: 10. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Jacket.png"
-            ]
-          },
-          {
-            "belt": 1,
-            "description": "Ремень Warfighter — Защита от радиации: 5.6. Вместимость: 90 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Belt.png"
-            ]
-          },
-          {
-            "pants": 0,
-            "description": "",
-            "images": [
-              "images/slots/Pants.png"
-            ]
-          },
-          {
-            "backpack": 0,
-            "description": "",
-            "images": [
-              "images/slots/Backpack.png"
-            ]
-          },
-          {
-            "helmet": 1,
-            "description": "Шлем Warfighter — Защита: 41%. Защита от радиации: 23.5. Вместимость: 0 слотов. Крепления: Очки ночн. видения, Фонарик. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Helmet.png"
-            ]
-          },
-          {
-            "mask": 1,
-            "description": "Балаклава Warfighter — Защита: 41%. Защита от радиации: 47.1. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Mask.png"
-            ]
-          },
-          {
-            "glasses": 1,
-            "description": "Очки Kpop — Защита от радиации: 0. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Glasses.png"
-            ]
-          },
-          {
-            "gloves": 1,
-            "description": "Перчатки Warfighter — Защита: 65%. Защита от радиации: 17.6. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Gloves.png"
-            ]
-          },
-          {
-            "boots": 1,
-            "description": "Ботинки Warfighter — Защита: 65%. Защита от радиации: 17.6. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Boots.png"
-            ]
-          }
-        ],
-        "stats": {
-          "Тир брони": "V",
-          "Защита торса": "66%",
-          "Защита головы": "72%",
-          "Защита ног": "0%",
-          "Защита от радиации": 205.5,
-          "Слоты артефактов": 20,
-          "Вместимость": 480
-        },
-        "images": [
-          "images/gear/combat/Warfaiter/Warfaiter_1.png",
-          "images/gear/combat/Warfaiter/Warfaiter_2.png",
-          "images/gear/combat/Warfaiter/Warfaiter_3.png",
-          "images/gear/combat/Warfaiter/Warfaiter_4.png",
-          "images/gear/combat/Warfaiter/Warfaiter_5.png",
-          "images/gear/combat/Warfaiter/Warfaiter_6.png",
-          "images/gear/combat/Warfaiter/Warfaiter_7.png",
-          "images/gear/combat/Warfaiter/Warfaiter_8.png"
-        ]
-      },
-      {
         "rank": "Тир VI · Легенда Зоны X (Прокачка Л10)",
         "key": "L10",
         "description": "Весь комплект можно носить с ранга: Легенда Зоны X. Ранг каждой вещи — в подсказке её слота.",
@@ -1829,13 +2016,110 @@
           "images/gear/combat/Warfaiter/Warfaiter_7.png",
           "images/gear/combat/Warfaiter/Warfaiter_8.png"
         ]
+      },
+      {
+        "rank": "Тир VII · Призрак Зоны IV",
+        "key": "Leg10",
+        "description": "Весь комплект можно носить с ранга: Призрак Зоны IV. Ранг каждой вещи — в подсказке её слота.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет Warfighter — Защита: 48%. Защита от радиации: 32.7. Вместимость: 130 слотов. Крепления: Магазин ×8. Ранг: Призрак Зоны IV.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка Warfighter — Защита: 48%. Защита от радиации: 54.5. Вместимость: 260 слотов. Слот под броневставку. Активные артефакты: 10. Ранг: Призрак Зоны IV.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ремень Warfighter — Защита от радиации: 10.9. Вместимость: 90 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Призрак Зоны IV.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 0,
+            "description": "",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 0,
+            "description": "",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Шлем Warfighter — Защита: 48%. Защита от радиации: 21.8. Вместимость: 0 слотов. Крепления: Очки ночн. видения, Фонарик. Ранг: Призрак Зоны IV.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Балаклава Warfighter — Защита: 48%. Защита от радиации: 43.6. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 1,
+            "description": "Очки Kpop — Защита от радиации: 0. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки Warfighter — Защита: 73%. Защита от радиации: 16.3. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки Warfighter — Защита: 73%. Защита от радиации: 16.3. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Тир брони": "VII",
+          "Защита торса": "74%",
+          "Защита головы": "78%",
+          "Защита ног": "0%",
+          "Защита от радиации": 196.1,
+          "Слоты артефактов": 20,
+          "Вместимость": 480
+        },
+        "images": [
+          "images/gear/combat/Warfaiter/Warfaiter_1.png",
+          "images/gear/combat/Warfaiter/Warfaiter_2.png",
+          "images/gear/combat/Warfaiter/Warfaiter_3.png",
+          "images/gear/combat/Warfaiter/Warfaiter_4.png",
+          "images/gear/combat/Warfaiter/Warfaiter_5.png",
+          "images/gear/combat/Warfaiter/Warfaiter_6.png",
+          "images/gear/combat/Warfaiter/Warfaiter_7.png",
+          "images/gear/combat/Warfaiter/Warfaiter_8.png"
+        ]
       }
     ],
     "tiers": [
       2,
+      3,
       4,
-      5,
-      6
+      6,
+      7
     ]
   },
   {
@@ -3650,6 +3934,98 @@
         ]
       },
       {
+        "rank": "Тир III · Легенда Зоны III",
+        "key": "Leg10",
+        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет комплекта хим.защиты Mirbek — Защита: 23%. Защита от радиации: 11.3. Вместимость: 110 слотов. Крепления: Pocket A, Pocket B, Pocket Mag A, Pocket Mag B, Pocket Mag C. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка комплекта хим.защиты Mirbek — Защита: 23%. Защита от радиации: 18.9. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 10. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Пояс комплекта хим.защиты Mirbek — Защита от радиации: 3.8. Вместимость: 110 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны комплекта хим.защиты Mirbek — Защита: 41%. Защита от радиации: 11.3. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 0,
+            "description": "",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Шлем комплекта хим.защиты Mirbek — Защита: 23%. Защита от радиации: 7.6. Вместимость: 0 слотов. Крепления: Очки ночн. видения. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз комплекта хим.защиты Mirbek — Защита: 23%. Защита от радиации: 15.1. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Краги комплекта хим.защиты Mirbek — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки комплекта хим.защиты Mirbek — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Тир брони": "III",
+          "Защита торса": "43%",
+          "Защита головы": "41%",
+          "Защита ног": "41%",
+          "Защита от радиации": 79.4,
+          "Слоты артефактов": 20,
+          "Вместимость": 660
+        },
+        "images": [
+          "images/gear/science/Mirbek/Mirbek_1.png",
+          "images/gear/science/Mirbek/Mirbek_2.png",
+          "images/gear/science/Mirbek/Mirbek_3.png",
+          "images/gear/science/Mirbek/Mirbek_4.png"
+        ]
+      },
+      {
         "rank": "Тир IV · Легенда Зоны V (Прокачка Л5)",
         "key": "L5",
         "description": "Весь комплект можно носить с ранга: Легенда Зоны V. Ранг каждой вещи — в подсказке её слота.",
@@ -3733,98 +4109,6 @@
           "Защита от радиации": 116.7,
           "Слоты артефактов": 20,
           "Вместимость": 620
-        },
-        "images": [
-          "images/gear/science/Mirbek/Mirbek_1.png",
-          "images/gear/science/Mirbek/Mirbek_2.png",
-          "images/gear/science/Mirbek/Mirbek_3.png",
-          "images/gear/science/Mirbek/Mirbek_4.png"
-        ]
-      },
-      {
-        "rank": "Тир IV · Легенда Зоны III",
-        "key": "Leg10",
-        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
-        "slots": [
-          {
-            "vest": 1,
-            "description": "Бронежилет комплекта хим.защиты Mirbek — Защита: 33%. Защита от радиации: 18. Вместимость: 110 слотов. Крепления: Pocket A, Pocket B, Pocket Mag A, Pocket Mag B, Pocket Mag C. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Vest.png"
-            ]
-          },
-          {
-            "jacket": 1,
-            "description": "Куртка комплекта хим.защиты Mirbek — Защита: 33%. Защита от радиации: 30. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 10. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Jacket.png"
-            ]
-          },
-          {
-            "belt": 1,
-            "description": "Пояс комплекта хим.защиты Mirbek — Защита от радиации: 11.5. Вместимость: 110 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Belt.png"
-            ]
-          },
-          {
-            "pants": 1,
-            "description": "Штаны комплекта хим.защиты Mirbek — Защита: 55%. Защита от радиации: 18. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Pants.png"
-            ]
-          },
-          {
-            "backpack": 0,
-            "description": "",
-            "images": [
-              "images/slots/Backpack.png"
-            ]
-          },
-          {
-            "helmet": 1,
-            "description": "Шлем комплекта хим.защиты Mirbek — Защита: 33%. Защита от радиации: 12. Вместимость: 0 слотов. Крепления: Очки ночн. видения. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Helmet.png"
-            ]
-          },
-          {
-            "mask": 1,
-            "description": "Противогаз комплекта хим.защиты Mirbek — Защита: 33%. Защита от радиации: 24. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Mask.png"
-            ]
-          },
-          {
-            "glasses": 0,
-            "description": "",
-            "images": [
-              "images/slots/Glasses.png"
-            ]
-          },
-          {
-            "gloves": 1,
-            "description": "Краги комплекта хим.защиты Mirbek — Защита: 55%. Защита от радиации: 9. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Gloves.png"
-            ]
-          },
-          {
-            "boots": 1,
-            "description": "Ботинки комплекта хим.защиты Mirbek — Защита: 55%. Защита от радиации: 9. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Boots.png"
-            ]
-          }
-        ],
-        "stats": {
-          "Тир брони": "IV",
-          "Защита торса": "56%",
-          "Защита головы": "55%",
-          "Защита ног": "55%",
-          "Защита от радиации": 131.5,
-          "Слоты артефактов": 20,
-          "Вместимость": 660
         },
         "images": [
           "images/gear/science/Mirbek/Mirbek_1.png",
@@ -3928,6 +4212,7 @@
     ],
     "tiers": [
       2,
+      3,
       4,
       6
     ]
@@ -4019,6 +4304,101 @@
           "Защита от радиации": 42,
           "Слоты артефактов": 18,
           "Вместимость": 440
+        },
+        "images": [
+          "images/gear/combat/Monochom/Monochom_1.png",
+          "images/gear/combat/Monochom/Monochom_2.png",
+          "images/gear/combat/Monochom/Monochom_3.png",
+          "images/gear/combat/Monochom/Monochom_4.png",
+          "images/gear/combat/Monochom/Monochom_5.png",
+          "images/gear/combat/Monochom/Monochom_6.png",
+          "images/gear/combat/Monochom/Monochom_7.png"
+        ]
+      },
+      {
+        "rank": "Тир III · Легенда Зоны III",
+        "key": "Leg3",
+        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет Monochrome — Защита: 23%. Защита от радиации: 11.3. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка Monochrome — Защита: 23%. Защита от радиации: 18.9. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Тактический ремень Monochrome — Защита от радиации: 3.8. Вместимость: 90 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны Monochrome — Защита: 41%. Защита от радиации: 11.3. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 0,
+            "description": "",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Шлем Monochrome — Защита: 23%. Защита от радиации: 7.6. Вместимость: 0 слотов. Крепления: Очки ночн. видения, Фонарик. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Маска Monochrome — Защита: 23%. Защита от радиации: 15.1. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки Monochrome — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки Monochrome — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Тир брони": "III",
+          "Защита торса": "43%",
+          "Защита головы": "41%",
+          "Защита ног": "41%",
+          "Защита от радиации": 79.4,
+          "Слоты артефактов": 19,
+          "Вместимость": 640
         },
         "images": [
           "images/gear/combat/Monochom/Monochom_1.png",
@@ -4126,196 +4506,6 @@
         ]
       },
       {
-        "rank": "Тир IV · Легенда Зоны III",
-        "key": "Leg3",
-        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
-        "slots": [
-          {
-            "vest": 1,
-            "description": "Бронежилет Monochrome — Защита: 33%. Защита от радиации: 18. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Vest.png"
-            ]
-          },
-          {
-            "jacket": 1,
-            "description": "Куртка Monochrome — Защита: 33%. Защита от радиации: 30. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Jacket.png"
-            ]
-          },
-          {
-            "belt": 1,
-            "description": "Тактический ремень Monochrome — Защита от радиации: 5. Вместимость: 90 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Belt.png"
-            ]
-          },
-          {
-            "pants": 1,
-            "description": "Штаны Monochrome — Защита: 55%. Защита от радиации: 18. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Pants.png"
-            ]
-          },
-          {
-            "backpack": 0,
-            "description": "",
-            "images": [
-              "images/slots/Backpack.png"
-            ]
-          },
-          {
-            "helmet": 1,
-            "description": "Шлем Monochrome — Защита: 33%. Защита от радиации: 12. Вместимость: 0 слотов. Крепления: Очки ночн. видения, Фонарик. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Helmet.png"
-            ]
-          },
-          {
-            "mask": 1,
-            "description": "Маска Monochrome — Защита: 33%. Защита от радиации: 24. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Mask.png"
-            ]
-          },
-          {
-            "glasses": 0,
-            "description": "",
-            "images": [
-              "images/slots/Glasses.png"
-            ]
-          },
-          {
-            "gloves": 1,
-            "description": "Перчатки Monochrome — Защита: 55%. Защита от радиации: 9. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Gloves.png"
-            ]
-          },
-          {
-            "boots": 1,
-            "description": "Ботинки Monochrome — Защита: 55%. Защита от радиации: 9. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Boots.png"
-            ]
-          }
-        ],
-        "stats": {
-          "Тир брони": "IV",
-          "Защита торса": "56%",
-          "Защита головы": "55%",
-          "Защита ног": "55%",
-          "Защита от радиации": 125,
-          "Слоты артефактов": 19,
-          "Вместимость": 640
-        },
-        "images": [
-          "images/gear/combat/Monochom/Monochom_1.png",
-          "images/gear/combat/Monochom/Monochom_2.png",
-          "images/gear/combat/Monochom/Monochom_3.png",
-          "images/gear/combat/Monochom/Monochom_4.png",
-          "images/gear/combat/Monochom/Monochom_5.png",
-          "images/gear/combat/Monochom/Monochom_6.png",
-          "images/gear/combat/Monochom/Monochom_7.png"
-        ]
-      },
-      {
-        "rank": "Тир V · Призрак Зоны IV",
-        "key": "Leg10",
-        "description": "Весь комплект можно носить с ранга: Призрак Зоны IV. Ранг каждой вещи — в подсказке её слота.",
-        "slots": [
-          {
-            "vest": 1,
-            "description": "Бронежилет Monochrome — Защита: 41%. Защита от радиации: 30. Вместимость: 130 слотов. Крепления: Магазин ×8. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Vest.png"
-            ]
-          },
-          {
-            "jacket": 1,
-            "description": "Куртка Monochrome — Защита: 41%. Защита от радиации: 50. Вместимость: 260 слотов. Слот под броневставку. Активные артефакты: 10. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Jacket.png"
-            ]
-          },
-          {
-            "belt": 1,
-            "description": "Тактический ремень Monochrome — Защита от радиации: 5.6. Вместимость: 90 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Belt.png"
-            ]
-          },
-          {
-            "pants": 1,
-            "description": "Штаны Monochrome — Защита: 65%. Защита от радиации: 30. Вместимость: 260 слотов. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Pants.png"
-            ]
-          },
-          {
-            "backpack": 0,
-            "description": "",
-            "images": [
-              "images/slots/Backpack.png"
-            ]
-          },
-          {
-            "helmet": 1,
-            "description": "Шлем Monochrome — Защита: 41%. Защита от радиации: 20. Вместимость: 0 слотов. Крепления: Очки ночн. видения, Фонарик. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Helmet.png"
-            ]
-          },
-          {
-            "mask": 1,
-            "description": "Маска Monochrome — Защита: 41%. Защита от радиации: 40. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Mask.png"
-            ]
-          },
-          {
-            "glasses": 0,
-            "description": "",
-            "images": [
-              "images/slots/Glasses.png"
-            ]
-          },
-          {
-            "gloves": 1,
-            "description": "Перчатки Monochrome — Защита: 65%. Защита от радиации: 15. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Gloves.png"
-            ]
-          },
-          {
-            "boots": 1,
-            "description": "Ботинки Monochrome — Защита: 65%. Защита от радиации: 15. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Boots.png"
-            ]
-          }
-        ],
-        "stats": {
-          "Тир брони": "V",
-          "Защита торса": "66%",
-          "Защита головы": "65%",
-          "Защита ног": "65%",
-          "Защита от радиации": 205.6,
-          "Слоты артефактов": 20,
-          "Вместимость": 740
-        },
-        "images": [
-          "images/gear/combat/Monochom/Monochom_1.png",
-          "images/gear/combat/Monochom/Monochom_2.png",
-          "images/gear/combat/Monochom/Monochom_3.png",
-          "images/gear/combat/Monochom/Monochom_4.png",
-          "images/gear/combat/Monochom/Monochom_5.png",
-          "images/gear/combat/Monochom/Monochom_6.png",
-          "images/gear/combat/Monochom/Monochom_7.png"
-        ]
-      },
-      {
         "rank": "Тир VI · Легенда Зоны X (Прокачка Л10)",
         "key": "L10",
         "description": "Весь комплект можно носить с ранга: Легенда Зоны X. Ранг каждой вещи — в подсказке её слота.",
@@ -4409,68 +4599,57 @@
           "images/gear/combat/Monochom/Monochom_6.png",
           "images/gear/combat/Monochom/Monochom_7.png"
         ]
-      }
-    ],
-    "tiers": [
-      2,
-      4,
-      5,
-      6
-    ]
-  },
-  {
-    "name": "Новая Заря",
-    "variants": [
+      },
       {
-        "rank": "Тир II · Сталкер",
-        "key": "",
-        "description": "Весь комплект можно носить с ранга: Сталкер. Ранг каждой вещи — в подсказке её слота.",
+        "rank": "Тир VII · Призрак Зоны IV",
+        "key": "Leg10",
+        "description": "Весь комплект можно носить с ранга: Призрак Зоны IV. Ранг каждой вещи — в подсказке её слота.",
         "slots": [
           {
             "vest": 1,
-            "description": "Бронепластина 'Новая Заря' — Защита: 16%. Защита от радиации: 6. Вместимость: 70 слотов. Крепления: Слот Патча, Пистолет, Ремешок, Нож, Бинты, Съемные карманы, Магазин ×2, Граната ×2. Ранг: Сталкер.",
+            "description": "Бронежилет Monochrome — Защита: 48%. Защита от радиации: 32.7. Вместимость: 130 слотов. Крепления: Магазин ×8. Ранг: Призрак Зоны IV.",
             "images": [
               "images/slots/Vest.png"
             ]
           },
           {
             "jacket": 1,
-            "description": "Куртка 'Новая Заря' — Защита: 16%. Защита от радиации: 10. Вместимость: 140 слотов. Слот под броневставку. Активные артефакты: 3. Ранг: Сталкер.",
+            "description": "Куртка Monochrome — Защита: 48%. Защита от радиации: 54.5. Вместимость: 260 слотов. Слот под броневставку. Активные артефакты: 10. Ранг: Призрак Зоны IV.",
             "images": [
               "images/slots/Jacket.png"
             ]
           },
           {
             "belt": 1,
-            "description": "Разгрузочный пояс «Новая Заря» — Защита от радиации: 3.8. Вместимость: 70 слотов. Крепления: Нож, Пистолет, Слот Подсумка ×5. Ранг: Сталкер.",
+            "description": "Тактический ремень Monochrome — Защита от радиации: 10.9. Вместимость: 90 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Призрак Зоны IV.",
             "images": [
               "images/slots/Belt.png"
             ]
           },
           {
             "pants": 1,
-            "description": "Штаны 'Новая Заря' — Защита: 30%. Защита от радиации: 6. Вместимость: 140 слотов. Ранг: Сталкер.",
+            "description": "Штаны Monochrome — Защита: 73%. Защита от радиации: 32.7. Вместимость: 260 слотов. Ранг: Призрак Зоны IV.",
             "images": [
               "images/slots/Pants.png"
             ]
           },
           {
-            "backpack": 1,
-            "description": "Рюкзак 'Новая Заря' — Защита от радиации: 0. Вместимость: 210 слотов. Крепления: Ремешок ×2. Ранг: Сталкер.",
+            "backpack": 0,
+            "description": "",
             "images": [
               "images/slots/Backpack.png"
             ]
           },
           {
             "helmet": 1,
-            "description": "Капюшон 'Новая Заря' — Защита: 16%. Защита от радиации: 4. Вместимость: 0 слотов. Крепления: Очки ночн. видения. Ранг: Сталкер.",
+            "description": "Шлем Monochrome — Защита: 48%. Защита от радиации: 21.8. Вместимость: 0 слотов. Крепления: Очки ночн. видения, Фонарик. Ранг: Призрак Зоны IV.",
             "images": [
               "images/slots/Helmet.png"
             ]
           },
           {
             "mask": 1,
-            "description": "Газовая Маска 'Новая Заря' — Защита: 16%. Защита от радиации: 8. Вместимость: 0 слотов. Ранг: Сталкер.",
+            "description": "Маска Monochrome — Защита: 48%. Защита от радиации: 43.6. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
             "images": [
               "images/slots/Mask.png"
             ]
@@ -4484,14 +4663,121 @@
           },
           {
             "gloves": 1,
-            "description": "Перчатки 'Новая Заря' — Защита: 30%. Защита от радиации: 3. Вместимость: 0 слотов. Ранг: Сталкер.",
+            "description": "Перчатки Monochrome — Защита: 73%. Защита от радиации: 16.3. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
             "images": [
               "images/slots/Gloves.png"
             ]
           },
           {
             "boots": 1,
-            "description": "Ботинки 'Новая Заря' — Защита: 30%. Защита от радиации: 3. Вместимость: 0 слотов. Ранг: Сталкер.",
+            "description": "Ботинки Monochrome — Защита: 73%. Защита от радиации: 16.3. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Тир брони": "VII",
+          "Защита торса": "74%",
+          "Защита головы": "73%",
+          "Защита ног": "73%",
+          "Защита от радиации": 228.8,
+          "Слоты артефактов": 20,
+          "Вместимость": 740
+        },
+        "images": [
+          "images/gear/combat/Monochom/Monochom_1.png",
+          "images/gear/combat/Monochom/Monochom_2.png",
+          "images/gear/combat/Monochom/Monochom_3.png",
+          "images/gear/combat/Monochom/Monochom_4.png",
+          "images/gear/combat/Monochom/Monochom_5.png",
+          "images/gear/combat/Monochom/Monochom_6.png",
+          "images/gear/combat/Monochom/Monochom_7.png"
+        ]
+      }
+    ],
+    "tiers": [
+      2,
+      3,
+      4,
+      6,
+      7
+    ]
+  },
+  {
+    "name": "Новая Заря",
+    "variants": [
+      {
+        "rank": "Тир II · Сталкер",
+        "key": "",
+        "description": "Весь комплект можно носить с ранга: Сталкер. Ранг каждой вещи — в подсказке её слота.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронепластина 'Новая Заря' — Защита: 12%. Защита от радиации: 3.8. Вместимость: 70 слотов. Крепления: Слот Патча, Пистолет, Ремешок, Нож, Бинты, Съемные карманы, Магазин ×2, Граната ×2. Ранг: Сталкер.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка 'Новая Заря' — Защита: 12%. Защита от радиации: 6.2. Вместимость: 140 слотов. Слот под броневставку. Активные артефакты: 3. Ранг: Сталкер.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Разгрузочный пояс «Новая Заря» — Защита от радиации: 1.2. Вместимость: 70 слотов. Крепления: Нож, Пистолет, Слот Подсумка ×5. Ранг: Сталкер.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны 'Новая Заря' — Защита: 22%. Защита от радиации: 3.8. Вместимость: 140 слотов. Ранг: Сталкер.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Рюкзак 'Новая Заря' — Защита от радиации: 0. Вместимость: 210 слотов. Крепления: Ремешок ×2. Ранг: Сталкер.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Капюшон 'Новая Заря' — Защита: 12%. Защита от радиации: 2.5. Вместимость: 0 слотов. Крепления: Очки ночн. видения. Ранг: Сталкер.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Газовая Маска 'Новая Заря' — Защита: 12%. Защита от радиации: 5. Вместимость: 0 слотов. Ранг: Сталкер.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки 'Новая Заря' — Защита: 22%. Защита от радиации: 1.9. Вместимость: 0 слотов. Ранг: Сталкер.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки 'Новая Заря' — Защита: 22%. Защита от радиации: 1.9. Вместимость: 0 слотов. Ранг: Сталкер.",
             "images": [
               "images/slots/Boots.png"
             ]
@@ -4499,10 +4785,10 @@
         ],
         "stats": {
           "Тир брони": "II",
-          "Защита торса": "31%",
-          "Защита головы": "30%",
-          "Защита ног": "30%",
-          "Защита от радиации": 43.8,
+          "Защита торса": "23%",
+          "Защита головы": "23%",
+          "Защита ног": "22%",
+          "Защита от радиации": 26.3,
           "Слоты артефактов": 3,
           "Вместимость": 630
         },
@@ -4523,34 +4809,34 @@
         ]
       },
       {
-        "rank": "Тир III · Ветеран",
+        "rank": "Тир II · Ветеран",
         "key": "b",
         "description": "Весь комплект можно носить с ранга: Ветеран. Ранг каждой вещи — в подсказке её слота.",
         "slots": [
           {
             "vest": 1,
-            "description": "Модифицированная Бронепластина 'Новая Заря' — Защита: 26%. Защита от радиации: 10.5. Вместимость: 90 слотов. Крепления: Слот Патча, Пистолет, Ремешок, Нож, Бинты, Съемные карманы, Магазин ×5. Ранг: Ветеран.",
+            "description": "Модифицированная Бронепластина 'Новая Заря' — Защита: 14%. Защита от радиации: 4.9. Вместимость: 90 слотов. Крепления: Слот Патча, Пистолет, Ремешок, Нож, Бинты, Съемные карманы, Магазин ×5. Ранг: Ветеран.",
             "images": [
               "images/slots/Vest.png"
             ]
           },
           {
             "jacket": 1,
-            "description": "Модифицированная Куртка 'Новая Заря' — Защита: 26%. Защита от радиации: 17.5. Вместимость: 180 слотов. Слот под броневставку. Активные артефакты: 7. Ранг: Ветеран.",
+            "description": "Модифицированная Куртка 'Новая Заря' — Защита: 14%. Защита от радиации: 8.1. Вместимость: 180 слотов. Слот под броневставку. Активные артефакты: 7. Ранг: Ветеран.",
             "images": [
               "images/slots/Jacket.png"
             ]
           },
           {
             "belt": 1,
-            "description": "Модифицированный Ремень 'Новая Заря' — Защита от радиации: 3.8. Вместимость: 70 слотов. Крепления: Нож, Пистолет, Слот Подсумка ×5. Активные артефакты: 10. Ранг: Ветеран.",
+            "description": "Модифицированный Ремень 'Новая Заря' — Защита от радиации: 1.6. Вместимость: 70 слотов. Крепления: Нож, Пистолет, Слот Подсумка ×5. Активные артефакты: 10. Ранг: Ветеран.",
             "images": [
               "images/slots/Belt.png"
             ]
           },
           {
             "pants": 1,
-            "description": "Модифицированные Штаны 'Новая Заря' — Защита: 45%. Защита от радиации: 10.5. Вместимость: 180 слотов. Ранг: Ветеран.",
+            "description": "Модифицированные Штаны 'Новая Заря' — Защита: 26%. Защита от радиации: 4.9. Вместимость: 180 слотов. Ранг: Ветеран.",
             "images": [
               "images/slots/Pants.png"
             ]
@@ -4564,14 +4850,14 @@
           },
           {
             "helmet": 1,
-            "description": "Модифицированный Капюшон 'Новая Заря' — Защита: 26%. Защита от радиации: 7. Вместимость: 0 слотов. Крепления: Очки ночн. видения. Ранг: Ветеран.",
+            "description": "Модифицированный Капюшон 'Новая Заря' — Защита: 14%. Защита от радиации: 3.2. Вместимость: 0 слотов. Крепления: Очки ночн. видения. Ранг: Ветеран.",
             "images": [
               "images/slots/Helmet.png"
             ]
           },
           {
             "mask": 1,
-            "description": "Модифицированная Газовая Маска 'Новая Заря' — Защита: 26%. Защита от радиации: 14. Вместимость: 0 слотов. Ранг: Ветеран.",
+            "description": "Модифицированная Газовая Маска 'Новая Заря' — Защита: 14%. Защита от радиации: 6.5. Вместимость: 0 слотов. Ранг: Ветеран.",
             "images": [
               "images/slots/Mask.png"
             ]
@@ -4585,25 +4871,25 @@
           },
           {
             "gloves": 1,
-            "description": "Модифицированные Перчатки 'Новая Заря' — Защита: 45%. Защита от радиации: 5.3. Вместимость: 0 слотов. Ранг: Ветеран.",
+            "description": "Модифицированные Перчатки 'Новая Заря' — Защита: 26%. Защита от радиации: 2.4. Вместимость: 0 слотов. Ранг: Ветеран.",
             "images": [
               "images/slots/Gloves.png"
             ]
           },
           {
             "boots": 1,
-            "description": "Модифицированные Ботинки 'Новая Заря' — Защита: 45%. Защита от радиации: 5.3. Вместимость: 0 слотов. Ранг: Ветеран.",
+            "description": "Модифицированные Ботинки 'Новая Заря' — Защита: 26%. Защита от радиации: 2.4. Вместимость: 0 слотов. Ранг: Ветеран.",
             "images": [
               "images/slots/Boots.png"
             ]
           }
         ],
         "stats": {
-          "Тир брони": "III",
-          "Защита торса": "46%",
-          "Защита головы": "45%",
-          "Защита ног": "45%",
-          "Защита от радиации": 73.9,
+          "Тир брони": "II",
+          "Защита торса": "27%",
+          "Защита головы": "26%",
+          "Защита ног": "26%",
+          "Защита от радиации": 34,
           "Слоты артефактов": 17,
           "Вместимость": 730
         },
@@ -4624,34 +4910,34 @@
         ]
       },
       {
-        "rank": "Тир IV · Легенда Зоны III",
+        "rank": "Тир III · Легенда Зоны III",
         "key": "Leg3",
         "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
         "slots": [
           {
             "vest": 1,
-            "description": "Бронепластина 'Новая Заря' — Защита: 33%. Защита от радиации: 18. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
+            "description": "Бронепластина 'Новая Заря' — Защита: 23%. Защита от радиации: 11.3. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
             "images": [
               "images/slots/Vest.png"
             ]
           },
           {
             "jacket": 1,
-            "description": "Куртка 'Новая Заря' — Защита: 33%. Защита от радиации: 30. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
+            "description": "Куртка 'Новая Заря' — Защита: 23%. Защита от радиации: 18.9. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
             "images": [
               "images/slots/Jacket.png"
             ]
           },
           {
             "belt": 1,
-            "description": "Разгрузочный пояс «Новая Заря» — Защита от радиации: 5. Вместимость: 70 слотов. Крепления: Нож, Пистолет, Слот Подсумка ×5. Активные артефакты: 10. Ранг: Легенда Зоны III.",
+            "description": "Разгрузочный пояс «Новая Заря» — Защита от радиации: 3.8. Вместимость: 70 слотов. Крепления: Нож, Пистолет, Слот Подсумка ×5. Активные артефакты: 10. Ранг: Легенда Зоны III.",
             "images": [
               "images/slots/Belt.png"
             ]
           },
           {
             "pants": 1,
-            "description": "Штаны 'Новая Заря' — Защита: 55%. Защита от радиации: 18. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
+            "description": "Штаны 'Новая Заря' — Защита: 41%. Защита от радиации: 11.3. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
             "images": [
               "images/slots/Pants.png"
             ]
@@ -4665,14 +4951,14 @@
           },
           {
             "helmet": 1,
-            "description": "Капюшон 'Новая Заря' — Защита: 33%. Защита от радиации: 12. Вместимость: 0 слотов. Крепления: Очки ночн. видения. Ранг: Легенда Зоны III.",
+            "description": "Капюшон 'Новая Заря' — Защита: 23%. Защита от радиации: 7.6. Вместимость: 0 слотов. Крепления: Очки ночн. видения. Ранг: Легенда Зоны III.",
             "images": [
               "images/slots/Helmet.png"
             ]
           },
           {
             "mask": 1,
-            "description": "Газовая Маска 'Новая Заря' — Защита: 33%. Защита от радиации: 24. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "description": "Газовая Маска 'Новая Заря' — Защита: 23%. Защита от радиации: 15.1. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
             "images": [
               "images/slots/Mask.png"
             ]
@@ -4686,25 +4972,25 @@
           },
           {
             "gloves": 1,
-            "description": "Перчатки 'Новая Заря' — Защита: 55%. Защита от радиации: 9. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "description": "Перчатки 'Новая Заря' — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
             "images": [
               "images/slots/Gloves.png"
             ]
           },
           {
             "boots": 1,
-            "description": "Ботинки 'Новая Заря' — Защита: 55%. Защита от радиации: 9. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "description": "Ботинки 'Новая Заря' — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
             "images": [
               "images/slots/Boots.png"
             ]
           }
         ],
         "stats": {
-          "Тир брони": "IV",
-          "Защита торса": "56%",
-          "Защита головы": "55%",
-          "Защита ног": "55%",
-          "Защита от радиации": 125,
+          "Тир брони": "III",
+          "Защита торса": "43%",
+          "Защита головы": "41%",
+          "Защита ног": "41%",
+          "Защита от радиации": 79.4,
           "Слоты артефактов": 19,
           "Вместимость": 830
         },
@@ -4727,8 +5013,7 @@
     ],
     "tiers": [
       2,
-      3,
-      4
+      3
     ]
   },
   {
@@ -4832,6 +5117,103 @@
         ]
       },
       {
+        "rank": "Тир III · Легенда Зоны III",
+        "key": "Leg3",
+        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Боевой бронежилет комплекта «ТБК Носорог» — Защита: 23%. Защита от радиации: 11.3. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Боевая куртка комплекта «ТБК Носорог» — Защита: 23%. Защита от радиации: 18.9. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Боевая разгрузка комплекта «ТБК Носорог» — Защита от радиации: 3.8. Вместимость: 90 слотов. Крепления: Левые подсумки комплекта «ТБК Носорог», Правые подсумки комплекта «ТБК Носорог», Задний-левый подсумок комплекта «ТБК Носорог», Задний-правый подсумок комплекта «ТБК Носорог», Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Боевые штаны комплекта «ТБК Носорог» — Защита: 41%. Защита от радиации: 11.3. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 0,
+            "description": "",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Боевой шлем комплекта «ТБК Носорог» — Защита: 23%. Защита от радиации: 7.6. Вместимость: 0 слотов. Крепления: Очки ночн. видения. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Боевой респиратор комплекта «ТБК Носорог» — Защита: 23%. Защита от радиации: 15.1. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 1,
+            "description": "Боевые очки комплекта «ТБК Носорог» — Защита от радиации: 0. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Боевые перчатки комплекта «ТБК Носорог» — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Боевые ботинки комплекта «ТБК Носорог» — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Тир брони": "III",
+          "Защита торса": "43%",
+          "Защита головы": "51%",
+          "Защита ног": "41%",
+          "Защита от радиации": 79.4,
+          "Слоты артефактов": 19,
+          "Вместимость": 640
+        },
+        "images": [
+          "images/gear/combat/Nosorog/Nosorog_1.png",
+          "images/gear/combat/Nosorog/Nosorog_2.png",
+          "images/gear/combat/Nosorog/Nosorog_3.png",
+          "images/gear/combat/Nosorog/Nosorog_4.png",
+          "images/gear/combat/Nosorog/Nosorog_5.png",
+          "images/gear/combat/Nosorog/Nosorog_6.png",
+          "images/gear/combat/Nosorog/Nosorog_7.png",
+          "images/gear/combat/Nosorog/Nosorog_8.png",
+          "images/gear/combat/Nosorog/Nosorog_9.png"
+        ]
+      },
+      {
         "rank": "Тир IV · Легенда Зоны V (Прокачка Л5)",
         "key": "L5",
         "description": "Весь комплект можно носить с ранга: Легенда Зоны V. Ранг каждой вещи — в подсказке её слота.",
@@ -4915,103 +5297,6 @@
           "Защита от радиации": 116.7,
           "Слоты артефактов": 20,
           "Вместимость": 620
-        },
-        "images": [
-          "images/gear/combat/Nosorog/Nosorog_1.png",
-          "images/gear/combat/Nosorog/Nosorog_2.png",
-          "images/gear/combat/Nosorog/Nosorog_3.png",
-          "images/gear/combat/Nosorog/Nosorog_4.png",
-          "images/gear/combat/Nosorog/Nosorog_5.png",
-          "images/gear/combat/Nosorog/Nosorog_6.png",
-          "images/gear/combat/Nosorog/Nosorog_7.png",
-          "images/gear/combat/Nosorog/Nosorog_8.png",
-          "images/gear/combat/Nosorog/Nosorog_9.png"
-        ]
-      },
-      {
-        "rank": "Тир IV · Легенда Зоны III",
-        "key": "Leg3",
-        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
-        "slots": [
-          {
-            "vest": 1,
-            "description": "Боевой бронежилет комплекта «ТБК Носорог» — Защита: 33%. Защита от радиации: 18. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Vest.png"
-            ]
-          },
-          {
-            "jacket": 1,
-            "description": "Боевая куртка комплекта «ТБК Носорог» — Защита: 33%. Защита от радиации: 30. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Jacket.png"
-            ]
-          },
-          {
-            "belt": 1,
-            "description": "Боевая разгрузка комплекта «ТБК Носорог» — Защита от радиации: 5. Вместимость: 90 слотов. Крепления: Левые подсумки комплекта «ТБК Носорог», Правые подсумки комплекта «ТБК Носорог», Задний-левый подсумок комплекта «ТБК Носорог», Задний-правый подсумок комплекта «ТБК Носорог», Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Belt.png"
-            ]
-          },
-          {
-            "pants": 1,
-            "description": "Боевые штаны комплекта «ТБК Носорог» — Защита: 55%. Защита от радиации: 18. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Pants.png"
-            ]
-          },
-          {
-            "backpack": 0,
-            "description": "",
-            "images": [
-              "images/slots/Backpack.png"
-            ]
-          },
-          {
-            "helmet": 1,
-            "description": "Боевой шлем комплекта «ТБК Носорог» — Защита: 33%. Защита от радиации: 12. Вместимость: 0 слотов. Крепления: Очки ночн. видения. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Helmet.png"
-            ]
-          },
-          {
-            "mask": 1,
-            "description": "Боевой респиратор комплекта «ТБК Носорог» — Защита: 33%. Защита от радиации: 24. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Mask.png"
-            ]
-          },
-          {
-            "glasses": 1,
-            "description": "Боевые очки комплекта «ТБК Носорог» — Защита от радиации: 0. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Glasses.png"
-            ]
-          },
-          {
-            "gloves": 1,
-            "description": "Боевые перчатки комплекта «ТБК Носорог» — Защита: 55%. Защита от радиации: 9. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Gloves.png"
-            ]
-          },
-          {
-            "boots": 1,
-            "description": "Боевые ботинки комплекта «ТБК Носорог» — Защита: 55%. Защита от радиации: 9. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Boots.png"
-            ]
-          }
-        ],
-        "stats": {
-          "Тир брони": "IV",
-          "Защита торса": "56%",
-          "Защита головы": "62%",
-          "Защита ног": "55%",
-          "Защита от радиации": 125,
-          "Слоты артефактов": 19,
-          "Вместимость": 640
         },
         "images": [
           "images/gear/combat/Nosorog/Nosorog_1.png",
@@ -5125,6 +5410,7 @@
     ],
     "tiers": [
       2,
+      3,
       4,
       6
     ]
@@ -6840,6 +7126,193 @@
     ]
   },
   {
+    "name": "Ред Деад",
+    "variants": [
+      {
+        "rank": "Тир II · Ветеран",
+        "key": "",
+        "description": "Весь комплект можно носить с ранга: Ветеран. Ранг каждой вещи — в подсказке её слота.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет Red Death — Защита: 14%. Защита от радиации: 4.9. Вместимость: 90 слотов. Крепления: Магазин ×5. Ранг: Ветеран.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка Red Death — Защита: 14%. Защита от радиации: 8.1. Вместимость: 180 слотов. Слот под броневставку. Активные артефакты: 7. Ранг: Ветеран.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 0,
+            "description": "",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны Red Death — Защита: 26%. Защита от радиации: 4.9. Вместимость: 180 слотов. Ранг: Ветеран.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Рюкзак Red Death — Защита от радиации: 0. Вместимость: 330 слотов. Крепления: Руки ×2, Оружие ×2. Ранг: Ветеран.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 0,
+            "description": "",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз Red Death — Защита: 14%. Защита от радиации: 6.5. Вместимость: 0 слотов. Ранг: Ветеран.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки Red Death — Защита: 26%. Защита от радиации: 2.4. Вместимость: 0 слотов. Ранг: Ветеран.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки Red Death — Защита: 26%. Защита от радиации: 2.4. Вместимость: 0 слотов. Ранг: Ветеран.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Тир брони": "II",
+          "Защита торса": "26%",
+          "Защита головы": "14%",
+          "Защита ног": "26%",
+          "Защита от радиации": 29.2,
+          "Слоты артефактов": 7,
+          "Вместимость": 780
+        },
+        "images": [
+          "images/gear/science/Red/Red_1.png"
+        ]
+      },
+      {
+        "rank": "Тир III · Легенда Зоны III",
+        "key": "Leg3",
+        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет Red Death — Защита: 23%. Защита от радиации: 11.3. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка Red Death — Защита: 23%. Защита от радиации: 18.9. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 0,
+            "description": "",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны Red Death — Защита: 41%. Защита от радиации: 11.3. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Рюкзак Red Death — Защита от радиации: 0. Вместимость: 330 слотов. Крепления: Руки ×2, Оружие ×6. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 0,
+            "description": "",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз Red Death — Защита: 23%. Защита от радиации: 15.1. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки Red Death — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки Red Death — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Тир брони": "III",
+          "Защита торса": "41%",
+          "Защита головы": "23%",
+          "Защита ног": "41%",
+          "Защита от радиации": 68,
+          "Слоты артефактов": 9,
+          "Вместимость": 880
+        },
+        "images": [
+          "images/gear/science/Red/Red_1.png"
+        ]
+      }
+    ],
+    "tiers": [
+      2,
+      3
+    ]
+  },
+  {
     "name": "Рекрут",
     "variants": [
       {
@@ -8107,6 +8580,105 @@
         ]
       },
       {
+        "rank": "Тир III · Легенда Зоны III",
+        "key": "Leg3",
+        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет 'Сева-1' — Защита: 23%. Защита от радиации: 11.3. Вместимость: 110 слотов. Крепления: Подсумок, Магазин ×8. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка 'Сева-1' — Защита: 23%. Защита от радиации: 18.9. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ремень 'Сева-1' — Защита от радиации: 3.8. Вместимость: 130 слотов. Крепления: Кобура, Ножны, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны 'Сева-1' — Защита: 41%. Защита от радиации: 11.3. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Рюкзак 'Сева-1' — Защита от радиации: 0. Вместимость: 390 слотов. Крепления: Ремешок, Руки ×2, Оружие ×6. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Самоспасатель 'Сева-1' — Защита: 23%. Защита от радиации: 7.6. Вместимость: 0 слотов. Крепления: Очки ночн. видения. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 0,
+            "description": "",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки 'Сева-1' — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки 'Сева-1' — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Тир брони": "III",
+          "Защита торса": "43%",
+          "Защита головы": "23%",
+          "Защита ног": "41%",
+          "Защита от радиации": 64.3,
+          "Слоты артефактов": 19,
+          "Вместимость": 1070
+        },
+        "images": [
+          "images/gear/science/KS_seva/KS_seva_1.png",
+          "images/gear/science/KS_seva/KS_seva_2.png",
+          "images/gear/science/KS_seva/KS_seva_3.png",
+          "images/gear/science/KS_seva/KS_seva_4.png",
+          "images/gear/science/KS_seva/KS_seva_5.png",
+          "images/gear/science/KS_seva/KS_seva_6.png",
+          "images/gear/science/KS_seva/KS_seva_7.png",
+          "images/gear/science/KS_seva/KS_seva_8.png",
+          "images/gear/science/KS_seva/KS_seva_9.png",
+          "images/gear/science/KS_seva/KS_seva_10.png",
+          "images/gear/science/KS_seva/KS_seva_11.png"
+        ]
+      },
+      {
         "rank": "Тир IV · Легенда Зоны V (Прокачка Л5)",
         "key": "L5",
         "description": "Весь комплект можно носить с ранга: Легенда Зоны V. Ранг каждой вещи — в подсказке её слота.",
@@ -8190,105 +8762,6 @@
           "Защита от радиации": 94.5,
           "Слоты артефактов": 20,
           "Вместимость": 980
-        },
-        "images": [
-          "images/gear/science/KS_seva/KS_seva_1.png",
-          "images/gear/science/KS_seva/KS_seva_2.png",
-          "images/gear/science/KS_seva/KS_seva_3.png",
-          "images/gear/science/KS_seva/KS_seva_4.png",
-          "images/gear/science/KS_seva/KS_seva_5.png",
-          "images/gear/science/KS_seva/KS_seva_6.png",
-          "images/gear/science/KS_seva/KS_seva_7.png",
-          "images/gear/science/KS_seva/KS_seva_8.png",
-          "images/gear/science/KS_seva/KS_seva_9.png",
-          "images/gear/science/KS_seva/KS_seva_10.png",
-          "images/gear/science/KS_seva/KS_seva_11.png"
-        ]
-      },
-      {
-        "rank": "Тир IV · Легенда Зоны III",
-        "key": "Leg3",
-        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
-        "slots": [
-          {
-            "vest": 1,
-            "description": "Бронежилет 'Сева-1' — Защита: 33%. Защита от радиации: 22.5. Вместимость: 110 слотов. Крепления: Подсумок, Магазин ×8. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Vest.png"
-            ]
-          },
-          {
-            "jacket": 1,
-            "description": "Куртка 'Сева-1' — Защита: 33%. Защита от радиации: 37.5. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Jacket.png"
-            ]
-          },
-          {
-            "belt": 1,
-            "description": "Ремень 'Сева-1' — Защита от радиации: 8.6. Вместимость: 130 слотов. Крепления: Кобура, Ножны, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Belt.png"
-            ]
-          },
-          {
-            "pants": 1,
-            "description": "Штаны 'Сева-1' — Защита: 55%. Защита от радиации: 22.5. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Pants.png"
-            ]
-          },
-          {
-            "backpack": 1,
-            "description": "Рюкзак 'Сева-1' — Защита от радиации: 0. Вместимость: 390 слотов. Крепления: Ремешок, Руки ×2, Оружие ×6. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Backpack.png"
-            ]
-          },
-          {
-            "helmet": 1,
-            "description": "Самоспасатель 'Сева-1' — Защита: 33%. Защита от радиации: 15. Вместимость: 0 слотов. Крепления: Очки ночн. видения. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Helmet.png"
-            ]
-          },
-          {
-            "mask": 0,
-            "description": "",
-            "images": [
-              "images/slots/Mask.png"
-            ]
-          },
-          {
-            "glasses": 0,
-            "description": "",
-            "images": [
-              "images/slots/Glasses.png"
-            ]
-          },
-          {
-            "gloves": 1,
-            "description": "Перчатки 'Сева-1' — Защита: 55%. Защита от радиации: 11.2. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Gloves.png"
-            ]
-          },
-          {
-            "boots": 1,
-            "description": "Ботинки 'Сева-1' — Защита: 55%. Защита от радиации: 11.2. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Boots.png"
-            ]
-          }
-        ],
-        "stats": {
-          "Тир брони": "IV",
-          "Защита торса": "56%",
-          "Защита головы": "33%",
-          "Защита ног": "55%",
-          "Защита от радиации": 128.5,
-          "Слоты артефактов": 19,
-          "Вместимость": 1070
         },
         "images": [
           "images/gear/science/KS_seva/KS_seva_1.png",
@@ -8406,6 +8879,7 @@
     ],
     "tiers": [
       2,
+      3,
       4,
       6
     ]
@@ -8506,6 +8980,98 @@
         ]
       },
       {
+        "rank": "Тир III · Легенда Зоны III",
+        "key": "Leg3",
+        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет — Защита: 23%. Защита от радиации: 11.3. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка — Защита: 23%. Защита от радиации: 18.9. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ремень — Защита от радиации: 3.8. Вместимость: 130 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны — Защита: 41%. Защита от радиации: 11.3. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Рюкзак — Защита от радиации: 0. Вместимость: 390 слотов. Крепления: Ремешок ×2, Руки ×2, Оружие ×6. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Балаклава — Защита: 23%. Защита от радиации: 7.6. Вместимость: 0 слотов. Крепления: Очки ночн. видения, Фонарик. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 0,
+            "description": "",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Тир брони": "III",
+          "Защита торса": "43%",
+          "Защита головы": "23%",
+          "Защита ног": "41%",
+          "Защита от радиации": 64.3,
+          "Слоты артефактов": 19,
+          "Вместимость": 1070
+        },
+        "images": [
+          "images/gear/combat/Sin/Sin_1.png",
+          "images/gear/combat/Sin/Sin_2.png",
+          "images/gear/combat/Sin/Sin_3.png",
+          "images/gear/combat/Sin/Sin_4.png"
+        ]
+      },
+      {
         "rank": "Тир IV · Легенда Зоны V (Прокачка Л5)",
         "key": "L5",
         "description": "Весь комплект можно носить с ранга: Легенда Зоны V. Ранг каждой вещи — в подсказке её слота.",
@@ -8589,98 +9155,6 @@
           "Защита от радиации": 94.5,
           "Слоты артефактов": 20,
           "Вместимость": 980
-        },
-        "images": [
-          "images/gear/combat/Sin/Sin_1.png",
-          "images/gear/combat/Sin/Sin_2.png",
-          "images/gear/combat/Sin/Sin_3.png",
-          "images/gear/combat/Sin/Sin_4.png"
-        ]
-      },
-      {
-        "rank": "Тир IV · Легенда Зоны III",
-        "key": "Leg3",
-        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
-        "slots": [
-          {
-            "vest": 1,
-            "description": "Бронежилет — Защита: 33%. Защита от радиации: 22.5. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Vest.png"
-            ]
-          },
-          {
-            "jacket": 1,
-            "description": "Куртка — Защита: 33%. Защита от радиации: 37.5. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Jacket.png"
-            ]
-          },
-          {
-            "belt": 1,
-            "description": "Ремень — Защита от радиации: 4.4. Вместимость: 130 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Belt.png"
-            ]
-          },
-          {
-            "pants": 1,
-            "description": "Штаны — Защита: 55%. Защита от радиации: 22.5. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Pants.png"
-            ]
-          },
-          {
-            "backpack": 1,
-            "description": "Рюкзак — Защита от радиации: 0. Вместимость: 390 слотов. Крепления: Ремешок ×2, Руки ×2, Оружие ×6. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Backpack.png"
-            ]
-          },
-          {
-            "helmet": 1,
-            "description": "Балаклава — Защита: 33%. Защита от радиации: 15. Вместимость: 0 слотов. Крепления: Очки ночн. видения, Фонарик. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Helmet.png"
-            ]
-          },
-          {
-            "mask": 0,
-            "description": "",
-            "images": [
-              "images/slots/Mask.png"
-            ]
-          },
-          {
-            "glasses": 0,
-            "description": "",
-            "images": [
-              "images/slots/Glasses.png"
-            ]
-          },
-          {
-            "gloves": 1,
-            "description": "Перчатки — Защита: 55%. Защита от радиации: 11.3. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Gloves.png"
-            ]
-          },
-          {
-            "boots": 1,
-            "description": "Ботинки — Защита: 55%. Защита от радиации: 11.3. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Boots.png"
-            ]
-          }
-        ],
-        "stats": {
-          "Тир брони": "IV",
-          "Защита торса": "56%",
-          "Защита головы": "33%",
-          "Защита ног": "55%",
-          "Защита от радиации": 124.5,
-          "Слоты артефактов": 19,
-          "Вместимость": 1070
         },
         "images": [
           "images/gear/combat/Sin/Sin_1.png",
@@ -8784,6 +9258,7 @@
     ],
     "tiers": [
       2,
+      3,
       4,
       6
     ]
@@ -8891,6 +9366,105 @@
         ]
       },
       {
+        "rank": "Тир III · Легенда Зоны III",
+        "key": "Leg3",
+        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет от 'Скат-9м' — Защита: 23%. Защита от радиации: 11.3. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка от 'Скат-9м' — Защита: 23%. Защита от радиации: 18.9. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ремень от 'Скат-9м' — Защита от радиации: 3.8. Вместимость: 130 слотов. Крепления: Кобура ×2, Ножны ×2, Подсумок, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны от 'Скат-9м' — Защита: 41%. Защита от радиации: 11.3. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Рюкзак от 'Скат-9м — Защита от радиации: 0. Вместимость: 390 слотов. Крепления: Ремешок ×2, Фляжка, Руки ×2, Оружие ×6. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Шлем от 'Скат-9м' — Защита: 23%. Защита от радиации: 7.6. Вместимость: 0 слотов. Крепления: Очки ночн. видения, Фонарик. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз 'Скат-9м' — Защита: 23%. Защита от радиации: 15.1. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки от 'Скат-9м' — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки от 'Скат-9м' — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Тир брони": "III",
+          "Защита торса": "43%",
+          "Защита головы": "41%",
+          "Защита ног": "41%",
+          "Защита от радиации": 79.4,
+          "Слоты артефактов": 19,
+          "Вместимость": 1070
+        },
+        "images": [
+          "images/gear/combat/Skat/Skat_1.png",
+          "images/gear/combat/Skat/Skat_2.png",
+          "images/gear/combat/Skat/Skat_3.png",
+          "images/gear/combat/Skat/Skat_4.png",
+          "images/gear/combat/Skat/Skat_5.png",
+          "images/gear/combat/Skat/Skat_6.png",
+          "images/gear/combat/Skat/Skat_7.png",
+          "images/gear/combat/Skat/Skat_8.png",
+          "images/gear/combat/Skat/Skat_9.png",
+          "images/gear/combat/Skat/Skat_10.png",
+          "images/gear/combat/Skat/Skat_11.png"
+        ]
+      },
+      {
         "rank": "Тир IV · Легенда Зоны V (Прокачка Л5)",
         "key": "L5",
         "description": "Весь комплект можно носить с ранга: Легенда Зоны V. Ранг каждой вещи — в подсказке её слота.",
@@ -8974,105 +9548,6 @@
           "Защита от радиации": 116.7,
           "Слоты артефактов": 20,
           "Вместимость": 980
-        },
-        "images": [
-          "images/gear/combat/Skat/Skat_1.png",
-          "images/gear/combat/Skat/Skat_2.png",
-          "images/gear/combat/Skat/Skat_3.png",
-          "images/gear/combat/Skat/Skat_4.png",
-          "images/gear/combat/Skat/Skat_5.png",
-          "images/gear/combat/Skat/Skat_6.png",
-          "images/gear/combat/Skat/Skat_7.png",
-          "images/gear/combat/Skat/Skat_8.png",
-          "images/gear/combat/Skat/Skat_9.png",
-          "images/gear/combat/Skat/Skat_10.png",
-          "images/gear/combat/Skat/Skat_11.png"
-        ]
-      },
-      {
-        "rank": "Тир IV · Легенда Зоны III",
-        "key": "Leg3",
-        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
-        "slots": [
-          {
-            "vest": 1,
-            "description": "Бронежилет от 'Скат-9м' — Защита: 33%. Защита от радиации: 18. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Vest.png"
-            ]
-          },
-          {
-            "jacket": 1,
-            "description": "Куртка от 'Скат-9м' — Защита: 33%. Защита от радиации: 30. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Jacket.png"
-            ]
-          },
-          {
-            "belt": 1,
-            "description": "Ремень от 'Скат-9м' — Защита от радиации: 4.4. Вместимость: 130 слотов. Крепления: Кобура ×2, Ножны ×2, Подсумок, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Belt.png"
-            ]
-          },
-          {
-            "pants": 1,
-            "description": "Штаны от 'Скат-9м' — Защита: 55%. Защита от радиации: 18. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Pants.png"
-            ]
-          },
-          {
-            "backpack": 1,
-            "description": "Рюкзак от 'Скат-9м — Защита от радиации: 0. Вместимость: 390 слотов. Крепления: Ремешок ×2, Фляжка, Руки ×2, Оружие ×6. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Backpack.png"
-            ]
-          },
-          {
-            "helmet": 1,
-            "description": "Шлем от 'Скат-9м' — Защита: 33%. Защита от радиации: 12. Вместимость: 0 слотов. Крепления: Очки ночн. видения, Фонарик. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Helmet.png"
-            ]
-          },
-          {
-            "mask": 1,
-            "description": "Противогаз 'Скат-9м' — Защита: 33%. Защита от радиации: 24. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Mask.png"
-            ]
-          },
-          {
-            "glasses": 0,
-            "description": "",
-            "images": [
-              "images/slots/Glasses.png"
-            ]
-          },
-          {
-            "gloves": 1,
-            "description": "Перчатки от 'Скат-9м' — Защита: 55%. Защита от радиации: 9. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Gloves.png"
-            ]
-          },
-          {
-            "boots": 1,
-            "description": "Ботинки от 'Скат-9м' — Защита: 55%. Защита от радиации: 9. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Boots.png"
-            ]
-          }
-        ],
-        "stats": {
-          "Тир брони": "IV",
-          "Защита торса": "56%",
-          "Защита головы": "55%",
-          "Защита ног": "55%",
-          "Защита от радиации": 124.4,
-          "Слоты артефактов": 19,
-          "Вместимость": 1070
         },
         "images": [
           "images/gear/combat/Skat/Skat_1.png",
@@ -9190,934 +9665,43 @@
     ],
     "tiers": [
       2,
+      3,
       4,
       6
-    ]
-  },
-  {
-    "name": "ЭОО",
-    "variants": [
-      {
-        "rank": "Тир II · Легенда Зоны I",
-        "key": "",
-        "description": "Весь комплект можно носить с ранга: Легенда Зоны I. Ранг каждой вещи — в подсказке её слота.",
-        "slots": [
-          {
-            "vest": 1,
-            "description": "Разгрузка ЭОО — Защита: 16%. Защита от радиации: 6. Вместимость: 70 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны I.",
-            "images": [
-              "images/slots/Vest.png"
-            ]
-          },
-          {
-            "jacket": 1,
-            "description": "Куртка с Броней ЭОО — Защита: 16%. Защита от радиации: 10. Вместимость: 140 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны I.",
-            "images": [
-              "images/slots/Jacket.png"
-            ]
-          },
-          {
-            "belt": 1,
-            "description": "Ремень ЭОО — Защита от радиации: 2. Вместимость: 90 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны I.",
-            "images": [
-              "images/slots/Belt.png"
-            ]
-          },
-          {
-            "pants": 1,
-            "description": "Штаны с Броней ЭОО — Защита: 30%. Защита от радиации: 6. Вместимость: 140 слотов. Ранг: Легенда Зоны I.",
-            "images": [
-              "images/slots/Pants.png"
-            ]
-          },
-          {
-            "backpack": 0,
-            "description": "",
-            "images": [
-              "images/slots/Backpack.png"
-            ]
-          },
-          {
-            "helmet": 1,
-            "description": "Шлем ЭОО(ПНВ) — Защита: 16%. Защита от радиации: 4. Вместимость: 0 слотов. Крепления: Очки ночн. видения, Фонарик. Ранг: Легенда Зоны I.",
-            "images": [
-              "images/slots/Helmet.png"
-            ]
-          },
-          {
-            "mask": 1,
-            "description": "Противогаз ЭОО — Защита: 16%. Защита от радиации: 8. Вместимость: 0 слотов. Ранг: Легенда Зоны I.",
-            "images": [
-              "images/slots/Mask.png"
-            ]
-          },
-          {
-            "glasses": 0,
-            "description": "",
-            "images": [
-              "images/slots/Glasses.png"
-            ]
-          },
-          {
-            "gloves": 1,
-            "description": "Перчатки ЭОО — Защита: 30%. Защита от радиации: 3. Вместимость: 0 слотов. Ранг: Легенда Зоны I.",
-            "images": [
-              "images/slots/Gloves.png"
-            ]
-          },
-          {
-            "boots": 1,
-            "description": "Ботинки ЭОО — Защита: 30%. Защита от радиации: 3. Вместимость: 0 слотов. Ранг: Легенда Зоны I.",
-            "images": [
-              "images/slots/Boots.png"
-            ]
-          }
-        ],
-        "stats": {
-          "Тир брони": "II",
-          "Защита торса": "31%",
-          "Защита головы": "30%",
-          "Защита ног": "30%",
-          "Защита от радиации": 42,
-          "Слоты артефактов": 19,
-          "Вместимость": 440
-        },
-        "images": [
-          "images/gear/combat/Armor16/Armor16_1.png",
-          "images/gear/combat/Armor16/Armor16_2.png",
-          "images/gear/combat/Armor16/Armor16_3.png",
-          "images/gear/combat/Armor16/Armor16_4.png",
-          "images/gear/combat/Armor16/Armor16_5.png",
-          "images/gear/combat/Armor16/Armor16_6.png",
-          "images/gear/combat/Armor16/Armor16_7.png",
-          "images/gear/combat/Armor16/Armor16_8.png",
-          "images/gear/combat/Armor16/Armor16_9.png",
-          "images/gear/combat/Armor16/Armor16_10.png",
-          "images/gear/combat/Armor16/Armor16_11.png",
-          "images/gear/combat/Armor16/Armor16_12.png",
-          "images/gear/combat/Armor16/Armor16_13.png",
-          "images/gear/combat/Armor16/Armor16_14.png",
-          "images/gear/combat/Armor16/Armor16_15.png"
-        ]
-      },
-      {
-        "rank": "Тир IV · Легенда Зоны V (Прокачка Л5)",
-        "key": "L5",
-        "description": "Весь комплект можно носить с ранга: Легенда Зоны V. Ранг каждой вещи — в подсказке её слота.",
-        "slots": [
-          {
-            "vest": 1,
-            "description": "Разгрузка ЭОО [Л5] — Защита: 30%. Защита от радиации: 16.7. Вместимость: 110 слотов. Крепления: Магазин ×5. Ранг: Легенда Зоны V.",
-            "images": [
-              "images/slots/Vest.png"
-            ]
-          },
-          {
-            "jacket": 1,
-            "description": "Куртка с Броней ЭОО [Л5] — Защита: 30%. Защита от радиации: 27.8. Вместимость: 200 слотов. Слот под броневставку. Активные артефакты: 10. Ранг: Легенда Зоны V.",
-            "images": [
-              "images/slots/Jacket.png"
-            ]
-          },
-          {
-            "belt": 1,
-            "description": "Ремень ЭОО [Л5] — Защита от радиации: 5.6. Вместимость: 110 слотов. Крепления: Фляжка, Кобура, Ножны. Активные артефакты: 10. Ранг: Легенда Зоны V.",
-            "images": [
-              "images/slots/Belt.png"
-            ]
-          },
-          {
-            "pants": 1,
-            "description": "Штаны с Броней ЭОО [Л5] — Защита: 51%. Защита от радиации: 16.7. Вместимость: 200 слотов. Ранг: Легенда Зоны V.",
-            "images": [
-              "images/slots/Pants.png"
-            ]
-          },
-          {
-            "backpack": 0,
-            "description": "",
-            "images": [
-              "images/slots/Backpack.png"
-            ]
-          },
-          {
-            "helmet": 1,
-            "description": "Шлем ЭОО(ПНВ) [Л5] — Защита: 30%. Защита от радиации: 11.1. Вместимость: 0 слотов. Крепления: Очки ночн. видения, Фонарик. Ранг: Легенда Зоны V.",
-            "images": [
-              "images/slots/Helmet.png"
-            ]
-          },
-          {
-            "mask": 1,
-            "description": "Противогаз ЭОО [Л5] — Защита: 30%. Защита от радиации: 22.2. Вместимость: 0 слотов. Ранг: Легенда Зоны V.",
-            "images": [
-              "images/slots/Mask.png"
-            ]
-          },
-          {
-            "glasses": 0,
-            "description": "",
-            "images": [
-              "images/slots/Glasses.png"
-            ]
-          },
-          {
-            "gloves": 1,
-            "description": "Перчатки ЭОО [Л5] — Защита: 51%. Защита от радиации: 8.3. Вместимость: 0 слотов. Ранг: Легенда Зоны V.",
-            "images": [
-              "images/slots/Gloves.png"
-            ]
-          },
-          {
-            "boots": 1,
-            "description": "Ботинки ЭОО [Л5] — Защита: 51%. Защита от радиации: 8.3. Вместимость: 0 слотов. Ранг: Легенда Зоны V.",
-            "images": [
-              "images/slots/Boots.png"
-            ]
-          }
-        ],
-        "stats": {
-          "Тир брони": "IV",
-          "Защита торса": "52%",
-          "Защита головы": "51%",
-          "Защита ног": "51%",
-          "Защита от радиации": 116.7,
-          "Слоты артефактов": 20,
-          "Вместимость": 620
-        },
-        "images": [
-          "images/gear/combat/Armor16/Armor16_1.png",
-          "images/gear/combat/Armor16/Armor16_2.png",
-          "images/gear/combat/Armor16/Armor16_3.png",
-          "images/gear/combat/Armor16/Armor16_4.png",
-          "images/gear/combat/Armor16/Armor16_5.png",
-          "images/gear/combat/Armor16/Armor16_6.png",
-          "images/gear/combat/Armor16/Armor16_7.png",
-          "images/gear/combat/Armor16/Armor16_8.png",
-          "images/gear/combat/Armor16/Armor16_9.png",
-          "images/gear/combat/Armor16/Armor16_10.png",
-          "images/gear/combat/Armor16/Armor16_11.png",
-          "images/gear/combat/Armor16/Armor16_12.png",
-          "images/gear/combat/Armor16/Armor16_13.png",
-          "images/gear/combat/Armor16/Armor16_14.png",
-          "images/gear/combat/Armor16/Armor16_15.png"
-        ]
-      },
-      {
-        "rank": "Тир V · Призрак Зоны IV",
-        "key": "Leg10",
-        "description": "Весь комплект можно носить с ранга: Призрак Зоны IV. Ранг каждой вещи — в подсказке её слота.",
-        "slots": [
-          {
-            "vest": 1,
-            "description": "Разгрузка ЭОО — Защита: 41%. Защита от радиации: 30. Вместимость: 130 слотов. Крепления: Магазин ×8. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Vest.png"
-            ]
-          },
-          {
-            "jacket": 1,
-            "description": "Куртка с Броней ЭОО — Защита: 41%. Защита от радиации: 50. Вместимость: 260 слотов. Слот под броневставку. Активные артефакты: 10. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Jacket.png"
-            ]
-          },
-          {
-            "belt": 1,
-            "description": "Ремень ЭОО — Защита от радиации: 5.6. Вместимость: 110 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Belt.png"
-            ]
-          },
-          {
-            "pants": 1,
-            "description": "Штаны с Броней ЭОО — Защита: 65%. Защита от радиации: 30. Вместимость: 260 слотов. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Pants.png"
-            ]
-          },
-          {
-            "backpack": 0,
-            "description": "",
-            "images": [
-              "images/slots/Backpack.png"
-            ]
-          },
-          {
-            "helmet": 1,
-            "description": "Шлем ЭОО(ПНВ) — Защита: 41%. Защита от радиации: 20. Вместимость: 0 слотов. Крепления: Очки ночн. видения. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Helmet.png"
-            ]
-          },
-          {
-            "mask": 1,
-            "description": "Противогаз ЭОО — Защита: 41%. Защита от радиации: 40. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Mask.png"
-            ]
-          },
-          {
-            "glasses": 0,
-            "description": "",
-            "images": [
-              "images/slots/Glasses.png"
-            ]
-          },
-          {
-            "gloves": 1,
-            "description": "Перчатки ЭОО — Защита: 65%. Защита от радиации: 15. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Gloves.png"
-            ]
-          },
-          {
-            "boots": 1,
-            "description": "Ботинки ЭОО — Защита: 65%. Защита от радиации: 15. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
-            "images": [
-              "images/slots/Boots.png"
-            ]
-          }
-        ],
-        "stats": {
-          "Тир брони": "V",
-          "Защита торса": "66%",
-          "Защита головы": "65%",
-          "Защита ног": "65%",
-          "Защита от радиации": 205.6,
-          "Слоты артефактов": 20,
-          "Вместимость": 760
-        },
-        "images": [
-          "images/gear/combat/Armor16/Armor16_1.png",
-          "images/gear/combat/Armor16/Armor16_2.png",
-          "images/gear/combat/Armor16/Armor16_3.png",
-          "images/gear/combat/Armor16/Armor16_4.png",
-          "images/gear/combat/Armor16/Armor16_5.png",
-          "images/gear/combat/Armor16/Armor16_6.png",
-          "images/gear/combat/Armor16/Armor16_7.png",
-          "images/gear/combat/Armor16/Armor16_8.png",
-          "images/gear/combat/Armor16/Armor16_9.png",
-          "images/gear/combat/Armor16/Armor16_10.png",
-          "images/gear/combat/Armor16/Armor16_11.png",
-          "images/gear/combat/Armor16/Armor16_12.png",
-          "images/gear/combat/Armor16/Armor16_13.png",
-          "images/gear/combat/Armor16/Armor16_14.png",
-          "images/gear/combat/Armor16/Armor16_15.png"
-        ]
-      },
-      {
-        "rank": "Тир VI · Легенда Зоны X (Прокачка Л10)",
-        "key": "L10",
-        "description": "Весь комплект можно носить с ранга: Легенда Зоны X. Ранг каждой вещи — в подсказке её слота.",
-        "slots": [
-          {
-            "vest": 1,
-            "description": "Разгрузка ЭОО [Л10] — Защита: 44%. Защита от радиации: 30. Вместимость: 150 слотов. Крепления: Магазин ×7. Ранг: Легенда Зоны X.",
-            "images": [
-              "images/slots/Vest.png"
-            ]
-          },
-          {
-            "jacket": 1,
-            "description": "Куртка с Броней ЭОО [Л10] — Защита: 44%. Защита от радиации: 50. Вместимость: 280 слотов. Слот под броневставку. Активные артефакты: 10. Ранг: Легенда Зоны X.",
-            "images": [
-              "images/slots/Jacket.png"
-            ]
-          },
-          {
-            "belt": 1,
-            "description": "Ремень ЭОО [Л10] — Защита от радиации: 10. Вместимость: 150 слотов. Крепления: Фляжка, Кобура, Ножны. Активные артефакты: 10. Ранг: Легенда Зоны X.",
-            "images": [
-              "images/slots/Belt.png"
-            ]
-          },
-          {
-            "pants": 1,
-            "description": "Штаны с Броней ЭОО [Л10] — Защита: 68%. Защита от радиации: 30. Вместимость: 280 слотов. Ранг: Легенда Зоны X.",
-            "images": [
-              "images/slots/Pants.png"
-            ]
-          },
-          {
-            "backpack": 0,
-            "description": "",
-            "images": [
-              "images/slots/Backpack.png"
-            ]
-          },
-          {
-            "helmet": 1,
-            "description": "Шлем ЭОО(ПНВ) [Л10] — Защита: 44%. Защита от радиации: 20. Вместимость: 0 слотов. Крепления: Очки ночн. видения, Фонарик. Ранг: Легенда Зоны X.",
-            "images": [
-              "images/slots/Helmet.png"
-            ]
-          },
-          {
-            "mask": 1,
-            "description": "Противогаз ЭОО [Л10] — Защита: 44%. Защита от радиации: 40. Вместимость: 0 слотов. Ранг: Легенда Зоны X.",
-            "images": [
-              "images/slots/Mask.png"
-            ]
-          },
-          {
-            "glasses": 0,
-            "description": "",
-            "images": [
-              "images/slots/Glasses.png"
-            ]
-          },
-          {
-            "gloves": 1,
-            "description": "Перчатки ЭОО [Л10] — Защита: 68%. Защита от радиации: 15. Вместимость: 0 слотов. Ранг: Легенда Зоны X.",
-            "images": [
-              "images/slots/Gloves.png"
-            ]
-          },
-          {
-            "boots": 1,
-            "description": "Ботинки ЭОО [Л10] — Защита: 68%. Защита от радиации: 15. Вместимость: 0 слотов. Ранг: Легенда Зоны X.",
-            "images": [
-              "images/slots/Boots.png"
-            ]
-          }
-        ],
-        "stats": {
-          "Тир брони": "VI",
-          "Защита торса": "70%",
-          "Защита головы": "69%",
-          "Защита ног": "68%",
-          "Защита от радиации": 210,
-          "Слоты артефактов": 20,
-          "Вместимость": 860
-        },
-        "images": [
-          "images/gear/combat/Armor16/Armor16_1.png",
-          "images/gear/combat/Armor16/Armor16_2.png",
-          "images/gear/combat/Armor16/Armor16_3.png",
-          "images/gear/combat/Armor16/Armor16_4.png",
-          "images/gear/combat/Armor16/Armor16_5.png",
-          "images/gear/combat/Armor16/Armor16_6.png",
-          "images/gear/combat/Armor16/Armor16_7.png",
-          "images/gear/combat/Armor16/Armor16_8.png",
-          "images/gear/combat/Armor16/Armor16_9.png",
-          "images/gear/combat/Armor16/Armor16_10.png",
-          "images/gear/combat/Armor16/Armor16_11.png",
-          "images/gear/combat/Armor16/Armor16_12.png",
-          "images/gear/combat/Armor16/Armor16_13.png",
-          "images/gear/combat/Armor16/Armor16_14.png",
-          "images/gear/combat/Armor16/Armor16_15.png"
-        ]
-      }
-    ],
-    "tiers": [
-      2,
-      4,
-      5,
-      6
-    ]
-  },
-  {
-    "name": "Биохазард",
-    "variants": [
-      {
-        "rank": "Тир III · Ветеран",
-        "key": "",
-        "description": "Весь комплект можно носить с ранга: Ветеран. Ранг каждой вещи — в подсказке её слота.",
-        "slots": [
-          {
-            "vest": 1,
-            "description": "Бронежилет Biohazard — Защита: 26%. Защита от радиации: 10.5. Вместимость: 90 слотов. Крепления: Магазин ×5. Ранг: Ветеран.",
-            "images": [
-              "images/slots/Vest.png"
-            ]
-          },
-          {
-            "jacket": 1,
-            "description": "Куртка Biohazard — Защита: 26%. Защита от радиации: 17.5. Вместимость: 180 слотов. Слот под броневставку. Активные артефакты: 7. Ранг: Ветеран.",
-            "images": [
-              "images/slots/Jacket.png"
-            ]
-          },
-          {
-            "belt": 1,
-            "description": "Ременная система Biohazard — Защита от радиации: 5.7. Вместимость: 110 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Ветеран.",
-            "images": [
-              "images/slots/Belt.png"
-            ]
-          },
-          {
-            "pants": 1,
-            "description": "Штаны Biohazard — Защита: 45%. Защита от радиации: 10.5. Вместимость: 180 слотов. Ранг: Ветеран.",
-            "images": [
-              "images/slots/Pants.png"
-            ]
-          },
-          {
-            "backpack": 1,
-            "description": "Ранцевый баллон Biohazard — Защита от радиации: 0. Вместимость: 330 слотов. Крепления: Руки ×2, Оружие ×2. Ранг: Ветеран.",
-            "images": [
-              "images/slots/Backpack.png"
-            ]
-          },
-          {
-            "helmet": 1,
-            "description": "Капюшон Biohazard — Защита: 26%. Защита от радиации: 7. Вместимость: 0 слотов. Ранг: Ветеран.",
-            "images": [
-              "images/slots/Helmet.png"
-            ]
-          },
-          {
-            "mask": 1,
-            "description": "Противогаз Biohazard — Защита: 26%. Защита от радиации: 14. Вместимость: 0 слотов. Ранг: Ветеран.",
-            "images": [
-              "images/slots/Mask.png"
-            ]
-          },
-          {
-            "glasses": 0,
-            "description": "",
-            "images": [
-              "images/slots/Glasses.png"
-            ]
-          },
-          {
-            "gloves": 1,
-            "description": "Biohazard gloves — Защита: 45%. Защита от радиации: 5.3. Вместимость: 0 слотов. Ранг: Ветеран.",
-            "images": [
-              "images/slots/Gloves.png"
-            ]
-          },
-          {
-            "boots": 1,
-            "description": "Ботинки Biohazard — Защита: 45%. Защита от радиации: 5.3. Вместимость: 0 слотов. Ранг: Ветеран.",
-            "images": [
-              "images/slots/Boots.png"
-            ]
-          }
-        ],
-        "stats": {
-          "Тир брони": "III",
-          "Защита торса": "46%",
-          "Защита головы": "45%",
-          "Защита ног": "45%",
-          "Защита от радиации": 75.8,
-          "Слоты артефактов": 17,
-          "Вместимость": 890
-        },
-        "images": [
-          "images/gear/science/Biohazard/Biohazard_1.png",
-          "images/gear/science/Biohazard/Biohazard_2.png",
-          "images/gear/science/Biohazard/Biohazard_3.png"
-        ]
-      },
-      {
-        "rank": "Тир IV · Легенда Зоны III (Легенда III)",
-        "key": "Leg3",
-        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
-        "slots": [
-          {
-            "vest": 1,
-            "description": "Бронежилет Biohazard — Защита: 33%. Защита от радиации: 18. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Vest.png"
-            ]
-          },
-          {
-            "jacket": 1,
-            "description": "Куртка Biohazard — Защита: 33%. Защита от радиации: 30. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Jacket.png"
-            ]
-          },
-          {
-            "belt": 1,
-            "description": "Ременная система Biohazard — Защита от радиации: 8. Вместимость: 110 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Belt.png"
-            ]
-          },
-          {
-            "pants": 1,
-            "description": "Штаны Biohazard — Защита: 55%. Защита от радиации: 18. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Pants.png"
-            ]
-          },
-          {
-            "backpack": 1,
-            "description": "Ранцевый баллон Biohazard — Защита от радиации: 0. Вместимость: 330 слотов. Крепления: Руки ×2, Оружие ×6. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Backpack.png"
-            ]
-          },
-          {
-            "helmet": 1,
-            "description": "Капюшон Biohazard — Защита: 33%. Защита от радиации: 12. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Helmet.png"
-            ]
-          },
-          {
-            "mask": 1,
-            "description": "Противогаз Biohazard — Защита: 33%. Защита от радиации: 24. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Mask.png"
-            ]
-          },
-          {
-            "glasses": 0,
-            "description": "",
-            "images": [
-              "images/slots/Glasses.png"
-            ]
-          },
-          {
-            "gloves": 1,
-            "description": "Biohazard gloves — Защита: 55%. Защита от радиации: 9. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Gloves.png"
-            ]
-          },
-          {
-            "boots": 1,
-            "description": "Ботинки Biohazard — Защита: 55%. Защита от радиации: 9. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Boots.png"
-            ]
-          }
-        ],
-        "stats": {
-          "Тир брони": "IV",
-          "Защита торса": "56%",
-          "Защита головы": "55%",
-          "Защита ног": "55%",
-          "Защита от радиации": 128,
-          "Слоты артефактов": 19,
-          "Вместимость": 990
-        },
-        "images": [
-          "images/gear/science/Biohazard/Biohazard_1.png",
-          "images/gear/science/Biohazard/Biohazard_2.png",
-          "images/gear/science/Biohazard/Biohazard_3.png"
-        ]
-      },
-      {
-        "rank": "Тир IV · Легенда Зоны III (Легенда X)",
-        "key": "Leg10",
-        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
-        "slots": [
-          {
-            "vest": 1,
-            "description": "Бронежилет Biohazard — Защита: 33%. Защита от радиации: 18. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Vest.png"
-            ]
-          },
-          {
-            "jacket": 1,
-            "description": "Куртка Biohazard — Защита: 33%. Защита от радиации: 30. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 10. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Jacket.png"
-            ]
-          },
-          {
-            "belt": 1,
-            "description": "Ременная система Biohazard — Защита от радиации: 11.5. Вместимость: 110 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Belt.png"
-            ]
-          },
-          {
-            "pants": 1,
-            "description": "Штаны Biohazard — Защита: 55%. Защита от радиации: 18. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Pants.png"
-            ]
-          },
-          {
-            "backpack": 1,
-            "description": "Ранцевый баллон Biohazard — Защита от радиации: 0. Вместимость: 330 слотов. Крепления: Руки ×2, Оружие ×6. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Backpack.png"
-            ]
-          },
-          {
-            "helmet": 1,
-            "description": "Капюшон Biohazard — Защита: 33%. Защита от радиации: 12. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Helmet.png"
-            ]
-          },
-          {
-            "mask": 1,
-            "description": "Противогаз Biohazard — Защита: 33%. Защита от радиации: 24. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Mask.png"
-            ]
-          },
-          {
-            "glasses": 0,
-            "description": "",
-            "images": [
-              "images/slots/Glasses.png"
-            ]
-          },
-          {
-            "gloves": 1,
-            "description": "Biohazard gloves — Защита: 55%. Защита от радиации: 9. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Gloves.png"
-            ]
-          },
-          {
-            "boots": 1,
-            "description": "Ботинки Biohazard — Защита: 55%. Защита от радиации: 9. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Boots.png"
-            ]
-          }
-        ],
-        "stats": {
-          "Тир брони": "IV",
-          "Защита торса": "56%",
-          "Защита головы": "55%",
-          "Защита ног": "55%",
-          "Защита от радиации": 131.5,
-          "Слоты артефактов": 20,
-          "Вместимость": 990
-        },
-        "images": [
-          "images/gear/science/Biohazard/Biohazard_1.png",
-          "images/gear/science/Biohazard/Biohazard_2.png",
-          "images/gear/science/Biohazard/Biohazard_3.png"
-        ]
-      }
-    ],
-    "tiers": [
-      3,
-      4
-    ]
-  },
-  {
-    "name": "Ред Деад",
-    "variants": [
-      {
-        "rank": "Тир III · Ветеран",
-        "key": "",
-        "description": "Весь комплект можно носить с ранга: Ветеран. Ранг каждой вещи — в подсказке её слота.",
-        "slots": [
-          {
-            "vest": 1,
-            "description": "Бронежилет Red Death — Защита: 26%. Защита от радиации: 11.7. Вместимость: 90 слотов. Крепления: Магазин ×5. Ранг: Ветеран.",
-            "images": [
-              "images/slots/Vest.png"
-            ]
-          },
-          {
-            "jacket": 1,
-            "description": "Куртка Red Death — Защита: 26%. Защита от радиации: 19.4. Вместимость: 180 слотов. Слот под броневставку. Активные артефакты: 7. Ранг: Ветеран.",
-            "images": [
-              "images/slots/Jacket.png"
-            ]
-          },
-          {
-            "belt": 0,
-            "description": "",
-            "images": [
-              "images/slots/Belt.png"
-            ]
-          },
-          {
-            "pants": 1,
-            "description": "Штаны Red Death — Защита: 45%. Защита от радиации: 11.7. Вместимость: 180 слотов. Ранг: Ветеран.",
-            "images": [
-              "images/slots/Pants.png"
-            ]
-          },
-          {
-            "backpack": 1,
-            "description": "Рюкзак Red Death — Защита от радиации: 0. Вместимость: 330 слотов. Крепления: Руки ×2, Оружие ×2. Ранг: Ветеран.",
-            "images": [
-              "images/slots/Backpack.png"
-            ]
-          },
-          {
-            "helmet": 0,
-            "description": "",
-            "images": [
-              "images/slots/Helmet.png"
-            ]
-          },
-          {
-            "mask": 1,
-            "description": "Противогаз Red Death — Защита: 26%. Защита от радиации: 15.6. Вместимость: 0 слотов. Ранг: Ветеран.",
-            "images": [
-              "images/slots/Mask.png"
-            ]
-          },
-          {
-            "glasses": 0,
-            "description": "",
-            "images": [
-              "images/slots/Glasses.png"
-            ]
-          },
-          {
-            "gloves": 1,
-            "description": "Перчатки Red Death — Защита: 45%. Защита от радиации: 5.8. Вместимость: 0 слотов. Ранг: Ветеран.",
-            "images": [
-              "images/slots/Gloves.png"
-            ]
-          },
-          {
-            "boots": 1,
-            "description": "Ботинки Red Death — Защита: 45%. Защита от радиации: 5.8. Вместимость: 0 слотов. Ранг: Ветеран.",
-            "images": [
-              "images/slots/Boots.png"
-            ]
-          }
-        ],
-        "stats": {
-          "Тир брони": "III",
-          "Защита торса": "45%",
-          "Защита головы": "26%",
-          "Защита ног": "45%",
-          "Защита от радиации": 70,
-          "Слоты артефактов": 7,
-          "Вместимость": 780
-        },
-        "images": [
-          "images/gear/science/Red/Red_1.png"
-        ]
-      },
-      {
-        "rank": "Тир IV · Легенда Зоны III",
-        "key": "Leg3",
-        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
-        "slots": [
-          {
-            "vest": 1,
-            "description": "Бронежилет Red Death — Защита: 33%. Защита от радиации: 20. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Vest.png"
-            ]
-          },
-          {
-            "jacket": 1,
-            "description": "Куртка Red Death — Защита: 33%. Защита от радиации: 33.3. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Jacket.png"
-            ]
-          },
-          {
-            "belt": 0,
-            "description": "",
-            "images": [
-              "images/slots/Belt.png"
-            ]
-          },
-          {
-            "pants": 1,
-            "description": "Штаны Red Death — Защита: 55%. Защита от радиации: 20. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Pants.png"
-            ]
-          },
-          {
-            "backpack": 1,
-            "description": "Рюкзак Red Death — Защита от радиации: 0. Вместимость: 330 слотов. Крепления: Руки ×2, Оружие ×6. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Backpack.png"
-            ]
-          },
-          {
-            "helmet": 0,
-            "description": "",
-            "images": [
-              "images/slots/Helmet.png"
-            ]
-          },
-          {
-            "mask": 1,
-            "description": "Противогаз Red Death — Защита: 33%. Защита от радиации: 26.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Mask.png"
-            ]
-          },
-          {
-            "glasses": 0,
-            "description": "",
-            "images": [
-              "images/slots/Glasses.png"
-            ]
-          },
-          {
-            "gloves": 1,
-            "description": "Перчатки Red Death — Защита: 55%. Защита от радиации: 10. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Gloves.png"
-            ]
-          },
-          {
-            "boots": 1,
-            "description": "Ботинки Red Death — Защита: 55%. Защита от радиации: 10. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Boots.png"
-            ]
-          }
-        ],
-        "stats": {
-          "Тир брони": "IV",
-          "Защита торса": "55%",
-          "Защита головы": "33%",
-          "Защита ног": "55%",
-          "Защита от радиации": 120,
-          "Слоты артефактов": 9,
-          "Вместимость": 880
-        },
-        "images": [
-          "images/gear/science/Red/Red_1.png"
-        ]
-      }
-    ],
-    "tiers": [
-      3,
-      4
     ]
   },
   {
     "name": "Тайга",
     "variants": [
       {
-        "rank": "Тир III · Ветеран",
+        "rank": "Тир II · Ветеран",
         "key": "",
         "description": "Весь комплект можно носить с ранга: Ветеран. Ранг каждой вещи — в подсказке её слота.",
         "slots": [
           {
             "vest": 1,
-            "description": "Бронежилет Тайги — Защита: 26%. Защита от радиации: 11.7. Вместимость: 90 слотов. Крепления: Магазин ×5. Ранг: Ветеран.",
+            "description": "Бронежилет Тайги — Защита: 14%. Защита от радиации: 4.9. Вместимость: 90 слотов. Крепления: Магазин ×5. Ранг: Ветеран.",
             "images": [
               "images/slots/Vest.png"
             ]
           },
           {
             "jacket": 1,
-            "description": "Куртка Тайги — Защита: 26%. Защита от радиации: 19.4. Вместимость: 180 слотов. Слот под броневставку. Активные артефакты: 7. Ранг: Ветеран.",
+            "description": "Куртка Тайги — Защита: 14%. Защита от радиации: 8.1. Вместимость: 180 слотов. Слот под броневставку. Активные артефакты: 7. Ранг: Ветеран.",
             "images": [
               "images/slots/Jacket.png"
             ]
           },
           {
             "belt": 1,
-            "description": "Ремень Тайги — Защита от радиации: 6.5. Вместимость: 90 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Ветеран.",
+            "description": "Ремень Тайги — Защита от радиации: 1.6. Вместимость: 90 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Ветеран.",
             "images": [
               "images/slots/Belt.png"
             ]
           },
           {
             "pants": 1,
-            "description": "Штаны Тайги — Защита: 45%. Защита от радиации: 11.7. Вместимость: 180 слотов. Ранг: Ветеран.",
+            "description": "Штаны Тайги — Защита: 26%. Защита от радиации: 4.9. Вместимость: 180 слотов. Ранг: Ветеран.",
             "images": [
               "images/slots/Pants.png"
             ]
@@ -10138,7 +9722,7 @@
           },
           {
             "mask": 1,
-            "description": "Противогаз Тайги — Защита: 26%. Защита от радиации: 15.6. Вместимость: 0 слотов. Ранг: Ветеран.",
+            "description": "Противогаз Тайги — Защита: 14%. Защита от радиации: 6.5. Вместимость: 0 слотов. Ранг: Ветеран.",
             "images": [
               "images/slots/Mask.png"
             ]
@@ -10152,14 +9736,113 @@
           },
           {
             "gloves": 1,
-            "description": "Перчатки Тайги — Защита: 45%. Защита от радиации: 5.8. Вместимость: 0 слотов. Ранг: Ветеран.",
+            "description": "Перчатки Тайги — Защита: 26%. Защита от радиации: 2.4. Вместимость: 0 слотов. Ранг: Ветеран.",
             "images": [
               "images/slots/Gloves.png"
             ]
           },
           {
             "boots": 1,
-            "description": "Ботинки Тайги — Защита: 45%. Защита от радиации: 5.8. Вместимость: 0 слотов. Ранг: Ветеран.",
+            "description": "Ботинки Тайги — Защита: 26%. Защита от радиации: 2.4. Вместимость: 0 слотов. Ранг: Ветеран.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Тир брони": "II",
+          "Защита торса": "27%",
+          "Защита головы": "14%",
+          "Защита ног": "26%",
+          "Защита от радиации": 30.8,
+          "Слоты артефактов": 17,
+          "Вместимость": 810
+        },
+        "images": [
+          "images/gear/science/Taiga/Taiga_1.png",
+          "images/gear/science/Taiga/Taiga_2.png",
+          "images/gear/science/Taiga/Taiga_3.png",
+          "images/gear/science/Taiga/Taiga_4.png",
+          "images/gear/science/Taiga/Taiga_5.png",
+          "images/gear/science/Taiga/Taiga_6.png",
+          "images/gear/science/Taiga/Taiga_7.png",
+          "images/gear/science/Taiga/Taiga_8.png",
+          "images/gear/science/Taiga/Taiga_9.png",
+          "images/gear/science/Taiga/Taiga_10.png",
+          "images/gear/science/Taiga/Taiga_11.png"
+        ]
+      },
+      {
+        "rank": "Тир III · Легенда Зоны III",
+        "key": "Leg3",
+        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Бронежилет Тайги — Защита: 23%. Защита от радиации: 11.3. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка Тайги — Защита: 23%. Защита от радиации: 18.9. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ремень Тайги — Защита от радиации: 3.8. Вместимость: 90 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны Тайги — Защита: 41%. Защита от радиации: 11.3. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 1,
+            "description": "Рюкзак Тайги — Защита от радиации: 0. Вместимость: 270 слотов. Крепления: Руки ×2, Оружие ×6. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 0,
+            "description": "",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз Тайги — Защита: 23%. Защита от радиации: 15.1. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки Тайги — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки Тайги — Защита: 41%. Защита от радиации: 5.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
             "images": [
               "images/slots/Boots.png"
             ]
@@ -10167,12 +9850,12 @@
         ],
         "stats": {
           "Тир брони": "III",
-          "Защита торса": "46%",
-          "Защита головы": "26%",
-          "Защита ног": "45%",
-          "Защита от радиации": 76.5,
-          "Слоты артефактов": 17,
-          "Вместимость": 810
+          "Защита торса": "43%",
+          "Защита головы": "23%",
+          "Защита ног": "41%",
+          "Защита от радиации": 71.8,
+          "Слоты артефактов": 19,
+          "Вместимость": 910
         },
         "images": [
           "images/gear/science/Taiga/Taiga_1.png",
@@ -10387,133 +10070,34 @@
         ]
       },
       {
-        "rank": "Тир IV · Легенда Зоны III",
-        "key": "Leg3",
-        "description": "Весь комплект можно носить с ранга: Легенда Зоны III. Ранг каждой вещи — в подсказке её слота.",
-        "slots": [
-          {
-            "vest": 1,
-            "description": "Бронежилет Тайги — Защита: 33%. Защита от радиации: 20. Вместимость: 110 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Vest.png"
-            ]
-          },
-          {
-            "jacket": 1,
-            "description": "Куртка Тайги — Защита: 33%. Защита от радиации: 33.3. Вместимость: 220 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Jacket.png"
-            ]
-          },
-          {
-            "belt": 1,
-            "description": "Ремень Тайги — Защита от радиации: 8.6. Вместимость: 90 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Belt.png"
-            ]
-          },
-          {
-            "pants": 1,
-            "description": "Штаны Тайги — Защита: 55%. Защита от радиации: 20. Вместимость: 220 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Pants.png"
-            ]
-          },
-          {
-            "backpack": 1,
-            "description": "Рюкзак Тайги — Защита от радиации: 0. Вместимость: 270 слотов. Крепления: Руки ×2, Оружие ×6. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Backpack.png"
-            ]
-          },
-          {
-            "helmet": 0,
-            "description": "",
-            "images": [
-              "images/slots/Helmet.png"
-            ]
-          },
-          {
-            "mask": 1,
-            "description": "Противогаз Тайги — Защита: 33%. Защита от радиации: 26.7. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Mask.png"
-            ]
-          },
-          {
-            "glasses": 0,
-            "description": "",
-            "images": [
-              "images/slots/Glasses.png"
-            ]
-          },
-          {
-            "gloves": 1,
-            "description": "Перчатки Тайги — Защита: 55%. Защита от радиации: 10. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Gloves.png"
-            ]
-          },
-          {
-            "boots": 1,
-            "description": "Ботинки Тайги — Защита: 55%. Защита от радиации: 10. Вместимость: 0 слотов. Ранг: Легенда Зоны III.",
-            "images": [
-              "images/slots/Boots.png"
-            ]
-          }
-        ],
-        "stats": {
-          "Тир брони": "IV",
-          "Защита торса": "56%",
-          "Защита головы": "33%",
-          "Защита ног": "55%",
-          "Защита от радиации": 128.6,
-          "Слоты артефактов": 19,
-          "Вместимость": 910
-        },
-        "images": [
-          "images/gear/science/Taiga/Taiga_1.png",
-          "images/gear/science/Taiga/Taiga_2.png",
-          "images/gear/science/Taiga/Taiga_3.png",
-          "images/gear/science/Taiga/Taiga_4.png",
-          "images/gear/science/Taiga/Taiga_5.png",
-          "images/gear/science/Taiga/Taiga_6.png",
-          "images/gear/science/Taiga/Taiga_7.png",
-          "images/gear/science/Taiga/Taiga_8.png",
-          "images/gear/science/Taiga/Taiga_9.png",
-          "images/gear/science/Taiga/Taiga_10.png",
-          "images/gear/science/Taiga/Taiga_11.png"
-        ]
-      },
-      {
-        "rank": "Тир V · Призрак Зоны IV",
+        "rank": "Тир VII · Призрак Зоны IV",
         "key": "Leg10",
         "description": "Весь комплект можно носить с ранга: Призрак Зоны IV. Ранг каждой вещи — в подсказке её слота.",
         "slots": [
           {
             "vest": 1,
-            "description": "Бронежилет Тайги — Защита: 41%. Защита от радиации: 33.3. Вместимость: 130 слотов. Крепления: Магазин ×8. Ранг: Призрак Зоны IV.",
+            "description": "Бронежилет Тайги — Защита: 48%. Защита от радиации: 32.7. Вместимость: 130 слотов. Крепления: Магазин ×8. Ранг: Призрак Зоны IV.",
             "images": [
               "images/slots/Vest.png"
             ]
           },
           {
             "jacket": 1,
-            "description": "Куртка Тайги — Защита: 41%. Защита от радиации: 55.6. Вместимость: 260 слотов. Слот под броневставку. Активные артефакты: 10. Ранг: Призрак Зоны IV.",
+            "description": "Куртка Тайги — Защита: 48%. Защита от радиации: 54.5. Вместимость: 260 слотов. Слот под броневставку. Активные артефакты: 10. Ранг: Призрак Зоны IV.",
             "images": [
               "images/slots/Jacket.png"
             ]
           },
           {
             "belt": 1,
-            "description": "Ремень Тайги — Защита от радиации: 11.5. Вместимость: 90 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Призрак Зоны IV.",
+            "description": "Ремень Тайги — Защита от радиации: 10.9. Вместимость: 90 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Призрак Зоны IV.",
             "images": [
               "images/slots/Belt.png"
             ]
           },
           {
             "pants": 1,
-            "description": "Штаны Тайги — Защита: 65%. Защита от радиации: 33.3. Вместимость: 260 слотов. Ранг: Призрак Зоны IV.",
+            "description": "Штаны Тайги — Защита: 73%. Защита от радиации: 32.7. Вместимость: 260 слотов. Ранг: Призрак Зоны IV.",
             "images": [
               "images/slots/Pants.png"
             ]
@@ -10534,7 +10118,7 @@
           },
           {
             "mask": 1,
-            "description": "Противогаз Тайги — Защита: 41%. Защита от радиации: 44.4. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
+            "description": "Противогаз Тайги — Защита: 48%. Защита от радиации: 43.6. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
             "images": [
               "images/slots/Mask.png"
             ]
@@ -10548,25 +10132,25 @@
           },
           {
             "gloves": 1,
-            "description": "Перчатки Тайги — Защита: 65%. Защита от радиации: 16.7. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
+            "description": "Перчатки Тайги — Защита: 73%. Защита от радиации: 16.3. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
             "images": [
               "images/slots/Gloves.png"
             ]
           },
           {
             "boots": 1,
-            "description": "Ботинки Тайги — Защита: 65%. Защита от радиации: 16.7. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
+            "description": "Ботинки Тайги — Защита: 73%. Защита от радиации: 16.3. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
             "images": [
               "images/slots/Boots.png"
             ]
           }
         ],
         "stats": {
-          "Тир брони": "V",
-          "Защита торса": "66%",
-          "Защита головы": "41%",
-          "Защита ног": "65%",
-          "Защита от радиации": 211.5,
+          "Тир брони": "VII",
+          "Защита торса": "74%",
+          "Защита головы": "48%",
+          "Защита ног": "73%",
+          "Защита от радиации": 207,
           "Слоты артефактов": 20,
           "Вместимость": 1010
         },
@@ -10586,9 +10170,433 @@
       }
     ],
     "tiers": [
+      2,
       3,
       4,
-      5
+      7
+    ]
+  },
+  {
+    "name": "ЭОО",
+    "variants": [
+      {
+        "rank": "Тир II · Легенда Зоны I",
+        "key": "",
+        "description": "Весь комплект можно носить с ранга: Легенда Зоны I. Ранг каждой вещи — в подсказке её слота.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Разгрузка ЭОО — Защита: 16%. Защита от радиации: 6. Вместимость: 70 слотов. Крепления: Магазин ×8. Ранг: Легенда Зоны I.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка с Броней ЭОО — Защита: 16%. Защита от радиации: 10. Вместимость: 140 слотов. Слот под броневставку. Активные артефакты: 9. Ранг: Легенда Зоны I.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ремень ЭОО — Защита от радиации: 2. Вместимость: 90 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Легенда Зоны I.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны с Броней ЭОО — Защита: 30%. Защита от радиации: 6. Вместимость: 140 слотов. Ранг: Легенда Зоны I.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 0,
+            "description": "",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Шлем ЭОО(ПНВ) — Защита: 16%. Защита от радиации: 4. Вместимость: 0 слотов. Крепления: Очки ночн. видения, Фонарик. Ранг: Легенда Зоны I.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз ЭОО — Защита: 16%. Защита от радиации: 8. Вместимость: 0 слотов. Ранг: Легенда Зоны I.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки ЭОО — Защита: 30%. Защита от радиации: 3. Вместимость: 0 слотов. Ранг: Легенда Зоны I.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки ЭОО — Защита: 30%. Защита от радиации: 3. Вместимость: 0 слотов. Ранг: Легенда Зоны I.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Тир брони": "II",
+          "Защита торса": "31%",
+          "Защита головы": "30%",
+          "Защита ног": "30%",
+          "Защита от радиации": 42,
+          "Слоты артефактов": 19,
+          "Вместимость": 440
+        },
+        "images": [
+          "images/gear/combat/Armor16/Armor16_1.png",
+          "images/gear/combat/Armor16/Armor16_2.png",
+          "images/gear/combat/Armor16/Armor16_3.png",
+          "images/gear/combat/Armor16/Armor16_4.png",
+          "images/gear/combat/Armor16/Armor16_5.png",
+          "images/gear/combat/Armor16/Armor16_6.png",
+          "images/gear/combat/Armor16/Armor16_7.png",
+          "images/gear/combat/Armor16/Armor16_8.png",
+          "images/gear/combat/Armor16/Armor16_9.png",
+          "images/gear/combat/Armor16/Armor16_10.png",
+          "images/gear/combat/Armor16/Armor16_11.png",
+          "images/gear/combat/Armor16/Armor16_12.png",
+          "images/gear/combat/Armor16/Armor16_13.png",
+          "images/gear/combat/Armor16/Armor16_14.png",
+          "images/gear/combat/Armor16/Armor16_15.png"
+        ]
+      },
+      {
+        "rank": "Тир IV · Легенда Зоны V (Прокачка Л5)",
+        "key": "L5",
+        "description": "Весь комплект можно носить с ранга: Легенда Зоны V. Ранг каждой вещи — в подсказке её слота.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Разгрузка ЭОО [Л5] — Защита: 30%. Защита от радиации: 16.7. Вместимость: 110 слотов. Крепления: Магазин ×5. Ранг: Легенда Зоны V.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка с Броней ЭОО [Л5] — Защита: 30%. Защита от радиации: 27.8. Вместимость: 200 слотов. Слот под броневставку. Активные артефакты: 10. Ранг: Легенда Зоны V.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ремень ЭОО [Л5] — Защита от радиации: 5.6. Вместимость: 110 слотов. Крепления: Фляжка, Кобура, Ножны. Активные артефакты: 10. Ранг: Легенда Зоны V.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны с Броней ЭОО [Л5] — Защита: 51%. Защита от радиации: 16.7. Вместимость: 200 слотов. Ранг: Легенда Зоны V.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 0,
+            "description": "",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Шлем ЭОО(ПНВ) [Л5] — Защита: 30%. Защита от радиации: 11.1. Вместимость: 0 слотов. Крепления: Очки ночн. видения, Фонарик. Ранг: Легенда Зоны V.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз ЭОО [Л5] — Защита: 30%. Защита от радиации: 22.2. Вместимость: 0 слотов. Ранг: Легенда Зоны V.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки ЭОО [Л5] — Защита: 51%. Защита от радиации: 8.3. Вместимость: 0 слотов. Ранг: Легенда Зоны V.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки ЭОО [Л5] — Защита: 51%. Защита от радиации: 8.3. Вместимость: 0 слотов. Ранг: Легенда Зоны V.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Тир брони": "IV",
+          "Защита торса": "52%",
+          "Защита головы": "51%",
+          "Защита ног": "51%",
+          "Защита от радиации": 116.7,
+          "Слоты артефактов": 20,
+          "Вместимость": 620
+        },
+        "images": [
+          "images/gear/combat/Armor16/Armor16_1.png",
+          "images/gear/combat/Armor16/Armor16_2.png",
+          "images/gear/combat/Armor16/Armor16_3.png",
+          "images/gear/combat/Armor16/Armor16_4.png",
+          "images/gear/combat/Armor16/Armor16_5.png",
+          "images/gear/combat/Armor16/Armor16_6.png",
+          "images/gear/combat/Armor16/Armor16_7.png",
+          "images/gear/combat/Armor16/Armor16_8.png",
+          "images/gear/combat/Armor16/Armor16_9.png",
+          "images/gear/combat/Armor16/Armor16_10.png",
+          "images/gear/combat/Armor16/Armor16_11.png",
+          "images/gear/combat/Armor16/Armor16_12.png",
+          "images/gear/combat/Armor16/Armor16_13.png",
+          "images/gear/combat/Armor16/Armor16_14.png",
+          "images/gear/combat/Armor16/Armor16_15.png"
+        ]
+      },
+      {
+        "rank": "Тир VI · Легенда Зоны X (Прокачка Л10)",
+        "key": "L10",
+        "description": "Весь комплект можно носить с ранга: Легенда Зоны X. Ранг каждой вещи — в подсказке её слота.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Разгрузка ЭОО [Л10] — Защита: 44%. Защита от радиации: 30. Вместимость: 150 слотов. Крепления: Магазин ×7. Ранг: Легенда Зоны X.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка с Броней ЭОО [Л10] — Защита: 44%. Защита от радиации: 50. Вместимость: 280 слотов. Слот под броневставку. Активные артефакты: 10. Ранг: Легенда Зоны X.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ремень ЭОО [Л10] — Защита от радиации: 10. Вместимость: 150 слотов. Крепления: Фляжка, Кобура, Ножны. Активные артефакты: 10. Ранг: Легенда Зоны X.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны с Броней ЭОО [Л10] — Защита: 68%. Защита от радиации: 30. Вместимость: 280 слотов. Ранг: Легенда Зоны X.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 0,
+            "description": "",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Шлем ЭОО(ПНВ) [Л10] — Защита: 44%. Защита от радиации: 20. Вместимость: 0 слотов. Крепления: Очки ночн. видения, Фонарик. Ранг: Легенда Зоны X.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз ЭОО [Л10] — Защита: 44%. Защита от радиации: 40. Вместимость: 0 слотов. Ранг: Легенда Зоны X.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки ЭОО [Л10] — Защита: 68%. Защита от радиации: 15. Вместимость: 0 слотов. Ранг: Легенда Зоны X.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки ЭОО [Л10] — Защита: 68%. Защита от радиации: 15. Вместимость: 0 слотов. Ранг: Легенда Зоны X.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Тир брони": "VI",
+          "Защита торса": "70%",
+          "Защита головы": "69%",
+          "Защита ног": "68%",
+          "Защита от радиации": 210,
+          "Слоты артефактов": 20,
+          "Вместимость": 860
+        },
+        "images": [
+          "images/gear/combat/Armor16/Armor16_1.png",
+          "images/gear/combat/Armor16/Armor16_2.png",
+          "images/gear/combat/Armor16/Armor16_3.png",
+          "images/gear/combat/Armor16/Armor16_4.png",
+          "images/gear/combat/Armor16/Armor16_5.png",
+          "images/gear/combat/Armor16/Armor16_6.png",
+          "images/gear/combat/Armor16/Armor16_7.png",
+          "images/gear/combat/Armor16/Armor16_8.png",
+          "images/gear/combat/Armor16/Armor16_9.png",
+          "images/gear/combat/Armor16/Armor16_10.png",
+          "images/gear/combat/Armor16/Armor16_11.png",
+          "images/gear/combat/Armor16/Armor16_12.png",
+          "images/gear/combat/Armor16/Armor16_13.png",
+          "images/gear/combat/Armor16/Armor16_14.png",
+          "images/gear/combat/Armor16/Armor16_15.png"
+        ]
+      },
+      {
+        "rank": "Тир VII · Призрак Зоны IV",
+        "key": "Leg10",
+        "description": "Весь комплект можно носить с ранга: Призрак Зоны IV. Ранг каждой вещи — в подсказке её слота.",
+        "slots": [
+          {
+            "vest": 1,
+            "description": "Разгрузка ЭОО — Защита: 48%. Защита от радиации: 32.7. Вместимость: 130 слотов. Крепления: Магазин ×8. Ранг: Призрак Зоны IV.",
+            "images": [
+              "images/slots/Vest.png"
+            ]
+          },
+          {
+            "jacket": 1,
+            "description": "Куртка с Броней ЭОО — Защита: 48%. Защита от радиации: 54.5. Вместимость: 260 слотов. Слот под броневставку. Активные артефакты: 10. Ранг: Призрак Зоны IV.",
+            "images": [
+              "images/slots/Jacket.png"
+            ]
+          },
+          {
+            "belt": 1,
+            "description": "Ремень ЭОО — Защита от радиации: 10.9. Вместимость: 110 слотов. Крепления: Ножны, Кобура, Фляжка. Активные артефакты: 10. Ранг: Призрак Зоны IV.",
+            "images": [
+              "images/slots/Belt.png"
+            ]
+          },
+          {
+            "pants": 1,
+            "description": "Штаны с Броней ЭОО — Защита: 73%. Защита от радиации: 32.7. Вместимость: 260 слотов. Ранг: Призрак Зоны IV.",
+            "images": [
+              "images/slots/Pants.png"
+            ]
+          },
+          {
+            "backpack": 0,
+            "description": "",
+            "images": [
+              "images/slots/Backpack.png"
+            ]
+          },
+          {
+            "helmet": 1,
+            "description": "Шлем ЭОО(ПНВ) — Защита: 48%. Защита от радиации: 21.8. Вместимость: 0 слотов. Крепления: Очки ночн. видения. Ранг: Призрак Зоны IV.",
+            "images": [
+              "images/slots/Helmet.png"
+            ]
+          },
+          {
+            "mask": 1,
+            "description": "Противогаз ЭОО — Защита: 48%. Защита от радиации: 43.6. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
+            "images": [
+              "images/slots/Mask.png"
+            ]
+          },
+          {
+            "glasses": 0,
+            "description": "",
+            "images": [
+              "images/slots/Glasses.png"
+            ]
+          },
+          {
+            "gloves": 1,
+            "description": "Перчатки ЭОО — Защита: 73%. Защита от радиации: 16.3. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
+            "images": [
+              "images/slots/Gloves.png"
+            ]
+          },
+          {
+            "boots": 1,
+            "description": "Ботинки ЭОО — Защита: 73%. Защита от радиации: 16.3. Вместимость: 0 слотов. Ранг: Призрак Зоны IV.",
+            "images": [
+              "images/slots/Boots.png"
+            ]
+          }
+        ],
+        "stats": {
+          "Тир брони": "VII",
+          "Защита торса": "74%",
+          "Защита головы": "73%",
+          "Защита ног": "73%",
+          "Защита от радиации": 228.8,
+          "Слоты артефактов": 20,
+          "Вместимость": 760
+        },
+        "images": [
+          "images/gear/combat/Armor16/Armor16_1.png",
+          "images/gear/combat/Armor16/Armor16_2.png",
+          "images/gear/combat/Armor16/Armor16_3.png",
+          "images/gear/combat/Armor16/Armor16_4.png",
+          "images/gear/combat/Armor16/Armor16_5.png",
+          "images/gear/combat/Armor16/Armor16_6.png",
+          "images/gear/combat/Armor16/Armor16_7.png",
+          "images/gear/combat/Armor16/Armor16_8.png",
+          "images/gear/combat/Armor16/Armor16_9.png",
+          "images/gear/combat/Armor16/Armor16_10.png",
+          "images/gear/combat/Armor16/Armor16_11.png",
+          "images/gear/combat/Armor16/Armor16_12.png",
+          "images/gear/combat/Armor16/Armor16_13.png",
+          "images/gear/combat/Armor16/Armor16_14.png",
+          "images/gear/combat/Armor16/Armor16_15.png"
+        ]
+      }
+    ],
+    "tiers": [
+      2,
+      4,
+      6,
+      7
     ]
   },
   {
