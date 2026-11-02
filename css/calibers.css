@@ -17,6 +17,12 @@ main {
     margin-top: 20px;
 }
 
+html body main {
+    overflow-y: auto;
+    scrollbar-width: thin;
+    scrollbar-color: #ffb000 #1c1c1c;
+}
+
 /* ---------- Карточки ---------- */
 .caliber-card {
     width: 180px;
