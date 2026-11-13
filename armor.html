@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Броня — GroteskStalker</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+
+    <!-- Основные css -->
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/Radiation.css">
+    <link rel="stylesheet" href="css/scroll_layout.css">
+    <!-- Компоненты css -->
+    <link rel="stylesheet" href="css/components/garland.css">
+    <link rel="stylesheet" href="css/components/fon.css">
+    <link rel="stylesheet" href="css/components/footer.css">
+    <link rel="stylesheet" href="css/components/nav.css">
+    <!-- Компоненты js -->
+    <script src="js/components/components.js"></script>
+    <style>.text-block a { color: #ffb000; }</style>
+    <script src="js/armor.js"></script>
+</head>
+<body>
+        <!-- гирлянда -->
+    <div id="garland"></div>
+
+<header>
+    <h1>Броня</h1>
+</header>
+
+<div id="nav"></div>
+
+<main class="text-page">
+    <section class="text-block">
+
+<h2>🛡️ Как работает броня</h2>
+<p>У всех комплектов одна система, защита зависит только от тира. Деления на боевые, научные и скрытные больше нет.</p>
+<ul>
+    <li>Защита одна и та же от пуль, ударов, мутантов и зомби.</li>
+    <li>Торс закрывают куртка и бронежилет, голову шлем и маска, ноги штаны. Перчатки и ботинки закрывают кисти и ступни.</li>
+    <li>Полный комплект по тирам: I 15%, II 30%, III 45%, IV 55%, V 65%, VI 70%, VII 75%.</li>
+    <li>Радиация полного комплекта: II 40, III 70, IV 120, V и выше 200. Делится по вещам: куртка 25%, маска 20%, жилет и штаны по 15%, шлем 10%, перчатки и ботинки по 7,5%. Какую зону какой комплект закрывает, смотри в разделе <a href="Radiation.html">«Радиация»</a>.</li>
+    <li>Если в комплекте нет шлема, маски или штанов, эта часть тела защищена хуже. Смотри «Защита головы» и «Защита ног» в карточке комплекта на странице <a href="gear.html">«Одежда»</a>.</li>
+</ul>
+
+<h2>🧱 Броневставки</h2>
+<p>Слот под броневставку есть в куртке каждого комплекта. Вставка гасит долю урона, который прошёл сквозь броню: от пуль, ударов, мутантов и зомби.</p>
+<ul>
+    <li>Каждое попадание её изнашивает: вставка теряет урон зоны × износ.</li>
+    <li>Сломанная вставка не работает.</li>
+    <li>Старшие вставки собираются на верстаке из предыдущей, рецепты в разделе <a href="crafting.html">«Верстак»</a>.</li>
+</ul>
+<table id="inserts-table" class="rad-table">
+    <thead><tr><th>Вставка</th><th>Гасит урона</th><th>Износ</th><th>Прочность</th><th>Цена у торговца</th><th>Где взять</th></tr></thead>
+    <tbody></tbody>
+</table>
+
+<p class="muted">Про экзоскелеты, их бонусы и инъекторы — на странице <a href="exo.html">«Экзоскелеты»</a>.</p>
+
+    </section>
+</main>
+
+<div id="footer"></div>
+
+</body>
+</html>

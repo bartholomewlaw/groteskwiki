@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Экзоскелеты — GroteskStalker</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+
+    <!-- Основные css -->
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/Radiation.css">
+    <link rel="stylesheet" href="css/scroll_layout.css">
+    <!-- Компоненты css -->
+    <link rel="stylesheet" href="css/components/garland.css">
+    <link rel="stylesheet" href="css/components/fon.css">
+    <link rel="stylesheet" href="css/components/footer.css">
+    <link rel="stylesheet" href="css/components/nav.css">
+    <!-- Компоненты js -->
+    <script src="js/components/components.js"></script>
+    <style>.text-block a { color: #ffb000; }</style>
+</head>
+<body>
+        <!-- гирлянда -->
+    <div id="garland"></div>
+
+<header>
+    <h1>Экзоскелеты</h1>
+</header>
+
+<div id="nav"></div>
+
+<main class="text-page">
+    <section class="text-block">
+
+<h2>🦾 Что даёт экзоскелет</h2>
+<p>Экзоскелет надевается в слот рюкзака. Вместимость и броня каждого — в карточках на странице <a href="gear.html">«Одежда»</a>, раздел «Рюкзаки и экзоскелеты». Кроме этого он даёт:</p>
+<ul>
+    <li><strong>Прыжок выше.</strong> Первый образец и экзоскелеты группировок (Свобода, Долг, Наёмники, Монолит) прибавляют к прыжку немного, второй образец больше, третий и четвёртый, а также оба невидимых рюкзака, сильнее всех. Артефакты на прыжок складываются с экзоскелетом.</li>
+    <li><strong>Переносимый вес.</strong> Экзоскелет снимает с тебя часть веса: первый образец 250 кг, второй 350 кг, третий и четвёртый 500 кг.</li>
+    <li><strong>Быстрее спринт</strong> (подробнее ниже).</li>
+    <li><strong>Слоты</strong>: детектор, инъектор и у старших образцов артефакты (ниже).</li>
+</ul>
+
+<h2>🏃 Ускорение спринта</h2>
+<table class="rad-table">
+    <thead><tr><th>Экзоскелет</th><th>Спринт</th></tr></thead>
+    <tbody>
+        <tr><td>Первый образец, экзоскелеты группировок</td><td>+2%</td></tr>
+        <tr><td>Второй образец</td><td>+5%</td></tr>
+        <tr><td>Третий образец</td><td>+8%</td></tr>
+        <tr><td>Четвёртый образец (Grotesk, Ратник, Эра), Невидимый рюкзак 2</td><td>+25%</td></tr>
+    </tbody>
+</table>
+<ul>
+    <li>Работает при спринте вперёд стоя. Выносливость тратится как при обычном спринте, когда она почти кончилась, ускорение пропадает.</li>
+    <li>В приседе не ускоряет. Прыжок или перелезание сбрасывают ускорение до обычного бега.</li>
+    <li>С автобегом в режиме спринта ускорение тоже работает.</li>
+</ul>
+
+<h2>🔌 Слоты</h2>
+<table class="rad-table">
+    <thead><tr><th>Экзоскелет</th><th>Детектор</th><th>Инъектор</th><th>Артефакты</th></tr></thead>
+    <tbody>
+        <tr><td>Первый образец (Grotesk, Ратник, Эра), группировки</td><td>1</td><td>1</td><td>—</td></tr>
+        <tr><td>Второй образец</td><td>1</td><td>1</td><td>2</td></tr>
+        <tr><td>Третий и четвёртый образцы, невидимые рюкзаки</td><td>1</td><td>1</td><td>5</td></tr>
+    </tbody>
+</table>
+
+<h2>💉 Инъектор в экзоскелете</h2>
+<p>В слот «Инъектор» кладётся один инъектор. Колется он клавишей <strong>X</strong> («Использовать инъектор»), не доставая его из экзоскелета и не тратя время на анимацию. Клавишу можно переназначить в настройках управления.</p>
+<ul>
+    <li>Инъектор после укола исчезает, следующий снова кладёшь в слот.</li>
+    <li>После укола экзоскелет перезаряжается <strong>10 секунд</strong>.</li>
+    <li>Испорченный инъектор не сработает.</li>
+</ul>
+<table class="rad-table">
+    <thead><tr><th>Инъектор</th><th>Что делает</th></tr></thead>
+    <tbody>
+        <tr><td>Инъектор малого воздействия</td><td>+10 здоровья, лечит болезнь «куру» (от мяса людей)</td></tr>
+        <tr><td>Инъектор среднего воздействия</td><td>+30 здоровья</td></tr>
+        <tr><td>Инъектор значительного воздействия</td><td>+50 здоровья</td></tr>
+        <tr><td>Экспериментальный инъектор</td><td>+70 здоровья и +1200 крови</td></tr>
+        <tr><td>Инъектор для лечения переломов</td><td>сращивает сломанные ноги, снимает шок, восстанавливает ноги</td></tr>
+    </tbody>
+</table>
+<p class="muted">Другие препараты (Rad-X, Rad-Z, морфин и прочие) в слот экзоскелета не ставятся. Где брать инъекторы — на странице <a href="medical.html">«Медицина»</a>.</p>
+
+    </section>
+</main>
+
+<div id="footer"></div>
+
+</body>
+</html>
