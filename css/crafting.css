@@ -380,3 +380,18 @@ main {
         margin: 16px;
     }
 }
+
+/* Какой квест что открывает */
+.quest-unlocks { max-width: 900px; margin: 16px auto; padding: 0 18px; background-color: #2a2a2a; border-radius: 10px; box-shadow: 0 0 18px rgba(0,0,0,0.55); }
+.quest-unlocks summary { cursor: pointer; padding: 12px 0; color: #ffb000; font-size: 18px; font-weight: bold; list-style: none; }
+.quest-unlocks summary::-webkit-details-marker { display: none; }
+.quest-unlocks summary::before { content: "▸ "; }
+.quest-unlocks[open] summary::before { content: "▾ "; }
+.quest-unlocks p { margin: 0 0 8px; }
+.quest-table { width: 100%; border-collapse: collapse; margin: 0 0 16px; font-size: 14px; }
+.quest-table th, .quest-table td { border: 1px solid #333; padding: 6px 8px; text-align: left; vertical-align: top; }
+.quest-table th { background-color: #111; color: #ffb000; }
+.quest-table tr:nth-child(even) td { background-color: #232323; }
+.quest-table td:first-child { white-space: nowrap; color: #ffb000; }
+@media (max-width: 600px) { .quest-table td:first-child { white-space: normal; } }
+
