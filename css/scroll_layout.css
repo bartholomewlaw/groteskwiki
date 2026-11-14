@@ -88,3 +88,40 @@ main {
     scrollbar-width: thin;
     scrollbar-color: #ffb000 #1c1c1c;
 }
+
+/* ======================
+   Телефоны: листается вся страница
+====================== */
+
+@media (max-width: 768px) {
+    html, body {
+        height: auto;
+        overflow: visible;
+    }
+
+    main,
+    html body main {
+        flex: none;
+        overflow: visible;
+    }
+
+    main > *,
+    main > .caliber-table-wrap {
+        flex: none;
+        max-width: 100%;
+    }
+
+    .text-block,
+    .rules-container,
+    .rank-container,
+    .caliber-grid,
+    .artefact-grid,
+    .furniture-grid,
+    .kits-grid,
+    #crafting-recipes {
+        flex: none;
+        height: auto;
+        min-height: 0;
+        overflow-x: auto;
+    }
+}

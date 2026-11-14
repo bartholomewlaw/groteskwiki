@@ -63,3 +63,16 @@ nav ul li a:hover {
 .dropdown:hover .dropdown-content {
     display: block;
 }
+@media (max-width: 768px) {
+    nav ul.tabs {
+        flex-wrap: wrap;
+    }
+
+    nav ul.tabs > li {
+        margin: 0 2px;
+    }
+
+    nav ul.tabs > li > a {
+        padding: 8px 10px;
+    }
+}
